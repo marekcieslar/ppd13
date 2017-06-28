@@ -1,6 +1,4 @@
 let plan = {
-    title: 'Plan pozytywnego działania',
-    author: 'Napoleon Hill',
     months: [{
         name: 'styczeń',
         motto: 'cechy charakteru',
