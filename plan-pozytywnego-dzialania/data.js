@@ -802,28 +802,28 @@ let plan = {
             description: 'Najbardziej szlacetne spośród ludzkich relacji zostały ukształtowane w duchu współpracy i harmonii. Współpraca na wiele sposobów jest fizycznym wyrazem twojej dbałości i troski o kolegów. Kiedy pracujesz z innymi w duchu przyjaznej współpracy, zachowujesz się zgodnie z podstawowymi zasadami większości religii i wszystkich udanych społeczeństw. Każdy czuje czasami targanie zazdrości i zawiści, któremu zwykle towarzyszy impuls do przysporzenia problemów lub kłopotów ludziom nielubianym. Prawdziwi jednak ludzie sukcesu nauczyli się powściągać takie odruchy. Wiedzą, że jeśli skoncentrują się na własnych celach i po drodze pomogą innym, to w końcu osiągną swoje zamierzenia. Nie jest łatwo zawsze być osobą przyjacielską i współpracującą, jednak w końcu przekonujemy się, że jest to warte wysiłku.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'przyjazna współpraca zawsze się opłaca, ponieważ tworzy wśród członków zespołu pozytywną postawę umysłową, która nie uznaje przeciwności',
+            description: 'W każdym zorganizowanym przedsięwzięciu występują przeciwności. Czasem pojawiają się jako problemy techniczne; czasem są nieporozumieniem pomiędzy członkami zespołu co do szlaku, którym najlepiej pójść. Jeżeli dawałeś przykład inicjatywy i otwartego porozumiewania się, to okaże się, że twój zespół posiada zasoby umysłowe i duchowe, by przezwyciężyć tego typu walki.<br>Grupa ludzi, którzy wietzą swemu przywódcy i sobie nawzajem, nie będzie tracić energii, aby wygrać prestiż dla siebie. Wiedzą, że wszyscy skorzystają z rozwiązania i mają motywację, by znaleźć je, dzieląc się wiedzą i pomysłami. Z tych wielu elementów wprawny lider potrafi stworzyć konieczne rozwiązanie, jednak tylko wtedy, kiedy zwycięży duch przyjaźni i uczciwości.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'ci, którzy nie potrafią przyjmować z wdzięcznością poleceń, nie mają po co ich wydawać',
+            description: 'Jeżeli jesteś lekkomyślnym czy kłótliwym pracownikiem, który nie potrafi przyjmować poleceń od innych, to twoim przeznaczeniem jest pozostanie na samym dole sił wytwórczych. Zanim będziesz mógł liczyć na przewodzenie innym ludziom, musisz nauczyć się skutecznie kierować samym sobą i swymi związkami z ludźmi, szczególnietymi na wyższych stanowiskach w firmie. Dopóki nie posiądziesz sztuki opanowywania swych relacji z własnym szefem czy szefami, nigdy nie będziesz w stanie zarządzać związkami z podwładnymi.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że nikt nie może zranić twoich uczuć bez twojej współpracy i przyzwolenia',
+            description: 'Nikt nie może wywołać w tobie żadnej reakcji emocjonalnej, jeśli najpierw nie dasz mu na to pozwolenia. Tylko ty jesteś odpowiedzialny za swoje uczucie i emocje. Kiedy wiesz, co zamierzasz zrobić ze swoim życiem, nie pozwolisz, by męczące sytuacje na długo odciągnęły cię od twego celu. Jeśli wyznaczasz sobie ambitne cele i entuzjastycznie pracujesz dla niech, szybko zrozumiesz, że szkoda czasu na to, by pozwolić drobnym przykrościom przygnębiać cię i odwodzić od celu.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'jeśli odwiedzasz przyjaciół tylko wtedy, kiedy od nich czegoś potrzebujesz, wkrótce znajdziesz się bez przyjaciół',
+            description: 'Jest wiele mądrości w starym powiedzeniu: "Jeśli pragniesz przyjaciół, bądź przyjacielem". Przyjaźć oznacza dawanie bez spodziewania się czegokolwiek w zamian. Zajęci ludzie sukcesu nie poszukują nowych znajomych. Jeśli chcesz stać się ich przyjacielem, musisz podjąć wysiłek, by się z nimi zaprzyjaźnić. Pozwól im poznać, że interesują cię jako ludzie, że nie zajmuje cię, co mogą dla ciebie zrobić, a może się okazać, iż zyskałeś prawdziwych i oddanych przyjaciół.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'do przyjaźni trzeba dorastać, a nie traktować jej za oczywistość',
+            description: 'Twoi przyjaciele będą tym, kim ich uczynisz. Jeśli chętnie ofiarowujesz swój czas i zawsze okazujesz wrażliwość na innych, to twoi przyjaciele staną się uprzejmi i wspaniałomyślni. Jeżeli jesteś osobą, która przyjmuje istnienie przyjaciół za oczywistość, niewiele dając i nie oczekując w zamian, będziesz przyciągał przyjaciół przejawiających te same cechy. W przyjaźni podobieństwa się przyciągają.<br>Od czasu do czasu oceniaj swoje zachowanie, aby określić, do jakiego typu przyjaciół się zaliczasz. Czy przypominasz osobę, którą sam chciałbyś mieć za przyjaciela? Czy chętnie dajesz więcej niż spodziewasz się w zamian, czy też wciąż prosisz, a nigdy nie obdarowujesz? czy poświęcasz czas na to, by utrzymywać kontakt i pamiętać o różnych specjalnych okazjach przyjaciela? Kiedy zaczynasz być tak pochłonięty własnymi interesami, że zaopminasz o przyjaciołach, jesteś na najlepszej drodze pozostania bez przyjaciół.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'Jeżeli pragniesz znajomości bądź bogaty; jeśli zależy ci na przyjaźni, bądź przyjacielem',
+            description: 'Nic tak jak pieniądze nie czyni cię atrakcyjnym i pociągającym dla innych. Jednak ludzie, których przyciągado ciebie tylko to, co możesz dla nich zrobić, stają się znajomymi, nie przyjaciółmi. Jeżeli zdobędziesz bogactwo, zyskasz wielu znajomych, ale nigdy nie będziesz miał prawdziwych przyjaciół, jeśli sam nei jesteś dla innych przyjacielem. Bądź bardzo ostrożny i selektywny w dobieraniu przyjaciół. Decyduj, by otaczać się pozytywnymi ludźmi, którzy lubią cię takiego, jakim jesteś i zachęcają, byś był sobą, i to najlpeszym jak potrafisz.'
         }, {
             day: 15,
             motto: '',
