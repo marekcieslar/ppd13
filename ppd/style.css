@@ -1,5 +1,19 @@
-h1, h2 {
+* {
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
     text-transform: uppercase;
+}
+
+li {
+    list-style: none;
+    padding: 0px;
+}
+li > h3 {
+    text-align: left;
 }
 
 .container {
@@ -7,4 +21,14 @@ h1, h2 {
     margin: 40px auto;
     padding: 0px 25px;
     box-sizing: border-box;
+}
+Section:after {
+    content: "";
+    display: block;
+    width: 60%;
+    margin: 25px auto 0px auto;
+    border-bottom: 3px solid #555;
+}
+section:last-child:after {
+    border: none;
 }

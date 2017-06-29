@@ -824,32 +824,32 @@ let plan = {
             description: 'Nic tak jak pieniądze nie czyni cię atrakcyjnym i pociągającym dla innych. Jednak ludzie, których przyciągado ciebie tylko to, co możesz dla nich zrobić, stają się znajomymi, nie przyjaciółmi. Jeżeli zdobędziesz bogactwo, zyskasz wielu znajomych, ale nigdy nie będziesz miał prawdziwych przyjaciół, jeśli sam nei jesteś dla innych przyjacielem. Bądź bardzo ostrożny i selektywny w dobieraniu przyjaciół. Decyduj, by otaczać się pozytywnymi ludźmi, którzy lubią cię takiego, jakim jesteś i zachęcają, byś był sobą, i to najlpeszym jak potrafisz.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'jeśli musisz kogoś zawieść, upewnij się, czy nie jest to czasem przyjaciel, który podźignął cię, gdy byłeś na dnie',
+            description: 'Wszyscy mamy krótką pamięć. Zajmujemy się zbytnio własnymi sprawami i codziennymi troskami, tracąc z oczu szlak przyjaciół. Z pewnością jednak nadejdzie chwila, kiedy będziesz musiał wybrać pomiędzy robieniem tego, czego pragniesz i tego, co musisz zrobić. Kiedy staniesz przed takimi decyzjami, pamiętaj, by nigdy, w żadnych okolicznościach nie porzucić prawdziwych i lojalnych przyjaciół, którzy byli przy tobie wówczas, kiedy ich potrzebowałeś.<br>Sprawiając zawód przyjacielowi, który pomógł ci w potrzebie, nie tylko ujemnie wpływasz na waszą przyjaźć, ale wyrządzasz też poważną szkodę szacunkowi dla samego siebie. Gdy rozczarowujesz przyjaciela, niezależnie od tego, jak ciężkie mogą być twoje własne obciążenia, sprzeniewierzasz się także samemu sobie. Jeżeli w żaden sposób nie możesz spełnić tego, czego chciałby twój dobry przyjaciel, znajdź inny sposób by mu to zrekompensować.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'przyjaciel to ktoś kto wie o tobie wszystko i nadal cię szanuje',
+            description: 'Prawdziwy przyjaciel jest bezcennym darem. Jeśli odkrywamy swoje nadzieje, marzenia i najgłębsze tajemnice innym, a oni nadal nas lubią i szanują, to takich ludzi powinniśmy chołubić, pielęgnować. Zbyt często jedyną przyczynę, dla krótej inni pragną spędzać z nami czas - być naszymi przyjaciółmi - stanowi to, co sądzą, że możemy dla nich zrobić, a nie odwrotnie. Tymczasem prawdziwa przyjaźń jest wzajemna i każdy z przyjaciół korzysta tak samo.<br>Możesz zaskarbić sobie przyjaźń innych będąc osobą zasługującą na szacunek. Kiedy inni cię poważają, powinno to uczynić cię jeszcze bardziej świadomym twojej odpowiedzialności za traktowanie ich z takim samym szacunkiem i poważaniem.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'przyjaźń potrzebuje często wyrażania, aby utrzymać się przy życiu',
+            description: 'wszyscy jesteśmy ludźmi, ze swymi chwilami słabości, słabostkami i niepewnościami. Każdy z nas potrzebuje, by być zauważonym z powodu czegoś wyjątkowego, co czyni nas niezwykłymi i pragniemy słyszeć, że się nas docenia. Utrzymywanie przyjaźni wymaga wysiłku i wytrwałego wyrażania, zarówno w słowach, jak i w czynach. Często mów swym przyjaciołom, jak bardzo ich cenisz. Pamiętaj o ważnych dla nich datach i okazjach. Gratuluj im osiągnięć. A najważniejsze, pozwól im poznać, że znajdujesz się przy nich zawsze, kiedy tylko cię potrzebują.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'przyjaźń widzi błędy u przyjaciela, ale o nich nie mówi',
+            description: 'Prawdziwa przyjaźń rozpoznaje niedoskonałości, przyjmuje je jako część indywidualnej konstrukcji i skupia się na pozytywnych aspektach, zamiast tłumaczyć błędy. Przyjaciele nie chcą, byś komentował ich upadki, bardziej niż ty pragniesz krytyki z ich strony. Kiedy są zniechęcenie lub rozczarowani samymi sobą, słowa zachęty posłużą znacznie lepiej niż kazanie<br>Aby być przyjacielem, jakiego sam chciałbyś mieć, stań się dobrym słuchaczem, oferuj radę, kiedy cię o to proszą i ceń jak skarb zaufaie, jakie pokładają w tobie przyjaciele. Chwal ich za osiągnięcia i solidaryzuj się, kiedy im się nie udaje, ale unikaj oferowania "konstruktywnej krytyki" czy grania roli "adwokata diabła". Większość z nas wymaga od siebie znacznie więcej niż ktokolwiek inny i jesteśmy boleśnie świadomi naszych niedoskonałości. Przyjaciele nie muszą nam o nich przypominać.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'dobra drużyna piłkarska polega bardziej na harmonijnej współpracy niż na indywidualnych umiejętnościach',
+            description: 'praca zespołowa jest "wysiłkiem współpracy członków zespołu w osiąganiu wspólnego celu". Kluczowe słowo w tej definicji stanowi wysiłek współpracy. Bez wsparcia całej grupy żadna drużyna nie przetrwa długo. Piłkarze dobrze wiedzą, że żaden z zawodników drużyny nie może być gwiazdą we wszystkich meczach. Większość chwil chwały opiera się na długiej serii gier, w których każdy jest wygrany dzięki oddanemu, zdeterminowanemu, angażującemu do szpiku kości blokowaniu i przytrzymywaniu przeciwnika.<br>Drużyna zwycięska to ta, która uznaje sukces jednego z członków zespołu za sukces całej drużyny. I odwrotnie, pewnym sposobem na wypracowanie przegranej jest tworzenie środowiska, w którym członkowie zespołu rywalizują ze sobą nawzajem zamiast z przeciwnikie. Kiedy wszyscy gracze dają z siebie wszystko w każdej sytuacji - czy prowadząc piłkę, czy robiąc miejsce dla kogoś innego - drużyna wygrywa i tak samo zwycięża każdy pojedynczy jej członek.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'gdy prosisz kogoś, by coś zrobił, powiedz mu: co, dlaczego, kiedy, gdzie i jak najlepiej może to uczynić',
+            description: 'Na wszystkich ma wpływ własna przeszłość i doświadczenie. Postrzegamy polecenia w kontekście swego wykształcenia, doświadczenia, dziedzictwa, kultury własnej firmy i wielu innych czynników. Dobrzy kierownicy wiedzą o tym i starają się, by ich polecenia były jasne, zwęzłe i dobrze zrozumiane. Zdają sobie sprawę także z tego, że muszą opruszać się po wąskiej ścieżce pomiędzy wydaniem odpowiedniej instrukcji, a zabiciem motywacji pracowników przez pozbawienie ich wystarczającej swobody w wykonywaniu pracy.<br>Możesz uchwycić odpowiednią równowagę pomiędzy instruowaniem a motywacją poprzez zachęcenie pracowników do uczestniczenia w wyznaczaniu celów dla samych siebie i swojego zespołu, poprzez pomaganie im w opracowaniu planu osiągania ich celów oraz dopilnowanie, by każdy dokładnie rozuimał misję zespołu i swoją rolę w jej wypełnieniu. Zaproponuj, by członkowie zespołu zgłaszali się od czasu do czasu w celu powiadomienia o swych postępach, a potem zejdź im z drogi i tylko dopinguj do zwycięstwa.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że ton twego głosu często lepiej niż słowa oddaje to, co kryje się w twym umyśle',
+            description: 'w chwili konfliktu propozycja czy kompromis optrafią ocalić zagrożoną relację w pracy. Zniechęcony pracownik może zostać ponownie zmotywowany za pomocą kilku starannie dobranych słów. W podobnych sytuacjach dobry kierownik patrzy poza bieżącą sytuację i działa w kierunku zachowania przyszłych korzyści. Jeżeli jednak twój głos zdradza gniew, strach czy rozpacz, to ta właśnie emocja, a nie mądrość, którą oferujesz, zostanie zapamiętana przez innych.<br>Ci, którzy wznieśli się na szczyt w dowolnej strukturze, potrafią kontrolować swoje emocje. Kiedy zajmujesz pozycję przywódczą, inni będą uważnie obserwować, jakie wysyłasz sygnały. Jeśli chcesz inspirować innych i okazywać, że dbasz o wszystkich członków swego zespołu, musisz nauczyć się kierować sobą i sposobami, jakimi przekazujesz wiadomości innym.'
         }, {
             day: 22,
             motto: '',
