@@ -27,7 +27,7 @@ Section:after {
     display: block;
     width: 60%;
     margin: 25px auto 0px auto;
-    border-bottom: 3px solid #555;
+    border-bottom: 1px solid #555;
 }
 section:last-child:after {
     border: none;

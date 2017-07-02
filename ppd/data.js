@@ -852,44 +852,44 @@ let plan = {
             description: 'w chwili konfliktu propozycja czy kompromis optrafią ocalić zagrożoną relację w pracy. Zniechęcony pracownik może zostać ponownie zmotywowany za pomocą kilku starannie dobranych słów. W podobnych sytuacjach dobry kierownik patrzy poza bieżącą sytuację i działa w kierunku zachowania przyszłych korzyści. Jeżeli jednak twój głos zdradza gniew, strach czy rozpacz, to ta właśnie emocja, a nie mądrość, którą oferujesz, zostanie zapamiętana przez innych.<br>Ci, którzy wznieśli się na szczyt w dowolnej strukturze, potrafią kontrolować swoje emocje. Kiedy zajmujesz pozycję przywódczą, inni będą uważnie obserwować, jakie wysyłasz sygnały. Jeśli chcesz inspirować innych i okazywać, że dbasz o wszystkich członków swego zespołu, musisz nauczyć się kierować sobą i sposobami, jakimi przekazujesz wiadomości innym.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'we wszystkim we wszechświecie istnieje harmonia, za wyjątkiem relacji międzyludzkich',
+            description: 'Nasz wszechświat charakteryzuje porządek i harmonia, jednak my jako istoty ludzki musimy wciąż walczyć, aby w naszych związkach osiągnąć takie same charakteerystyki. Właściwie istoty ludzkie zdają się uważać współpracę z innymi za nienaturalną. Jednostki odnoszące sukcec to ci, którzy nauczyli się płynąć pod prąd, robić to, czego inni nie chcą wykonywać. Posiedli sztukę wspólnej pracy dla korzyści całej grupy.<br>Osiągnięcie harmonii w jakimkolwiek związku - biznesowym, zawodowym czy osobistym - wymaga pracy. Znajdź pocieszenie w fakcie, że możesz zdobyć znacznie więcej pracując z innymi niż przeciw nim.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'tarcie w maszynach kosztuje; Tarcie w stosunkach międzyludzkich zubaża zarówno ducha, jak i konto bankowe',
+            description: 'Niezgoda w dowolnej relacji ma często nieprzyjemne implikacje finansowe, ale najkosztowniejsza jest ona w wymiarze ludzkim. Kiedy jesteś uwikłany w pełen niezgody związek, energia fizyczna i umysłowa, która mogłaby być skierowana w stronę pozytywnych osiągnięś, zostaje niepotrzebnie rozproszona, roztrwoniona na stresujące, nnieproduktywne działania. Niestety, niezależnie od przyczyn tarcia pomiędzy ludźmi, zawsze ma ono zły wpływ na każdą z zaangażowanych osób.<br>Kiedy znajdujesz się w skłóconym związku, niewiele istnieje dopuszczalnych alternatyw. Możessz rozpracować swoje problemy albo opuścić zespół. Tylko ty wiesz, które z rozwiązań jest najlepsze dla ciebie, jednak jeśli obiektywnie ocenisz powody swojego zaangażowania w zespole i uznasz, że wciąż są aktualne, to najlepszy trybem postępowania może być przeniknięcie dupy i znalezienie rozwiązania dającego się zaakceptować przez wszystkich. Jeżeli nie możesz tego zrobić, to chyba nadszedł czas na opuszczenie partnerów i poszukani innej drogi w kierunku twojego celu.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'jeśli nie potrafisz zgodzić się z innymi, możesz przynajmniej powstrzymać się od kłótni z nimi',
+            description: 'Kiedy zaplączesz się w kłótnię z drugą osobą, to może to być jedyna sytuacja, w której nierobienie niczego jest lepsze od robienia czegoś. Oto praktyczna przyczyna takiego stanu rzeczy: kiedy kłócisz się z innymi - nawet jeśli wygrasz spór - obciążasz się dużym ciężarem niepotrzebnego stresu. Nie możesz zachowywać pozytywnej postawy umysłowej, kiedy pozwalasz negatywnym emocjom, takim jak złość czy nienawiść, zdominować twe myśli.<br>Nikt nie może cię przynębić ani rozzłościć, jeśli nie pozwolisz mu na to. Zamiast kłócić się z innymi, spróbuj zadawać nie zagrażające nikomu pytania, takie jak - dlaczego czujes się w ten sposób? czym cię rozzłościłem? co mogę zrobić, by ci pomóc? Może się okazać, że cała sytuacja powstała w wyniku niporozumienia, które szybko da się naprawić. Nawet jeśli problemy są poważniejsze, twoje pozytywne zachowanie w dużej mierze przyczyni się do ich rozwiązania.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że do prowadzenia kłótni potrzeba co najmniej dwojga ludzi',
+            description: 'W ogniu niezgody trudno jest pamiętać, że do kłótni potrzeba dwóch osób. Pomocne może się okazać przypomnienie sobie, że nikt nie może się z tobą nie zgadzać, żeśli ty zgadzasz się z nim. Nie próbujemy sugerować, że powinieneś iść na kompromis co do swoich norm. Można jednak pozostać wiernym swoim pzekonaniom, jednocześnie poszukując płaszczyzny produktywnej współpracy z tymi, którzy na początku nie zgadzali się z sobą.<br>Jeśli ktoś jest wytrącony z równowagi z twego powodu lub z powodu sytuacji, która dotyczy ciebie, daj mu poznać, że rozumiesz, jak się czuje. Przebadaj problem z jego punktu wydzenia. Co jest źródłem konfliktu? W jaki sposób mógłby być rozwiązany dla dobra interesów wszystkich zaangażowanych? Jaki był twój udział w powstaniu problemu? Kiedy starasz się znaleźć rozwiązanie, zamiast usiłować zrzucić na kogoś winę, inni prawie zawsze zareagują w podobny sposób.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'wzajemne zrozumienie stanowi fundament wszystkich zadowalających związków międzyludzkich',
+            description: 'Kiedy nawiązujemy relację, większość z nas stawia dwa podstawowe pytania: "czy mogę ci ufać?" i "Czy na prawdę dbasz o mnie?" Zależnie od naszych wcześniejszych sukcesów w partnerstwie z innymi - osobistym czy w buznesie - odpowiedź może nie nadejść szybko. Zaufanie do drugiego człowieka często rozwija się stopniowo, w miarę jak osoby zaangażowane w związek oddają się sukcesowi i szczęściu drugiego.<br>Chociaż zaufanie i zawierzenie stanowią podstawowe podpory wszystkich udanych związków, to jednak są kruche i delikatne. Relacja trwająca miesiące czy nawet lata może zostać nieodwracalnie zniszczona przez kilka niegrzecznych słów czy pojedynczy, bezmyślny czyn. Nie pozwól sobie na działanie w pośpiechu albo utratę kontroli nad emocjami w ważnych dla ciebie związkach.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'dobry rybak, robi wszystko, by założyć jako przynętę to, co lubi ryba - może się to okazać dobrą radą dla tych, którzy pragną powodzenia w relacjach międzyludzkich',
+            description: 'Podobnie jak w rozmowie dobrze jest raczej słuchać niż mówić, tak w relacjach międzyludzkich mądrze jest mieć na względzie bardziej dobro innych niż własne życzenia i pragnienia. Jeśli stale usiłujesz traktować innych tak, jakbyś chciał, by oni traktowali ciebie, stajesz się osobą, którą inni lubią mieć w pobliżu, tym kto budzi ich szacunek, zaufanie i lojalność.<br>Kiedy nauczysz się kierować swoimi emocjami i własnym ja oraz zważać zawsze na potrzeby i pragnienia innych, to w nieunikniony sposób "założysz na swój haczyk przynętę" uprzejmości i wrażliwości oraz "złapiesz" więcej przyjaciół niż mógłbyś zliczyć.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'tym, którzy tworzą dobre koleżeństwo, nigdy nie zabraknie przyjaciół',
+            description: 'Jeśli masz przyjaciela, który zbacza ze swej drogi, by umocnić przyjaźń pomiędzy wami, uważaj się za wyjątkowego szczęściarza. W dzisiejszych szalonych, ruchliwych społeczeństwach takie jednostki zdarzają się niezmiernie rzadko. Przy wymaganiach narzucanych przez kariery, rodziny i wściekłe tempo codziennego życia, większość z nas ma mało czasu dla siebie, a jeszcze mniej dla przyjaciół. A przecież wiemy, że ofiarowana darmo i z wdzięcznością przyjęta przyjaźń jest jednym z najwspanialszych darów życia.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'każdy trwały sukces jest oparty o harmonijne relacje międzyludzkie',
+            description: 'Większość z nas nie potrafi "przejść tego w pojedynkę". Wszyscy potrzebujemy innych - czy to w naszych karierach, relacjach osobistych czy w życiu - jeśli mamy osiągnąć poziom sukcesu, jakiego pragniemy. Poza tym, jaki byłby sens posiadania tego wszystkeigo, gdybyśmy nie mieli nikogo, na kim nam zależy, by z nim to dzielić? Możesz sam zdecydować, czy pracować z innymi, czy ignorować ich czy też działać przeciw nim, jednak największe sukcesy w życiu przychodzą do tych, którzy harmonijnie pracują z innymi. Kiedy twoje osobiste cele są zbieżne z celami innych, to nie tylko siła wspólnej pracy przynosi wam korzyście, ale też taka współpraca powoduje występowanie efektu synergicznego*, który pozwala zdobyć znacznie więcej ponad zwykłą sumę indywidualnych wysiłków.<br><br>*Efekt synergiczny - współdziałanie różnych czynników, skuteczniejsze niż suma ich oddzielnych działań'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'jeśli musisz wkraczać w stosunki międzyludzkie, postaraj się wprowadzać pokój; przekonasz się, że nie będziesz miał dużej konkurencji',
+            description: 'Kiedy stajemy wobec konfliktu pomiędzy osobami, większość z nas skłania się raczej ku odsunięciu się od sytuacji niż zaangażowaniu w nią. Jeśli pozwalamy sobie na włączenie się, zwykle przyjmujemy stanowisko jednej ze stron kosztem drugiej. Oczywiście, takie zachowanie niewiele przyczynia się do rozwiązania problemu i może w rzeczywistości rozjątrzyć sprawę. Jednak kiedy podejmujesz prawdziwą próbę rozwiązania sytuacji, nie powinieneś się dziwić, jeśli okażesz się jedyny.<br>Wszyscy jesteśmy jednostkami skomplikowanymi, o uczuciach i emocjach, które nie zawsze w pełni rozumiemy. Czasem samo zaangażowanie się strony nie zainteresowanej wystarczy, by pomóc w rozwiązaniu sporu. Jeśli jednak znajdziesz się pośrodku, upewnij się, że nie pozwalasz sobie wejść na pozycję, w której musisz wybierać pomiędzy pragnieniami tych osób. Pracuj nad kompromisem najlepiej służącym interesom każdego.'
         }, {
             day: 31,
-            motto: '',
-            description: ''
+            motto: 'kiedy dwoje lub więcej ludzi łączy swoje myśli i działania w duchu harmonii dla osiągnięcia określinego celu, to mają zapewnioną niemal nieograniczoną moc',
+            description: 'Mistrzowski związek umysłów obejmuje dwie lub więcej osób wspólnie pracujących w idealnej harmonii nad osiągnięciem jednego celu. Takie partnerstwo stwarza super siłę, która umożliwia każdemu z członków robienie więcej, niż którykolwiek byłby w stanie dokonać w pojedynkę. Starannie dobieraj partnerów do takiej współpracy. Łącz się z ludźmi, których zalety uzupełniają twoje. Jeżeli na przykład jesteś osobą bardzo kreatywną, trzyskającą genialnymi pomysłami, to idealnym zrównoważeniem twoich skłonności twórczych będzie osoba logiczna, o uporządkowanym, analitycznym umyśle. Przede wszstkim jednak otaczaj się ludźmi, którzy podzielają twoje pozytywne wartości i oddanie podobnym poziomom dokonań.'
         }]
     }, {
         name: 'sierpień',
