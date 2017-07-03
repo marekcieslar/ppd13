@@ -23,11 +23,9 @@ let virtuesTitle = document.querySelector('.virtues-title');
 let virtuesText = document.querySelector('.virtues-text');
 
 // get number of week
-let januaryFirst = new Date(today.getFullYear(), 1, 1);
-let week = Math.ceil((((today - januaryFirst) / 86400001) + todayDay + 1) / 7);
-
-let virtueNum = (week + 2) % 13;
-
+let januaryFirst = new Date(today.getFullYear(), 0, 1);
+let week = Math.ceil( (((today - januaryFirst) / 86400000) + januaryFirst.getDay() + 1) / 7);
+let virtueNum = (week) % 13;
 virtuesTitle.innerHTML = virtues.virtues[virtueNum].name;
 virtuesText.innerHTML = virtues.virtues[virtueNum].description;
 
