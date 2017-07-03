@@ -896,32 +896,32 @@ let plan = {
         motto: 'klęska i porażka',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'edison zawiódł dziesięć tysięcy razy zanim udoskonalił żarówkę elektryczną - nie martw się, jeśli raz ci się nie powiedzie',
+            description: 'Bezsprzecznie największy wynalazca Ameryki, Thomas Edison, posiadał wyjątkowo pozytywne postrzeganie świata, które znacznie zwiększało jego zdolności jako wynalazcy. Podczas gdy inni mogliby popaść w beznadziejne zniechęcenie po tysiącu nieudanych prób nad uzyskaniem światła elektrycznego, wielki Edison traktował każdy niepomyślny eksperyment jako eliminację projektu, który się nie sprawdziła, a więc zbliżający go do udanego rozwiązania<br>Wszyscy możemy się uczyć od Edisona. Historia obfituje w opowieści o wynalazcach, którzy zbyt wcześnie zrezygnowali i poddali, się czy górnikach, którzy znaleźli złoto dostłownie metr od miejsca, gdzie ktoś inny przestał kopać. Niewiele jest w życiu przeszkód, które nie ustąpią konsekwentnemu, wytrwałemu, inteligentnemu i pozytywnemu działaniu. Kiedy zniechęcasz się po niepowodzeniu, przypomnij sobie dziesięć tysięcy poreażek poniesionych przez Edisona, zanim doszedł do rozwiązania, które na zawsze zmieniło świat.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'przeciętny człowiek zrezygnowałby przy pierwszej porażce - dlatego jest tylu przeciętnych ludzi, a tylko jeden Edison'
+            description: 'Edison zauważył kiedyś, że większość ludzi nie rozpoznaje okazji, kiedy ta puka, ponieważ często pojawia się ona w przebraniu i wygląda jak praca. Wiedział, że nic wartościowego nigdy nie przychodzi łatwo; gdyby było proste, każdy mógłby to zrobić. Ponieważ jego wytrwałość znacznie wykraczała poza to, co przeciętny człowiek uznawałby za tozsądne i racjonalne, dokonał wynalazków, które nawet najbardziej wykształcone jednostki jego czasów uznawały za niemożliwe.<br>Wielkie postępy w nauce są często dokonywane przez ludzi o niemal fanatycznym oddaniu poszukiwanium rozwiązania jakiegoś problemu. Same przebłyski inspiracji nie wystarczą, by zapewnić sukces. Musi po nich nastąpić zdeterminowanie, wytrwałe działanie.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'dryfowanie bez celu i sensu jest największą porażką',
+            description: 'Nie mając planu dla własnego życia, łatwo wybrać drogę najmniejszego oporu, poddać się przepływowi, i dryfować z prądem bez konkretnego celu w umyśle. Posiadanie wyraźnego plany swego życia znacznie upraszcza podejmowanie setek codziennych decyzji, które wpływają na ostateczny sukces. Kiedy wiesz, dokąd zmierzasz, łatwoci zdecydować, czy twoje działania kierują się w stronę twego celu czy w przeciwną. Bez dokładnych, precyzyjnych celów i planu ich zdobycia każda decyzja jest zawieszona i podejmowana w próżni. Wyrazistość celu zapewnia kontekst i pozwala odnosić poszczególne czyny do całościowego planu.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'ułatwianie życia dzieciom często utrudnia je im w dorosłości',
+            description: 'Del Smith, milioner, założyciel i prezes Evergreen International Aviation mówił często: "całe szczęście, że urodziłem się biedakiem - nauczyłem się pracować". Pidobnie jak wielu innych, którzy o własnych siłach dotarli na sam szczyt, Smith uważa, że największym darem, jaki można dać dziecku, jest nauczenie go wartości pracy. Dar ten nigdy nie może zostać zgubiony ani ukradziony. Donaturalnych pragnień rodziców należy chęć zapewnienia dzieciom tych dóbr materialnyck, jakich sami nie mieli w dzieciństwie. Jednak taka szczodrość często pozbawia dzieci największego daru, jaki im można ofiarować: zdolności zadbania o siebie. Kiedy czynisz życie dzieci "trudnym" poprzez wymaganie od nich nauczenia się wartości pracy, zyskują znacznie większe prawdopodobieństwo sukcesu w dorosłym życiu.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'większość z nas nie ma za złe mówienia o naszych błędach, jeśli krytyka jest na tyle łaskawa, by wspomnieć również o zaletach',
+            description: 'Obrona siebie i swego zachowania jest normalną reakcją w momencie, kiedy ktoś nas krytykuje - nawet w głębi przynajemy, że to, co się nam mówi, jest prawdą. Ci jednak, którzy osiągają w życiu wielki sukces, nauczyli się odkładać na bok swe emocje i uczyć się od innych, mimo że przesłanie może być nieprzyjemne.<br>Kiedy ktoś inny cię ocenia, pamiętaj, iż krytyka jakiegoś aspektu twojego postępowania nie stanowi ataku osobistego na ciebie. Kontroluje swoje reakcje emocjonalne i przyswajaj pożyteczne koncepcje, nawet gdyby ci się nie podobał sposób, w jaki informacja jest przekazywana.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'sukces nie wymaga wyjaśniej - porażka musi być leczona wymówkami',
+            description: 'Najpewniejszym sposobem zdobycia akceptacji w dowolnej instytucji czy rodzaju pracy jest odnoszenie sukcesu. Niestey, w życiu tak się nie dzieje. Bez względu na to, jak starannie przyswajasz sobie temat, jak racjonalnie podejmuejsz decyzje, jak dobrze jesteś przygotowany, będziesz czasem popełniał błędy. Istoty ludzkie po prostu są omylne. Ważne jest jednak zrozumienie tego, że chwilowe nipowodzenia nie oznaczają permanentnej klęski.<br>Ludzie sukcesu przyznają, iż wszyscy doświadczamy okresowych zahamowań, wymagających od nas przewartościowania działań i podjęcia kroków korekcyjnych w celu ponownego sięgania po sukces. Wiedzą oni, że przeciwność nigdy nie trwa wiecznie.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'istnieje ogromna różnica pomiędzy klęską a chwilową porażką',
+            description: 'Nie istnieje coś takiego jak klęska, dopóki nie zostanie za taką przyjęta. Każda porażka jest chwilowa, chyba że się poddasz i pozwolisz jej stać się trwałą. W rzeczywistości często zdarza się, że okresowe niepowodzenie czyni nas silniejszymi i bardziej zdolnymi. Za każdym razem kiedy próbujemy i zawodzimy, uczymy się czegoś, co pomaga nam przygotować się do ostatecznego sukcesu.<br>Tylko podczas lekcji w szkole na każede ppytanie istnieje prawidłowa odpowiedź. Jeśli stosujesz jakieś podejście, które się nie sprawdza, spróbuj czegoś innego. Jeżeli traktujesz przeciwność wyłącznie jako doświadczenie, które uczy, to ilość twoich sukcesów znacznie przewyższy liczbę porażek.'
         }, {
             day: 8,
             motto: '',
