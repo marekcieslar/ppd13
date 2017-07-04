@@ -900,7 +900,7 @@ let plan = {
             description: 'Bezsprzecznie największy wynalazca Ameryki, Thomas Edison, posiadał wyjątkowo pozytywne postrzeganie świata, które znacznie zwiększało jego zdolności jako wynalazcy. Podczas gdy inni mogliby popaść w beznadziejne zniechęcenie po tysiącu nieudanych prób nad uzyskaniem światła elektrycznego, wielki Edison traktował każdy niepomyślny eksperyment jako eliminację projektu, który się nie sprawdziła, a więc zbliżający go do udanego rozwiązania<br>Wszyscy możemy się uczyć od Edisona. Historia obfituje w opowieści o wynalazcach, którzy zbyt wcześnie zrezygnowali i poddali, się czy górnikach, którzy znaleźli złoto dostłownie metr od miejsca, gdzie ktoś inny przestał kopać. Niewiele jest w życiu przeszkód, które nie ustąpią konsekwentnemu, wytrwałemu, inteligentnemu i pozytywnemu działaniu. Kiedy zniechęcasz się po niepowodzeniu, przypomnij sobie dziesięć tysięcy poreażek poniesionych przez Edisona, zanim doszedł do rozwiązania, które na zawsze zmieniło świat.'
         }, {
             day: 2,
-            motto: 'przeciętny człowiek zrezygnowałby przy pierwszej porażce - dlatego jest tylu przeciętnych ludzi, a tylko jeden Edison'
+            motto: 'przeciętny człowiek zrezygnowałby przy pierwszej porażce - dlatego jest tylu przeciętnych ludzi, a tylko jeden Edison',
             description: 'Edison zauważył kiedyś, że większość ludzi nie rozpoznaje okazji, kiedy ta puka, ponieważ często pojawia się ona w przebraniu i wygląda jak praca. Wiedział, że nic wartościowego nigdy nie przychodzi łatwo; gdyby było proste, każdy mógłby to zrobić. Ponieważ jego wytrwałość znacznie wykraczała poza to, co przeciętny człowiek uznawałby za tozsądne i racjonalne, dokonał wynalazków, które nawet najbardziej wykształcone jednostki jego czasów uznawały za niemożliwe.<br>Wielkie postępy w nauce są często dokonywane przez ludzi o niemal fanatycznym oddaniu poszukiwanium rozwiązania jakiegoś problemu. Same przebłyski inspiracji nie wystarczą, by zapewnić sukces. Musi po nich nastąpić zdeterminowanie, wytrwałe działanie.'
         }, {
             day: 3,
@@ -924,36 +924,36 @@ let plan = {
             description: 'Nie istnieje coś takiego jak klęska, dopóki nie zostanie za taką przyjęta. Każda porażka jest chwilowa, chyba że się poddasz i pozwolisz jej stać się trwałą. W rzeczywistości często zdarza się, że okresowe niepowodzenie czyni nas silniejszymi i bardziej zdolnymi. Za każdym razem kiedy próbujemy i zawodzimy, uczymy się czegoś, co pomaga nam przygotować się do ostatecznego sukcesu.<br>Tylko podczas lekcji w szkole na każede ppytanie istnieje prawidłowa odpowiedź. Jeśli stosujesz jakieś podejście, które się nie sprawdza, spróbuj czegoś innego. Jeżeli traktujesz przeciwność wyłącznie jako doświadczenie, które uczy, to ilość twoich sukcesów znacznie przewyższy liczbę porażek.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'Twoja prawdziwa odwaga ukazuje się najlepiej w godzinie przeciwności',
+            description: 'Niektóre niepowodzenia są tak poważne, że poddanie się im oznacza przegranie całej gry. Kiedy generam Matthew Ridgway* przejmował dowództwo w wojnie koreańskiej, jego siły były zepchnięte daleko na wschód, pod silnym naporem wroga, Tylko zdeterminowana decyzja utrzymania linii pozwoliła siłom amerykańskim obronić się przed zepchnięciem do morza, a potem odzyskać stracone nerytorium. <br>Kiedy uderza porażka, możesz nie mieć czasu na wycofanie się i przemyślenie błędów bez ryzyka niepowodzenia. Nie ulega paraliżowi. W takiej chwili ważne jest wiedzieć, czego naprawdę pragniesz i tak działać, aby uchronić swoje zasoby i nadzieje. Jeśli kompletnie się rozsypiesz, przyjmiesz sios w poczucie własnej wargości, który będzie trudny do naprawienia. W zamian przylgnij do swych zasad, a będziesz przynajmniej wiedział, że ochroniłeś, to co masz najcenniejszego.<br><br>*Matthew ridgway, w 1950 r. dowódca amerykańskiej 8 armii i wojsk lądowych ONZ w Korei, w 1951 r. głównodowodzący wojs ONZ w Korei i dowódca sił sprzymierzonych w Japonii;'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'zawsze pozostaje sposobność, by rozpocząć od nowa',
+            description: 'Nigdy nie możesz utracić dwóch ze swych najważniejszych aktywów, choć może się to zdawać nieprawdą przy pierwszym poważnym uderzeniu, jakiego doświadczysz. Aktywami tymi są moc twego umysłu i wolność jej wykorzystania. Gdy tylko zrozumiesz, co cię pognębiło, możesz rozpoczynać formowanie nowych planów. Możesz nie mieć pieniędzy, które kiedyś posiadałeś; może ci zabraknąć znajomości, jakie nawiązałeś. Wciąż jednak masz przywilej świadomości tego, że świat w końcu wynagradza uczciwy wysiłek oraz dysponujesz doświadczeniem pomyłek, których nigdy więcej nie popełnisz.<br>Pamiętaj, że niezależnie od tego, gdzie jesteś teraz, cokolwiek potrafisz wymyślić i w co uwierzyć, tego możesz dokonać.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'większość klęsk można by zamienić w sukces, gdyby ktoś wytrwał jeszcze jedną chwilę lub włożył więcej wysiłku',
+            description: 'Kiedy nosisz w sobie potencjał sukcesu, przeszkody i chwilowe niepowodzenia pomagają ci tylko przygotować się do sięgnięcia prawdziwych wyżyn. Bez przeciwności, lojalności, pokory i wytrwałości, które są tak istotne w trwałym sukcesie. Wielu ludzi uniknęło szponów porażki i osiągnęło wielkie zwycięstwa, ponieważ nie pozwoliło sobie na zawód. Gdy wszystkie drogi ucieczki zostają odcięte, zaskoczy cię szybkość, z jaką odnajdziesz ścieżkę do sukcesu.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'zgodnie z prawem harmonijnego przyciągania sukces przyciąga sukces, a porażka przyciąga porażkę',
+            description: 'W fizyce przyciągają się znaki przeciwne, jednak w relacjach międzyludzkich jest odwrotnie. Negatywni ludzie przyciągają tylko innych negatywnych ludzi, podczas gdy pozytywni myśliciele przyciągają jednostki o podobnych umysłach. Zauważysz, że kiedy zaczniesz osiągać sukces, nastąpią kolejne sukcesy. To prawo harmlnijnego przyciągania. Kiedy bogactwa pojawią się na twoojej drodze, zdziwi cię, jak szybkok się gromadzą.<br>wyćwicz swój umysł w wyobrażaniu sobie siebie zdobywającego określoną ilość bogactwa czy osiągającego pewien cel - czegokolwiek pragniesz najbardziej. Potem użyj autosugestii, by przekonać swą podświadomość, że możes ten cel osiągnąś i wprowadzić w czyn swój plan. Kiedy wykorzystasz narzędzia, jakimi dysponujeszs w przygotowaniu się do sukcesu i wyobrazisz sobie siebie już jako zdobywcę, możesz osiągnąć każdy rozsądny cel, jaki sobie wyznaczysz.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'ktoś, kto stara się zyskać coś za nic, zwykle kończy na osiągnięciu niczego za coś',
+            description: 'Ci, którzy sądzą, że mogą przejść przez życie bez oddawania takiej samej wartości jak otrzymują, w końcu przekonują się, że pracują znacznie więcej, aby oszukać innych, a otrzymją bardzo niewiele w zamian. Życie ma dziwny sposób wyrównywania rachunków. W długiej perspektywie otrzymasz taką samą miarę, jaką dajesz. Poświęcaj czas na produktywne, pozytywne wysiłki, hojnie rozdzielaj swój czas i talenty, a wyróżniesz się z mnogości tych, którzych głównym celem w życiu zdaje się być otrzymanie czegoś za nic.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'ludzie uprawiający hazard dla pieniędzy są potencjalnymi oszustami, ponieważ próbują dostać coś za nic',
+            description: 'Ktoś kto ryzykuje swoje bogactwo dla złudnego kaprysu losu, nie jest zazwyczaj osobą, jaką chciałbyś mieć za partnera w interesach. Istnieją jednostki szczególnie podatne na pokusę pójścia na skróty w dziedzinie jakości produktu, bezpieczeństwa pracy i w ogóle skłonne do niewypełniania swoich obietnic. Przez dłuższy czas jednak nie można dostawać czegoś za nic. Prawo kompensacji jest nieubłagane w swym wymaganiu, abyś otrzymywał to, na co zasłużysz. Czasem możesz czuć, że zasługujesz na więcej - i może tak być w istocie - jednak ostatecznie twoja zapłata będzie proporcjonalna do twoich wysiłków'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'czy to nie dziwne, że niektórzy ludzie są tak sprytni w wymyślaniu wymówek, a tak tępi w wykonywaniu pracy, że alibi staje się bezużyteczne?',
+            description: 'Gdyby ludzie wykonywali swą pracę z połową wysiłku i kreatywności, jaką poświęcają na próżne usiłowanie oszukania innych, mogliby we wszystkim osiągnąć wielki sukces. Czasami kusi, by naśladować tych, którzy zdają się przemykać bez specjalnej pracy, jednak ci, którzy oszukują swoją firmę, nie robiąc tego, za co im się płaci, w końcu zapłacą za to cenę. Zapłacą utratą swej najcenniejszej wartości: własnej reputacji. Wartość opinii uczciwości i rzetelności stanowi o różnicy pomiędzy karierą wypełnioną obietnicami a życiem klęzki.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'cudze błędy są kiepską wymówką dla twoich własnych',
+            description: 'Ralph Waldo Emerson powiedział: "Łatwo jest żyć na świecie zgodnie z opinią świata; łatwo w samotności żyć wwedłyg własnej; ale wielkim człowiekiem jest ten, kto z doskonałym wdziękiem zachowuje niezależność samotności pośrodku tłumu". Będąc częścią grupy, łatwo jest pójść z prąde, by przebić się. Kiedy jednak jesteś w stanie utrzymywać własne, najwyższe normy uczciwości - niezależnie od tego, co mogą robić inni - wtedy jesteś przeznaczony do wielkości.<br>Skoro opracujesz własny, dokładnie przemyślany kodeks osobistego prowadzenia się, wówczas nigdy nie będziesz musiał pytać nikogo, jaki powinien być właściwy przebieg działania. Będziesz to wiedział intuicyjnie.'
         }, {
             day: 16,
             motto: '',
