@@ -956,92 +956,92 @@ let plan = {
             description: 'Ralph Waldo Emerson powiedział: "Łatwo jest żyć na świecie zgodnie z opinią świata; łatwo w samotności żyć wwedłyg własnej; ale wielkim człowiekiem jest ten, kto z doskonałym wdziękiem zachowuje niezależność samotności pośrodku tłumu". Będąc częścią grupy, łatwo jest pójść z prąde, by przebić się. Kiedy jednak jesteś w stanie utrzymywać własne, najwyższe normy uczciwości - niezależnie od tego, co mogą robić inni - wtedy jesteś przeznaczony do wielkości.<br>Skoro opracujesz własny, dokładnie przemyślany kodeks osobistego prowadzenia się, wówczas nigdy nie będziesz musiał pytać nikogo, jaki powinien być właściwy przebieg działania. Będziesz to wiedział intuicyjnie.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'niepowodzenie nie jest wstydem, jeżeli uczciwie zrobiłeś, to co było w twojej mocy',
+            description: 'Żyjemy w konkurencyjnym świecie, który widzi sukces w kontekście zwycięzców i przegranych oraz upiera się przy tym, że każde zwycięstwo przynosi stratę tego samego rozmiaru. Jeśli jedna osoba wygrywa, to logiczne wydaje się, że ktoś inny musi przegrać. W rzeczywistości jedyne współzawodnictwo, które się liczy to to, jakie wiedziesz z samym sobą. Kiedy twoja norma postępowania opiera się o najlepsze możliwe wzory, nigdy nie przegrasz. Będziesez się jedynie doskonalić.<br>Przeprowadzaj od czasu do czasu obiektywny przegląd swoich postępów. Kiedy rezultat jest kiepski, oceń sytuację i zapytaj siebie: "czy jest coś, co mógłbym albo powinienem zrobić, aby poprawić wynik?". Jeżeli odpowiedź brzmi "nie", jeśli masz satysfakcję, że zrobiłeś wszystko, co mogłeś, nie marnuj czasu na powtórne przeżywanie przeszłości. Po prostu z doświadczenia wyciągnij wszystko, co się da, a potem znów przystąp do działania. Jeżeli konsekwentnie będziesz robił wszystko co możesz, to chwilowe porażki same sobą się zajmą.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'nie mając życiowego celu, zmierzasz w kierunku pewnej klęski',
+            description: 'Brak głównego celu w życiu przypomina usiłowanie nawigowania bez mapy i wykresów trasy. W końcu możesz dostać się gdzieś, gdzie ci się podoba, albo możesz dryfować bez celu, zawsze mając nadzieję na odnalezienie - ale nigdy nie odnajdując - miejsca, gdzie chciałbyś być. Wraz z twoim rozwojem jako osoby rośnie też twój główny cel. Naturalną koleją rzeczy jest to, że wspiąwszy się na szczyt rozglądasz się za kolejnymi, wyższymi wierzchołkami, na które mógłbyś wejść. W życiu idziesz do przodu albo się cofasz. Kiedy starannie i z namysłem wykreślasz swą trasę, możesz mieć pewność, że kroczysz we właściwym kierunku.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'jesli nie chcesz zrujnować swego życia, nie plącz się z tymi, którzy właśnie zrujnowali',
+            description: 'Ciekawostką w stosunkach międzyludzkich jest to, że jedna osoba nie może wywierać nieustannego, dobrego wpływu na całą grupę negatywnych myślicieli. Zazwyczaj dzieje się odwrodtnie. Nie potrafisz zachować pozytywnej, produktywnej postawy, jeśli spędzasz cały czas z ludźmi negatywnymi. Ci, którzy zrujnowali własne życie (zwykle obwiniając innych za swego pecha), nie pomogą ci w osiąganiu sukcesu. Starannie dobieraj sobie przyjaciół i znajomych, i powstrzymuj się od użalania się na własną pracę, firmę czy kogokolwiek. Spędzaj czas z pozytywnymi, ambitnymi ludźmi, którzy posiadają plan dla swego życia. Przekonasz się, że ich optymizm jest zaraźliwy.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'ludzkie błędy przypominają chwasty w ogrodzie - rosną bez uprawiania i szybko wypełniają przestrzeń, jeśli nie są plewione',
+            description: 'Nawyki formują się tak powoli, że większość z nas nie zdaje sobie sprawy z  tego, co się dzieje, dopóki zwyczaje nie staną się zbyt mocno zakorzenione, by je wyrwać. Rzadko da się wyeliminować jeden wzór postępowania bez zastąpienia go innym. Mówi się, że natura czuje wstręt do próżni i zawsze znajdzie coś dla zapełnienia pustki. Najlepszym sposobem wycięcia "chwastów" - błędów charakteru - jest zidentyfikowanie tych cech, z których jesteś niezadowolony i zastąpienie ich pozytywnymi odpowiednikami. Jeśli, na przykład, masz tendencję do tracenia panowania nad sobą, znajdź coś, co może zająć miejsce twej złości. Zneutralizuj ją pozytywnym zwrotem, albo oświadczeniem takim jak: <b>Nikt nie może mnie rozzłościć, chyba że mu na to pozwolę. Nie chcę pozwolić nikomu kierować moimi emocjami</b>.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że błędy ludzkości są całkiem równomiernie rozłożone pomiędzy nas wszystkich',
+            description: 'Dlaczego u siebie tak łatwo przeoczamy błędy, które szybko spostrzegamy u innych? Łatwo o obiektywizm, jeśli chodzi o krytykowanie przyjaciół, członków rodziny i kolegów z pracy, o wiele trudzniej być uczciwym co do własnych niedostatków czy braków. Dopiero wtedy, kiedy uznajemy, że wszyscy jesteśmy ulepieni z tej samej gliny, zaczynamy kształtować tę cudowną cechę tolerancji, która umożliwia akceptowanie innych takimi, jakimi są, bez wymagania czegokolwiek w zamian. Nigdy nie jest łatwo zastąpić wynajdywania błędów przez wyszukiwanie dobra. Kiedy jednak zaczynasz być tym, kto chętnie chwali i obdarza komplementami, stajesz się takim przyjacielem, jakiego wszyscy chcielibyśmy mieć.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'użalanie się nad sobą jest jak narkotyk',
+            description: 'Najbardziej zdradliwym faktem związanym z narkotykami jest to, że organizm ludzki orzyzwyczaja się do specyfiku i wymaga coraz większych i większych dawek dla uzyskania podobnego efektu. To samo okazuje się prawdą w odniesieniu do użalania się nad sobą. Im bardziej pozwalasz sobie zanurzyać się w nie, tym bardziej go łakniesz. Wkrótce użalanie się nad sobą staje się nawykiem tak osłabiającym, że pozbawiasz się wszystkich możliwości, jakie posiadasz.<br> Na szczęście istnieje lekarstwo. Jeżeli naprawdę przeanalizujesz sytuację, to najczęściej okaże się, że problemy, które wpędziły cię w stan użalania się nad sobą, są w większości twej własnej produkcji. w związku z tym najlepszą osobą, która może wyleczyć problem, jest ten, kto go stworzył - czyli ty sam.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'mądry człowiek dokładniej przygląda się swym błędom niż cnotom; głupiec odwraca porządek',
+            description: 'Wszyscy nosimy w sobie potencjalny sukcel lub klęskę. Obie możliwości są nieodłączną częścią charakteru. To, czy sięgniemy gwiazd czy też pogrążymy się w otchłaniach rozpaczy, w dużej mierze zależy od tego, jak kierujemy swoim pozytywnym i negatywnym potencjałem, Wątpliwe jest, by twe zalety, pozostawione same sobie, wyrwały się spod kontroli. Niestety, w przypadku wad jest to niemal pewne. Słabości pozostawione bez nadzoru plenią się i mnożą, aż w końcu zaduszą wszelkie dobre cechy. Najpewniejszym sposobem kontrolowania wad jest atakowanie ich w momencie, gdy się pojawiają.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'porażka staje się błogosławieństwem, kiedy wypycha nas z miękkiego siedziska samozadowolenia i przynagla do zrobienia czegoś pozytecznego',
+            description: 'Jeżeli uważnie przyjrzysz się życiu swemu i zdobywców, których podziwiasz, to z absolutną pewnością odkryjesz, że często największe okazje zdarzają się w czasie przeciwności. Jedynie w obliczu potencjalnej klęski znajdujemy gotowość przeprowadzenia radykalnych zmian i podjęcia ryzyka, które może poprowadzić nas do wielkiego sukcesu.<br>Kiedy doświadczasz chwilowej poreżki i wiesz, że jest ona chwilowa, możesz wykorzystać sposobności, jakie zawsze niesie ze sobą przeciwność.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'porażka wydaje się planem natury w przygotowaniu nas do wielkich dokonań',
+            description: 'Gdyby wszystko, czego w życiu próbujemy, było osiągane przy minimum wysiłku i kończyło się dokładnie zgodnie z planem, jak mało byśmy się uczyli - i jak nudne byłoby życie! jakże aroganccy stalibyśmy się, gdyby udawało się nam wszystko, czego próbujemy. Porażka pozwala na rozwijanie istotnej zalety pokory. Nie jest łatwo - kiedy doznajesz porażki - przyjąć ją filozoficznie, ze spokojem i świadomością, że stanowi jedną z wielkich lekcji życia. A jednak naprawdę stanowi. Nie zawsze rozumiemy drogi natury, lecz są one powtarzalne, a zatem przewidywalne. Możesz być absolutnie pewien, że kiedy czujesz, iż los obchodzi się z tobą niesprawiedliwie, w rzeczywistości przygotowujesz się do wielkiego dokonania.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'twoja porażka może się okazać czymś cennym pod warunkiem, że wiesz, dlaczego zawiodłeś',
+            description: 'W czasie naszego krótkiego przebywania na ziemi nieliczne są chwile, kiedy doświadczamy wielkich olśnień intuicji, niezwykłych momentów prawdy, które na zawsze odmieniają bieg naszego życia. Większość z takich przeżyć wynika raczej z efektywnych poreażek a nie wyjątkowych sukcesów. To poprzez klęski, które tak nas zasmuciły i skonsternowały, przyswajamy sobie najbardziej trwałe lekcje. Jeżeli niechętnie przyjmujesz wielkie chwile prawdy, to wyciągnij pożyteczną lekcję, a potem pozostaw cały epizod za sobą. Wyciągnij naukę ze swych porażek, a potem zapomnij o nich i przejdź do lepszych rzeczy.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'skoro nie wiesz, dlaczego zawiodłeś, to nie jesteś mądrzejszy niż w chwili, gdy zaczynałeś',
+            description: 'Stare powiedzenie głosi, że ci, którzy nie chcą się uczyć na podstawie historii, są skazani na jej powtarzanie. Podobnie jest z naszymi porażkami. Jeżeli nie uczymy się na swoich błędach, prawdopodobnie będziemy je powtarzać, aż wyciągniemy wnioski z doświadczeń i poprawimy swój szlak - albo też poddamy się i przyjmiemy chwilowe niepowodzenie za ostateczną klęskę. Każda porażka, jakiej doznajesz w swym życiu, zawiera cenne informacje, które dokładnie przebadane mogą doprowadzić cię do sukcesu.<br>Bez przeciwności nigdy nie wykształcisz mądrości, a bez madrości sukces będzie doprawdy krótkotrwały. Kiedy poprłnisz błąd, powiedz do siebie: "No, dobrze! Mam to z głowy. Nigdy już tego nie powtórzę".<br>Zpewnością popełnisz inne pomyłki, ale nie będą cię przygniatac, jeśli potraktujesz je jako zwykłe doświadczenie życiowe.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'zanim okazja ukoronuje cię wielkim sukcesem, zazwyczaj poddaje cię próbom poprzez przeciwności',
+            description: 'Przeciwności zapewniają opór konieczy, by wykształcić w nas siłę do pokonywania wielkich przeszkód. Na siłę tę składają się - pewność siebie, wytrwałość i, co bardzo ważne, samowiedza. Jeżee\li bowiem doznajesz zahamowania, ono właśnie może stanowić klucz do osobistej słabości. Mogłeś zbyd pospiesznie ocenić przeciwnika, albo być zbyt nieśmiały w swej wizji tego, co powinno być zrobione. Pozwól przeciwności stać się twoim przewodnikiem w rozpoznaniu, gdzie zrobiłeś fałszywy krok lub jakie zalety potrzebujesz rozwinąć. Nikt nie cieszy się z własnego rozczarowania, jednak możesz obrócić sytuację w szansę doskonalenia swewgo charakteru, sposobność, którą w innym przypadku przeoczyłbyś.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'kiedy ogarniają cię przeciwności, warto być wdzięcznym za to, że nie jest gorzej, zamiast zamartwiać się niepowodzeniem',
+            description: 'Mało jest w życiu rzeczy, które są tak złe, jak się nam na początku wydają. Radzenie sobie z przeciwnościami zaczyna się od przeanalizowania sytuacji i przyjęcia jej za taką, jaką naprawdę jest. Kiedy zdajesz sobie sprawę z tego, że sprawy nie mają się tak źle jak mogłyby, robisz pierwszy krok w kierunku wypracowania drogi wyjścia z problemu. Jak truizm brzmi powiedzenie, że nigdy nie będziesz proszony o niesienie ciężaru większego niż możesz unieść,* ale czasem poświęcenie czasu na pomoc tym, którym się mniej poszczęściło niż tobie, pozwala lepiej docenić ten fakt.<br><br>parafraza z pierwszy koryntian 10.13'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'nigdy nie dowiesz się, kto jest twoim prawdziwym przyjacielem, dopóki nie pokona cię przeciwność i będziesz potrzebował pomocy*',
+            description: 'Mówi się, że każdy przepada za zwycięzcą, lecz nikt nie pamięta o tobie, kiedy jesteś na dnie czy wypadłeś z gry. Do nie docenianych korzyści płynących z przeciwności należy fakt, że przyspieszają one proces rozpoznawania prawdziwych przyjaciół.<br>Większość z nas posiada wielu znajomych i kolegów, mamy jednak ogromne szczęście, jeśli możemy się pochwalić gronem prawdziwych przyjaciół. Bardzo szybko poznasz ich, kiedy prosisz o pomoc. Ten, kto proszony o pomoc rozumie, że pewnego dnia sam może się znaleźć w takiej sytuacji, przejawia mądrość i dalekowzroczność.<br><br>*Polskie przysłowie ujmuje następująco: <i>prawdziwych przyjaciół poznaje się w biedzie.</i>'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'nie wiń dzieci, że są złe: wiń tych, którzy ich nie karcili',
+            description: 'Kiedy Ralph Waldo Emerson zauważył: "główną potrzebą naszego życia jest ktoś, kto zmusi nas do robienia tego, co potrafimy". Choć bez wątpienia dzieci nie uznają takiej potrzeby, to podświadomie pragną dyscypliny, szczególnie w okresie dorastania. Dyscyplina wyznacza dla nich granice, zapewnia bezpieczeństwo i stanowi aktywne wyrażanie miłości rodziców. Co ważniejsze, przygotowuje do wyzwań dorosłości.<br>Jeśli twoje dzieciństwo było mniej niż udane, to nie jesteś sam. Większość z nas doświadczała kiedyś trudności, a wszyscy od czasu do czasu popełniamy błędy. Pociesza jednak fakt, że chociaż twoje środowisko lat dziecięcych ma głęboki wpływ na to, jaką osobą się stajesz, to nie jest ono jedynym wyznacznikiem. Obraz osoby, jaką zdecydujesz się być, zależy wyłącznie od ciebie. W ostatecznym rachunku tylko ty decydujesz, kim i czym staniesz się w życiu.'
         }, {
             day: 31,
-            motto: '',
-            description: ''
+            motto: 'jeżeli życie podaje ci cytrynę, nie narzekaj, lecz zrób lemoniadę i sprzedaj tym, których suszy z powodu narzekania',
+            description: 'Wally Amos, człowiek uznawany przez wielu za ojca amerykańskiego przemysłu cukierniczego, tak często przetwarzał cytryny w lemoniadę, że na swym oficjalnym portrecie przedstawiany jest z kamieniem brukowym w jednej ręce i szklanką lemoniany w drugiej. Niepoprawny optymista, Amos, nie chciał uznać, by przeszkody były czymś innym niż kamieniami do kroczenia po drodze do sukcesu. W swej kilkudziesięcioletniej karierze dochodził kilka razy na szczyt sukcesu, po to tylko, by wszystko stracić i być zmuszonym do rozpoczynania od nowa. Nigdy jednak nei tracił wiary. Mówił: "Musisz mieć nadzeję i wiarę, aby zapomnieć i nie dręczyć się. Nie trać czasu na zamartwianie się. Zatroskanie jest przygotowaniem. Przeanalizuj sytuację i skup się na rozwiązaniac. Zawsze istnieje odpowiedź."'
         }]
     }, {
         name: 'wrzesień',
         motto: 'dodatkowy tysiąc kroków',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'Rozjemca ma się zawsze lepiej niż agitator',
+            description: 'W dzisiejszym społeczeństwie, w którym "wszystko da się wynegocjować", wciąż bombardują nas wiadomości o tym, że dostaniemy to, czego będziemy głośno żądać, nie to, na co zasługujemy. Można oczywiście osiągnąć chwilowy sukces poprzez wymaganie od innych więcej niż nam się należy, ale nie przetrwa on długo. "piszczące opony" początkowo przyciągają szczególną uwagę, jednak mądry kierowca pojazdu szybko zobaczy, że trzeba je wymienić. Łatwo przyczyniać się do problemów i niezgody, lecz bardzo trudno prowadzić innych w duchu współpracy i harmonii. Jakiego rodzaju jednostkę uważasz za najbardziej cenną w przedsiębiorstwie? Największe nagrody życia - zarówno finansowe jak i osobiste - przypadają zawsze tym, którzy wprowadzają pokój.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że za każdym razem, gdy robisz dodatkowy tysiąc kroków, ktoś zaciąga wobec ciebie zobowiązanie',
+            description: 'Kiedy robisz coś komuś lub dla kogoś, niezależnie od tego, czy te czyny są dobre czy złe, ludzie czują się zobowiązani do odwdzięczenia się tym samym. Jeżeli jesteś kimś uprzejmym i uczciwym, możesz się spodziewać, że w zamian będziesz dobrze traktowany. Jeśli wykorzystujesz innych dla własnej korzyści bez dania czegokolwiek, wkrótce przekonasz się, iż są oni dla ciebie mało użyteczni. Ludzie lubią pracować dla i z pozytywnymi, wrażliwymi osobami. Zaraz zacznij przyswajać sobie zwyczaj robienia dodatkowego tysiąca kroków.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'kresu tęczy sięgamy dopiero przy końcu drugiego tysiąca kroków',
+            description: 'Zachęta Chrystusa sierowana do wierzących, która mówi: <i>Zmusza cię kto, żeby iść z nim tysiąc kroków, idz dwa tysiące!</i> Mat. 5.41, była odpowiedzą na rzymski zwyczaj pozwalający oficerom zmuszać innych do dźwigania swego ładunku przez tysiąc kroków.<br>Celem tej biblijnej zasady, w swej istocie podobnej do nadstawiania drugiego policzka, jest powodowanie, by ze zła wynikało dobro. Możesz dodać dobro do dobra poprzez odpłacenie czymś więcej niż to, o co jesteś proszony. Kiedy naprawdę wierzysz, że pójście dodatkowego tysiąca kroków jest jedynym dającym się zaakceptować sposobem postępowania we wszelkich sprawach, kiedy przynagla cię gorące pragnienie służenia drugiemu człowiekowi, to bądź pewien, że zostaniesz wynagrodzony zarówno finansowo, jak i w kategoriach korzyści osobistych.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'tylko ci, którzy mają zwyczaj iść drugi tysiąc kroków, mogą znaleźć koniec tęczy',
+            description: 'Faktem jest, że większość z nas próbuje i zawodzi wiele razy, zanim ostatecznie osiągnie poziom sukcesu, jakiego pragnie. Możesz się spodziewać, że wielokrotnie przejdziesz dodatkowy tysiąc kroków tylko po to, by na końcu swej tęczy znaleźć fałszywe złoto. Jeśli jednak zrezygnujesz z próbowania, z całą pewnością ominą cię wielkie bogactwa, jakie na ciebie czekają. Sztuczne zobowiązanie do robienia więcej niż się od ciebie oczekuje, oparte wyłącznie na spodziewanych korzyściach, nie podtrzyma cie na dugo. Wielkie dokonania wynikają z rzeczywistego oddania słusznym sprawom, niezależnie od konsekwencji i takie zobowiązanie ostatecznie zaprowadzi cię do dzbana ze słotem na końcu twej tęczy.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'za każdym razem, kiedy przyczyniasz się do lepszego wykonania zadania przez inną osobę, przynosisz jej korzyść i podnosisz własną wartość',
+            description: 'Ktoś powiedział kiedyś, że tak na prawdę nikt nie może zmotywować kogoś innego; wszystko co możemy, to zachęcić siebie samych i mieć nadzieję, że to udzieli się drugim. Prawdopodobnie nigdy się nie dowiesz, jak bardzo wpływasz swoim zachowaniem na innych. Kiedy zawsze robisz dodatkowy tysiąc kroków, będziesz oddziaływał na krąg twych przyjaciół i znajomych, na rodzinę, współpracowników, a nawet szefów w kierunku robienia lepiej i więcej niż dotąd.<br>Twoja wartość dla ciebie samego i innych znacznie wzrasta poprzezz zdolność wpływania na to, by inni byli szczęśliwszymi, bardziej produktywnymi ludźmi. Dla tych, którzy wiodą innych ku wielkim wyżynom sukcesu, nie ma ograniczeń płacy ani granic kariery. Tacy ludzie są zwyczajnie zbyt cenni.'
         }, {
             day: 6,
             motto: '',
