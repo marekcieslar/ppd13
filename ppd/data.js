@@ -1044,40 +1044,40 @@ let plan = {
             description: 'Ktoś powiedział kiedyś, że tak na prawdę nikt nie może zmotywować kogoś innego; wszystko co możemy, to zachęcić siebie samych i mieć nadzieję, że to udzieli się drugim. Prawdopodobnie nigdy się nie dowiesz, jak bardzo wpływasz swoim zachowaniem na innych. Kiedy zawsze robisz dodatkowy tysiąc kroków, będziesz oddziaływał na krąg twych przyjaciół i znajomych, na rodzinę, współpracowników, a nawet szefów w kierunku robienia lepiej i więcej niż dotąd.<br>Twoja wartość dla ciebie samego i innych znacznie wzrasta poprzezz zdolność wpływania na to, by inni byli szczęśliwszymi, bardziej produktywnymi ludźmi. Dla tych, którzy wiodą innych ku wielkim wyżynom sukcesu, nie ma ograniczeń płacy ani granic kariery. Tacy ludzie są zwyczajnie zbyt cenni.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'nie możesz spowodować, by wszyscy ludzie cię lubili, lecz możesz ich pozbawić rozsądnej przyczyny nielubienia cię',
+            description: 'Nawet ludzie najbardziej popularni mają zswych oponentów, którzy umniejszają ich rolę. Każdy z nas jest inny, różnimy się zainteresowaniami, osobowościami i niemożlowe jest, aby ktokolwiek być kochany przez absolutnie wszystkich, którzy go znają. Jeżeli za swą misję uważasz przerabianie każdego na swoją modłę, to czeka cię wielkie rozczarowanie. Jeżeli jednak jesteś zawsze uprzejmy, miły i wrażliwy w kontaktach z innymi, to mogą za tobą nie przepadać, lecz nie będą mogli czuć do ciebie awersji.<br>Dbając o to, by być człowiekiem z charakterem, na którego uczciwość, szczerość i morale można liczyć, umacniasz swoje relacje z innymi. Kiedy postępujesz według takiego kodeksu prowadzenia się, może nie będą cię szukać ci, którzy nie podzielają twoich wartości, ale będziesz szanowany przez wszystkich, którzy cię znają. W końcu przecież szacunek znaczy o wiele więcej niż zwykła popularność.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'najważniejszym zadaniem jest nauczenie się jak negocjować z innymi bez tarcia',
+            description: 'Wksperci w negocjowaniu prowadzą proces tak gładko, że dyskusje nie przypominają wcale negocjacji. Podczas gdy samo słowo negocjowanie przywodzi obraz przeciwników zgniatających cygara i walących pięścią w stół, by podkreślić swe żądania, to w istocie najlepsze wyniki osiąga się wtedy, gdy zangażowane strony potrafią wczuć się w sytuację drugiego i dojść do porozumienia, które byłoby korzysne dla wszystkich zainteresowanych.<br>Niezależnie od tego, czy negocjujesz sprawę podwyżki pencji, nowej pracy czy akwizycji w jakiejś firmie, twoje szanse są znacznie większe, gdy podchodzisz do sytuacji pozytywnie i z wyraźnym celem w umyśle. Pomaga to także w zrozumieniu motywów pozostałych osób i zyskaniu dogłębnej wiedzy na dyskutowany temat. Wreszcie, do każdego tematu przystępuj z otwartym umysłem - nie usiłuj po prostu zmusić innych do przyjęcia twojej propozycji czy punktu widzenia.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'byk może posiadać dobre cechy, nigdy ich jednak nie wydobędziesz machając mu przed pyskiem czerwoną płachtą',
+            description: 'Pobudzenie innych jest łatwe, jeśli nie zależy ci na tym, jakiego rodzaju działania inspirujesz. Jeżeli natomiast pragniesz wywołać pozytywną reakcję, możesz to zrobić poprzez przykład i za pomocą sztuki łagodnej persfazji, a nie prowokowania kogoś do ataku. Pracując z innymi, skupiaj się na ich pozytywnych cechach, nie na sprawach, których nie lubią lub się ich boją. Kiedy poświęcasz czas na to, by poznać swych kolegów, dowiedzieć się o ich nadziejach, marzeniach i aspiracjach, możesz zobaczyć, co ich motywuje. Wtedy łatwiej ukazać im, jak mogą połączyć swoje cele z twoimi, aby wspólnie pracować ku obopólnej korzyści. Przy takim trybie postępowania każdy wygrywa.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że dług wdzięczności wobec ciebie może mieć każdy, kogo nakłoniesz do przyjęcia od ciebie przysługi',
+            description: 'Podstawową cechą ludzką jest to, że mamy tendencję reagować na innych w taki sam sposób, w jaki oni nas traktują. Ludzie zawsze będą pamiętali uprzejmość, jaką okazałeś i któregoś dnia, wtedy gdy będziesz tego najbardziej potrzebował, nadejdzie pomoc z całkowicie niespodziewanego źródła. Uprzejmość i kurtuazja okazywane innym nie muszą być wielkie i kosztowne. Miłe słowo, przyjazne powitanie czy pomoc w realizacji ulubionego projektu lub zadania pozwoli innym przekonać się, że zależy ci na nich wystarczająco, aby wyciągnąć pomocną dłoń. Kiedy pomagasz komuś chętnie i entuzjastycznie, bez proszenia o coś w zamian, prawo kompensacji nakłada na tę osobę dług wdzięczności wobec ciebie. Zyskujesz przyjaciela, którego interesuje teraz także twój sukces.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'ci, którzy robią więcej niż to, za co im się płaci, wcześniej czy później będą opłacani za więcej niż robią',
+            description: 'Jeżeli konsekwentnie robisz więcej niż to, za co ci płacą - czy jesteś fachowcem, kierownikiem samodzielnym pracownikiem, robotnikiem czy przedsiębiorcą - w końcu zostaniesz wynagrodzony za znacznie więcej niż robisz.<br>Jeśli oddajesz lepsze i więcej usług niż inni wokół ciebie, klienci zaczną walić drzwiami i oknami, a szef uzna cię za osobę niezastąpioną. Przy niedostatku usług wysokiej jakości, jaki istnieje w dzisiejszym świecie, możesz szybko wyróżnić się spośród konkurencji przez zwyczajne zapewnienie odpowiedniego poziomu.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'zacznij robić dodatkowy tysiąc kroków, a okazja podąży za tobą',
+            description: 'Robienie dodatkowego tysiąca kroków może ci przynieść intuicję i dobrą opinię, a obie przyciągają okazję. Wiele oczywistych sposobności znajduje się w miejscacj, co do których nikt inny nie zaprzątał sobie głowy, by ryzykować. Jeżeli włożysz dodatkowy wysiłek, aby opracować wyjątkowo dobry projekt, albo poznasz sprzęt lepiej niż ktokolwiek inny na twojej zmianie, zaczniesz dostrzegać rzeczy, które inni przeoczyli i znajdziesz się w pizycji, w której można to wykorzystać.<br>Liderzy pragnący, aby coś było zrobione, najpierw zastanawiają się nad osobami, które zrobią to dobrze. Jeśli inni szanują cię za ilość i jakość twojej pracy, wkrótce spostrzeżesz, że wysuwasz się przed ludzi, uważających swą pracę za harówkę. Za każdą dodatkową usługę, jaką wyświadczyłeś, otrzymasz bardziej niż wystarczającą rekompensatę w postaci sposobności, po które inni nigdy nie sięgają.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'nie popędzaj innych, jeśli sam nie masz pęcherzy na nogach',
+            description: 'Dobry oficer prowadzi poprzez przykład i zanim zatroszczy się o swoje potrzeby, upewnia się, czy zadbano o jego oddziały. Kiedy traktujesz innych z szacunkiem inigdy nie prosisz o zrobienie czegoś, czego sam nie chciałbyś robić, zyskujesz prawo do szacunku ze strony innych - i obdarzą cię nim z własnej woli. Nie możesz jednak spodziewać się, że inni będą maszerować aż porobią im się pęcherze na nogach, podczas gdy ty jedziesz sobie dżipem. Kierowanie innymi oznacza, że musisz być gotów dać z siebie daleko więcej niż kiedykolwiek zażądasz od nich.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'najbogatszymi ludźmi są ci, którzy najwięcej oddają w służbie innym',
+            description: 'Bogactwo finansowe to tylko jedna z miar sukcesu. Na prawdę szczęśliwymi i odnoszącymi sukces ludźmi są kobiety czy mężczyźni zdrowi, zabezpieczeni finansowo, przyjmujący wyzwania w pracy i wpływający na życie innych. Świat to miejsce cyniczne i niebezpieczne, gdzie inni nie będą ufać twoim intencjom. Mogą zostać przekonani wyłącznie poprzez konsekwentne, nieprzerwane, wyjątkowe usługi, oferowane z radością i entuzjazmem. Jeśli jesteś szczery w proponowaniu pomocy i świadczeniu usług, to w swoim czasie nawt najbardziej cyniczne jednostki docenią gotowość zrobienia dla ciebie dodatkowego tysiąca kroków.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'tylko autostrada użytecznych usług prowadzi do miasta szczęścia',
+            description: 'Psychologowie badający ludzkie zachowania doszli do wniosku, że jesteśmy najszczęśliwsi, kiedy wytężamy się, aby odnieść sukces. To akt dążenia, a nie pomyślne ukończenie zadania zapewnia największą satysfakcję. Kiedy starasz się osiągnąć sukces poprzez służenie innym - pomnażasz własne korzyści i gwarantujesz sobie, że niezależnie od wyboru drogi życiowej, zaprowadzi cię ona ostatecznie do sukcesu i szczęścia.<br>Nie ma takiej profesji czy zajęcia, które nie skożystałoby na harmonijnym wysiłku lepszego służenia innym. Największa jednak korzyść przypadnie tobie - w postaci satysfakcji, jaką niesie świadomość, że na coś miałeś wpływ, że bez ciebie ktoś nigdy nie otrzymałby przysługi, jaką ty mu wyświadczyłeś.'
         }, {
             day: 15,
             motto: '',
