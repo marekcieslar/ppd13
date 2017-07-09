@@ -801,7 +801,7 @@ let plan = {
         }, {
             day: 9,
             motto: 'przyjazna współpraca zawsze się opłaca, ponieważ tworzy wśród członków zespołu pozytywną postawę umysłową, która nie uznaje przeciwności',
-            description: 'W każdym zorganizowanym przedsięwzięciu występują przeciwności. Czasem pojawiają się jako problemy techniczne; czasem są nieporozumieniem pomiędzy członkami zespołu co do szlaku, którym najlepiej pójść. Jeżeli dawałeś przykład inicjatywy i otwartego porozumiewania się, to okaże się, że twój zespół posiada zasoby umysłowe i duchowe, by przezwyciężyć tego typu walki.<br>Grupa ludzi, którzy wietzą swemu przywódcy i sobie nawzajem, nie będzie tracić energii, aby wygrać prestiż dla siebie. Wiedzą, że wszyscy skorzystają z rozwiązania i mają motywację, by znaleźć je, dzieląc się wiedzą i pomysłami. Z tych wielu elementów wprawny lider potrafi stworzyć konieczne rozwiązanie, jednak tylko wtedy, kiedy zwycięży duch przyjaźni i uczciwości.'
+            description: 'W każdym zorganizowanym przedsięwzięciu występują przeciwności. Czasem pojawiają się jako problemy techniczne; czasem są nieporozumieniem pomiędzy członkami zespołu co do szlaku, którym najlepiej pójść. Jeżeli dawałeś przykład inicjatywy i otwartego porozumiewania się, to okaże się, że twój zespół posiada zasoby umysłowe i duchowe, by przezwyciężyć tego typu walki.<br>Grupa ludzi, którzy wierzą swemu przywódcy i sobie nawzajem, nie będzie tracić energii, aby wygrać prestiż dla siebie. Wiedzą, że wszyscy skorzystają z rozwiązania i mają motywację, by znaleść je, dzieląc się wiedzą i pomysłami. Z tych wielu elementów wprawny lider potrafi stworzyć konieczne rozwiązanie, jednak tylko wtedy, kiedy zwycięży duch przyjaźni i uczciwości.'
         }, {
             day: 10,
             motto: 'ci, którzy nie potrafią przyjmować z wdzięcznością poleceń, nie mają po co ich wydawać',
@@ -1080,32 +1080,32 @@ let plan = {
             description: 'Psychologowie badający ludzkie zachowania doszli do wniosku, że jesteśmy najszczęśliwsi, kiedy wytężamy się, aby odnieść sukces. To akt dążenia, a nie pomyślne ukończenie zadania zapewnia największą satysfakcję. Kiedy starasz się osiągnąć sukces poprzez służenie innym - pomnażasz własne korzyści i gwarantujesz sobie, że niezależnie od wyboru drogi życiowej, zaprowadzi cię ona ostatecznie do sukcesu i szczęścia.<br>Nie ma takiej profesji czy zajęcia, które nie skożystałoby na harmonijnym wysiłku lepszego służenia innym. Największa jednak korzyść przypadnie tobie - w postaci satysfakcji, jaką niesie świadomość, że na coś miałeś wpływ, że bez ciebie ktoś nigdy nie otrzymałby przysługi, jaką ty mu wyświadczyłeś.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'ci, którzy nie robią więcej niż to, za co im się płaci, nie mają podstaw do upominania się o podwyżkę, ponieważ już dostają wszystko, na co zasługują',
+            description: 'Kiedy rozejrzysz się wokoło, zauważysz bez trudu, że na świecie istnieją dwa typy ludzi. Są ci, którzy powiadają: "Jeśli ta firma zdecyduje się płacić mi tyle, ile jestem wart, to będę robił to, czego ode mnie chcą". Drudzy mówią: "Będę robił wszystko najlepiej jak potrafię, poniważ taki jestem. Wiem też, że jeśli konsekwentnie będę wawał więcej niż się ode mnie oczekuje, to w końcu zostanę wynagrodziny za swoje wysiłki".<br>Łatwo zobaczyć, że osoba pozytywna więcej od innych wnosi do instytucji. Jednak bardzo niewielu ludzi jest gotowych do poświęceń koniecznych do osiągnięcia sukcesu. Upewnij się, że ty sam należysz właśnie do tej grupy.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'niektóre jednostki zdają się mieć alergię na uczciwą pracę, jednak okazja ma również alergię na nich',
+            description: 'W dowolnym biznesie, zawodzie czy zajęciu przychodzi pora, by dostarczyć towar. Możesz oszukać raz, udając, że włożyłeś uczciwy wysiłek, jednak w końcu zostaniesz oceniony za swoje czyny, nie za słowa. Jeśli jesteś bardziej mówcą niż wykonawcą, uczyń dziś przyrzeczenie - już teraz - że zmienisz swoje zachowanie.<br>Może ci się udać dryfować przez życie, jeżeli nie robisz więcej niż się od ciebie wymaga, ale nigdy nie dowiesz się, czego mógłbyś dokonać, gdybyś tylko zechciał dać z siebie trochę więcej. Największe okazje zawsze trafiają się ty, którzy mają zamiłowanie do ciężkiej pracy, nie zaś alergię na nią.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'człowiek, który wykonuje swą pracę dokładnie tak, jak wykonywałby ją, gdyby był właścicielem firmy, może dożyć dnia, kiedy będzie posiadał to lub jeszcze lepsze przedsiębiorstwo',
+            description: 'Najlepiej zarządzanymi firmami są te, w których kierownictwo tworzy dla pracowników możliwości posiadania cząstki biznesu poprzez różnego rodzaju programy własności akcji. Przekonano się, że kiedy pojedynczy pracownicy są także właścicielami, stają się bardziej lojalni, twórczy i zważający na koszty. Pracują też ciężej i silniej reagują na potrzeby klientów. Jeśli masz okazję partycypowania w programie akcji dla załogi, zrób to. W miarę możliwości stwórz taką sposobność dla swoich pracowników. Jeżeli nie są dla ciebie dostępne takie programy, postępuj tak, jakbyś już był właścicielem, a wcześniej czy później będziesz nim. To nieuniknione, że kiedy myślisz jak właściciel, w końcu nim zostaniesz.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'wykonuj swą pracę dokładnie tak jakbyś był swym własnym szefem, a wcześniej czy później zostaniesz nim',
+            description: 'System wolnej przedsiębiorczości bazuje na założeniu, że każda jednostka może czerpać korzyści proporcjonalne do wkładu pracy. Jednak w dzisiejszym zagonionym, bardzo konkurencyjnym, otwartym na świat środowisku możesz odczuwać, iż nie jesteś odpowiednio uznawany i wynagradzany za swój wkład. Następnym razem, kiedy poczujesz się przepracowany, niedostatecznie opłacony i niedoceniony, przypomnij sobie, że tak naprawdę prowadzisz interes dla siebie. To ty jesteś swoim produktem.<br>Czy jesteś pracownikiem, jakiego chciałbyś mieć, gdybyś był szefem? Kiedy rozważasz trudną decyzję, albo zastanawiasz się, jak uniknąć nieprzyjemnego zadania, zapytaj siebie, jak rozwiązałbyś tę sytuację, gdyby to była twoja firma. Jeśli odpowiedź brzmi, że podjąłbyś dokładnie takie same działania, jakie rozważasz jako pracownik, to kroczysz ku większym i lepszym sprawom. Przyjdzie czas, że sam bedzisz szefem.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'nie zadowalaj się tym, że jesteś dobry w swej pracy - bądź najlepszy, a staniesz się niezastąpiony',
+            description: 'Eksperci jednomyślnie przyznają, że powyżej pewnego poziomu pieniądze przestają być motywatorem. Nawet jeśli jeszcze nie dotarłeś do tej granicy, to będąc wobec siebie szczerym prawdopodobnie przekonasz się, że pieniądze stanowią tylko jedno z wielu uwarunkowań, Ludzie odnoszący największe sukcesy, zapytani, czy nadal robiliby to, co robią, gdyby nie przyniosiło to dużych pieniędzy, odpowiadają: "Absolutnie tak. Nie zminiłbym niczego. Kocham to, co robię."<br>Jedną z najpewniejszych dróg do powodzenia jest wybranie zajęcia, które wykonywałbyś nawet wtedy, gdybyś dużo na nim nie zarabiał. Kiedy pracujesz, ponieważ lubisz to robić, pieniądze też się pojawią. Staniesz się tak rzadkim okazem, że inni będą zabiegać o twoje usługi - i szczodrze za nie płacić.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'kiedy zaczniesz rozdawać, wkrótce będziesz zbierać',
+            description: 'Istnieje stara piosenka ludowa o spragnionym podróżniku, który trafia na studnię na pustyni. Przyczepiona kartka informuje, że w pobliżu jest zakopany dzban z wodą, aby zalać pompę przed pompowaniem. <i>Musisz dać, zanim dostaniesz</i> - mówi napisz. Sam podróżnik musi zdecydować, czy wypić wodę z dzbana, czy też zaryzykować, że zainwestowanie tych paru łyków przyniesie niewyczerpane zasoby zimnej, przejrzystej wody.<br>Podobnie rzecz się ma z robieniem dodatkowego tysiąca kroków. Musisz dać, zanim dostaniesz. Nie możesz spodziewać się otrzymania hojnej nagrody, a potem decydowania, co dać w zamian. Musisz dawać dobrowolnie i wierzyć, że rekompensataw końcu się pojawi. Duchowny, Frank Crain, powiedział kiedyś: "Jeśli ufasz za bardzo, możesz zostać oszukany, ale będziesz żył w udręce, jeśli ufasz zbyt mało".'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'skoro masz coś, czego nie potrzebujesz oddaj to komuś, kto tego potrzebuje - w ten czy inny sposób to do ciebie wróci',
+            description: 'Rozumiesz już wagę dobrowolnego oferowania usług swojej społeczności bez spodziewania się w zamian czegoś konkretnego. Wiesz już także, jak istotne są nieuchwytne, osobiste korzyści szacunku dla samego siebie i inspiracji, które towarzyszą takim działaniom.<br>Prawdą jest również to, że wyświadczając usługę społeczeństwu, wywierasz wpływ na wartości uznawane w twoim środowisku. Twoje czyny stanowią cichy, lecz wyraźny sygnał dla innych o wartości zaangażowania, znak, że sukces nie podlega na bezdusznym oddaniu sprawie i przypomnienie o osobistej satysfakcji, jaką syskuje się z własnej pracy.<br>Zauważysz, że zachęca to innych do podobnych działań w różnych dziedzinach, inicjując efekt rozchodzenia się fali, który wykracza daleko poza to, co można zrobić samemu. Społeczność, w której żyjesz, stanie się lepszym miejscem, a ty będziesz szczęśliwszą jego częścią.'
         }, {
             day: 22,
             motto: '',
