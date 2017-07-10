@@ -1108,40 +1108,40 @@ let plan = {
             description: 'Rozumiesz już wagę dobrowolnego oferowania usług swojej społeczności bez spodziewania się w zamian czegoś konkretnego. Wiesz już także, jak istotne są nieuchwytne, osobiste korzyści szacunku dla samego siebie i inspiracji, które towarzyszą takim działaniom.<br>Prawdą jest również to, że wyświadczając usługę społeczeństwu, wywierasz wpływ na wartości uznawane w twoim środowisku. Twoje czyny stanowią cichy, lecz wyraźny sygnał dla innych o wartości zaangażowania, znak, że sukces nie podlega na bezdusznym oddaniu sprawie i przypomnienie o osobistej satysfakcji, jaką syskuje się z własnej pracy.<br>Zauważysz, że zachęca to innych do podobnych działań w różnych dziedzinach, inicjując efekt rozchodzenia się fali, który wykracza daleko poza to, co można zrobić samemu. Społeczność, w której żyjesz, stanie się lepszym miejscem, a ty będziesz szczęśliwszą jego częścią.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'najpewniejszym sposobem promowania siebie jest pomagać innym wysunąć się na przód',
+            description: 'Kiedy schodzisz z własnej drogi, aby pomóc innym wysunąć się do przodu, jest pewne, że oni ci się odwdzięczą. Gdy prawdziwie życzysz innym dobrze, nawet jeśli możesz czuć się nieco zazdrosny, iż wysuwają się szybciej niż ty lub zyskują większe uznanie, to zareagują oni w odpowiedni sposób. Twoje dobre czyny zachęcą ich do podobnego działania.<br>Możesz się nigdy nie dowiedzieć, jak wiele osób zarekomendowało cię do lepszej pracy czy awansu, albo pomogło w inny sposób, ponieważ ty wsparłeś ich wówczas, kiedy tego najbardziej potrzebowali.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'jeśli jesteś pasterzem, bądź najlepszy, a możesz dożyć dnia, kiedy staniesz się właścicielem stada',
+            description: 'Do najducowniejszych spraw w życiu należy to, że każdy z nas jest jedyny, o sobie właściwym stopniu inteligencji, zainteresowaniach, zdolnościach i pragnieniach. Jakże okropnie nudno byłoby, gdybyśmy wszyscy chcieli być fizykami jądrowymi - albo piekarzami. Jednak niezależnie od naszych wrodzonych darów oraz umiejętności, jakie mogliśmy rozwinąć, wszyscy posiadamy zdolności stawania się najlepszymi w tym, co robimy.<br>Doskonalenie się stanowi ścisłe odbicie twojej postawy i pragnień. Czy jesteś sprzedawcą, kierownikiem, sekretarką czy robotnikiem pracującym przy taśmie produkcyjnej, posiadasz potencjał, by być tak dobrym, jak postanowisz. Kiedy będziesz się wyróżniał w tym, co robisz, odkryjesz rosnące zapotrzebowanie na twoje usługi. Gdy staniesz się w swojej pracy najlepszy, możesz być tak często proszony o pomoc innej "owcy", że wkrótce będziesz posiadał własne stado.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'wspinanie się w górę będzie łatwiejsze, jeżeli weźmiesz ze sobą innych',
+            description: 'Kiedy przejmujesz inicjatywę, stajesz się de facto liderem, którego sukces zależy w znacznym stopniu od zdolności inspirowania innych do pracy wraz z tobą. Podążą za twoim przywództwem, kiedy będą ci ufać i widzieć, że znajdą udział w twoim sukcesie. Niewielu z nas jest wystarczająco dobrych lub ma wystarczająco dużo szczęścia, aby osiągnąć wielki sukces zupełnei samemu. Potrzebujemy pomocy innych. Kiedy dajemy w zamian więcej niż kiedykolwiek prosiliśmy o to naszych przyjaciół i kolegów, to nie tylko będziemy zdolni do większych osiągnięś, lecz także całe doświadczenie stanie się dużo przyjemniejsze.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'kiedy droga naprzód jest trudna, po prostu wytrwaj, a dojdziesz szybciej niż ktoś, komu wydaje się, że droga jest łatwiutka',
+            description: 'Jeżeli uważasz, że osiągnięcie wielkich wyżyn sukcesu będzie łatwe, to albo w ogóle nie rozumiesz, jak odbywa się ten proces, albo celujesz zbyt nisko. Osiaganie szczytu w dowolnej dziedzinie jest trudne, czasochłonne i często nudne. Przyczyna, dla której na szczycie nie ma tłoku, tkwi w tym, że większość ludzi nie robi tego, co konieczne do osiągnięcia sukcesu. Są zbyt skłonni do rezygnowania, gdy droga staje się trudna. Jeżeli potrzebujesz zachęty do wytrwania, czytaj biografie ludzi, którzy w swym życiu sięgneli po wielkość. Przekonasz się, że zwyciężyli, gdyż nigdy nie chcieli się poddać ani zrezygnować. Na długo po tym, jak tłumy wycofały się i poszły do domu, oni wciąż się trudzili.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'zauważ, że najbardziej wydajny pracownik jest zazwyczaj najbardziej zajęty',
+            description: 'Ludzie sukcesu to ludzie zajęci. Nie znoszą bezczynności i nieustannie poszukują nowych wyzwań i lepszych sposobów robienia czegoś. Kiedy inni przekonają się, że jesteś pracownikiem myślącym, pomocnym i entuzjastycznym, szybko będziesz miał więcej pracy niż zdołasz przerobić i znacznie zwiększy się liczba osób, które będą gotowe zaangażować się w twój sukces.<br>najbardziej nużące zadania stają się znacznie łatwiejsze do zniesienia, kiedy rywalizujesz z samym sobą w doskonaleniu się przy ich wykonaniu. Kiedy znajdziesz sposoby szybszego i lepszego wykonywania swej pracy, to zyskasz czas, który będziesz mógł wykorzystać na bardziej twórcze sprawy.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'Jakość i ilość oddawanych przez ciebie usług ustala twoje zarobki i decyduje o rodzaju doświadczenia, jakie zdobywasz',
+            description: 'Jedynymi ograniczeniami dla twoich możliwości dochodu i awansu są te, jakie sam sobie stawiasz. Jeśli nie lubisz swego stanowiska albo nie jesteś zadowolony ze swej pensji, zrób z tym coś. Co możesz uczynić, by stać się bardziej cennym dla swego oddziału czy firmy? Jakie zadania nie zostały zakończone, ponieważ nikt nie miał czasu czy chęci, by się nimi zająć?<br>Rozejrzyj się i znajdź rzeczy, które powinny być zrobione. Nie czekaj, aż cię o to poproszą. Jeżeli wyszukiwanie okazji, podejmowanie nowych zadań należy do twoich nawyków, to poszerzasz swoją wiedzę o firmie i z czasem staniesz się tak cennym pracownikiem, że firma nie będzie mogła sobie pozwolić na to, by cię stracić.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'jest wielce prawdopodobne, że twoja praca lubi cię dokładnie tak samo jak ty ją, nie więcej',
+            description: 'Ty sam jesteś największym na świecie ekspertem od swojej pracy i ty możesz przemienić ją w cokolwiek postanowisz. Otrzymałeś na pewno instsrukcję dla swego stanowiska i zakres obowiązków, jednak niewiele zajęć poddaje się szczegółowym wytycznym. Opis czynności na danym stanowisku zapewnia tylko podstawę, na której możesz zbudować idealną dla siebie pracę. Kiedy hojnie się jej oddajesz, odwzajemnia się pełną miarą satysfakcji, osobistego rozwoju, wynagrodzeń pieniężnych i obietnic na przyszłość.<br>jeżeli masz pracę, której nienawidzisz, a rozważałeś wszelkie alternatywy, i doszedłeś do wniosku, że nigdy nie polubisz tego zajęcia, znajdź coś innego. Jeśli jednak, jak to jest w przypadku większości ludzi, nie odpowiada ci w pracy kilka rzeczy, ale w sumie uważasz, że zajmujesz całkiem dobre stanowisko, to zacznij przemieniać ją w najwspanialszą pracę pod słońcem. W swej karierze zawodowej, tak jak w życiu, dostajesz wprost proporcjonalnie do tego, co wnosisz.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'robiąc dodatkowy tysiąc kroków, uczysz się dążenia do ambitniejszych celów',
+            description: 'Dobrze jest czuć, że zmieniłeś opstawę, z jaką świadczysz dodatkową usługę, jeśli jednak nie wyróżnia cię ona ponad to, co robią inni, to nie przynosi ci wiele dobrego. Trzeba przyjrzeć się współpracownikom i konkurentom, aby zrozumieć, co może cię wyróżnić. Jeśli istniej normy wykonywania pracy, przekrocz je. Jeżeli wypełniasz kontrakt, dopilnuj, by zaoferować więcej niż obiecałeś.<br>Nie możesz zawęzić dodatkowych usług tylko do pracy. Musisz uczynić z nich część filozofii odnoszenia się do każdej osoby, z którą się stykasz. Wyobraź sobie, jak inni będą zachwyceni przekonując się, że nie tylko robisz to, co obiecujesz, ale nawet zapewniasz więcej. Prawdziwa korzyść z robienia dodatkowego tysiąca kroków polega na uczeniu się ciągłego dążenia do lepszych i większych dokonań we wszystkim, co robisz.'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'największa ze wszystkich zasad sukcesu mówi: rób innym to, co robiłbyś, gdybyś był tymi innymi',
+            description: 'Złota reguła jest czymś więcej niż zasadą moralnego postępowania. Stanowi dynamiczną siłę, która może wnieść dobro w życie niewypowiedzianych rzeszy ludzi. Kiedy masz w zwyczaju traktowanie innych tak, jakbyś to ty był innymi, uruchamiasz dobrą wolę pośród ludzi, którzy mogą też zostać poruszeni, by robić to samo. Ich działania wpływają na dalszych, którzy znów generują dobrą wolę pośród następnych, jeszcze liczniejszych rzesz. SIła dobrej woli rośnie nieustannie i powróci do ciebie z całkowicie nowych źródeł. Korzyść, jaką przynosi ci dobry czyn dokonany dziś przez kogoś zupełnie obcego, może być wynikiem reakcji łańcuchowej sprzed bardzo dawna, kiedy przestrzegałeś złotej reguły w swym postępowaniu wobec innych.'
         }, {
             day: 31,
             motto: '',
