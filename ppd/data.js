@@ -1142,38 +1142,34 @@ let plan = {
             day: 30,
             motto: 'największa ze wszystkich zasad sukcesu mówi: rób innym to, co robiłbyś, gdybyś był tymi innymi',
             description: 'Złota reguła jest czymś więcej niż zasadą moralnego postępowania. Stanowi dynamiczną siłę, która może wnieść dobro w życie niewypowiedzianych rzeszy ludzi. Kiedy masz w zwyczaju traktowanie innych tak, jakbyś to ty był innymi, uruchamiasz dobrą wolę pośród ludzi, którzy mogą też zostać poruszeni, by robić to samo. Ich działania wpływają na dalszych, którzy znów generują dobrą wolę pośród następnych, jeszcze liczniejszych rzesz. SIła dobrej woli rośnie nieustannie i powróci do ciebie z całkowicie nowych źródeł. Korzyść, jaką przynosi ci dobry czyn dokonany dziś przez kogoś zupełnie obcego, może być wynikiem reakcji łańcuchowej sprzed bardzo dawna, kiedy przestrzegałeś złotej reguły w swym postępowaniu wobec innych.'
-        }, {
-            day: 31,
-            motto: '',
-            description: ''
         }]
     }, {
         name: 'październik',
         motto: 'Twój umysł',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'człowiek, który zanurzył loda w czekoladzie i nazwał go ciastkiem eskimosa, zbił majątek na pięciu sekundach wyobraźni',
+            description: 'Zaledwie zaczynamy rozumieć rajemnicze sposoby funkcjonowania umysłu, jednak ludzie sukcesu już dawno odkryli, jak wykorzystywać twórczą wizję na swoją korzyść. Wiele "nowych" pomysłów to w rzeczywistości nic więcej ponad nowe połączenie dwóch dobrze znanych produktów czy koncepcji. A przecież z takich skojarzeń zrodziły się fielkie fortuny, gdy wsparły je zręczne nazwy i kampania reklamowa.<br>Istnieje pewien konkretny proces, który możesz wykorzystać, by poruszyć swą wyobraźnię. James Webb Younk w swej książce <i>Technika wytwarzania pomysłów</i> wyróżnił pięć etapów:<ol><li>Zgromadź potrzebne informacje</li><li>Przetwórz informacje w swoim umyśle</li><li>pozwól idei wykluć się w podświadomości.</li><li>Rozpoznaj etap <i>Eureka!</i>, gdy rodzi się koncepcja.</li><li>Ukształtuj i opracuj pomysł w celu praktycznego zastosowania.</li></ol>.<br>Ta technika sprawdza się. Wypróbuj są, kiedy następnym razem będziesz poszukiwał twórczego rozwiązania dla starego problemu.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'clarence saunders zrobił miliony na sprzedawaniu koncesji samoobsługowego sklepu spożywczego - wyobraźnia popłaca',
+            description: 'Clarence Saunders, założyciel szeregu sklepów spożywczych <i>Piggly Wiggly</i>, był pracownikiem niższego rzeðu w małym sklepie, gdy wszedł kiedyś do baru samoobsługowego i wpadł na pomysł, że te same techniki mogą znaleźć zastosowanie w handlu artykułami spożywczymi. Został wyśmiany przez ekspertów, ale miał silne przekonanie co do wartości pomysłu. Saunders wytrwał, a adaptacja koncepcji samoobsługi do sklepów sprawiła, że został nazwany ojcem nowoczesnego supermarketu.<br>Prawdą jest, że sam dobry pomysł nie wystarcza do osiągnięcia sukcesu. Wdrożenie może wymagać tyle samo albo więcej wyobraźni co pierwsze wysunięcie pomysłu. Ci, którzy zajmują się badaniem takich spraw donoszą, że kiedy masz rzeczywiście dobry pomysł, to nawet jeśli nie umiesz tego udowodnić, intuicyjnie wiesz, że jest dobry. Skoro masz do czegoś przekonanie, przylgnij do tego. Inni w końcu uznają wartość twego pomysłu.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'wyobraźnia jest warsztatem duszy, w którym kształtują się wszystkie plany osiągnięć osobistych',
+            description: 'Zanim zrealizujesz coś wartościowego, najpierw musisz to stworzyć w swoim umyśle. Twój umysł nie jest ograniczony barierami czy granicami fizycznymi. W warsztacie swego umysłu możesz wyobrazić sobie rzeczy, które nigdy nie istniały. Mówi się, że Albert Einstein wyobrażał sobie, jak mógłby wyglądać wszechświat, gdyby leciał okrakiem na wiązce światła poprzez nieskończoność. Potem opracował konstrukcje matematyczne na poparcie swej teorii względności. Możesz wykorzystywać siłę swej wyobraźni, aby zobaczyć rozwiązania trudnych problemów, wysunąć nowe idee i ujrzeć siebie osiągającego cele, które sobie wyznaczyłeś.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'twoja praca nigdy nie będzie większa niż uczynisz ją w swej wyobraźni',
+            description: 'Daniela Burnhama, architekta i projektanta zagospodarowania przestrzennego miasta z przełomu wieków, którego projekt Chicago World\'s Fair z 1893 roku znacząco wpłynął na charakter współczesnych projektów miejskich, cytuje się w związku z jego powiedzeniem: "Nie rób małych planów". Wiedział, że trzeba mieć wielkie pomysły, aby dokonywać wspaniałych rzeczy. Jeśli możesz coś sobie wyobrazić, możesz to stworzyć. A jeżeli w swej wyobraźni potrafisz ujrzeć obraz pracy, jaką chciałbyś mieć, to możesz ją wykreować także w realnym świecie.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'jeśli tylko znasz lepszy zposób zrobienia czegokolwiek, to twój pomysł może być wart fortuny',
+            description: 'W każdym przedsięwzięciu najcenniejszymi pomysłami są te, które oszczędzają lub przysparzają pieniędzy, oszczędzają czas lub ulepszają sposób robienia czegoś. Każda poprawa, choćby najmniejsza, jest krokiem we właściwym kierunku. Czujność wobec sposobności udoskonalania zależy od opzytywnej postawy. Naprawdę nie da się twórczo myśleć o okazjach, kiedy mysli koncentrują się na dnie ryzyka zamiast na szczycie potencjału. Kiedy poszukujesz sposobów poprawienai swych wyników, znalezienia lepszego, szybszego czy bardziej ekonomicznego sposobu wykonania zadania czy wytworzenia dowolnego produktu, wszelkimi środkami analizuj i minimalizuj ryzyko, zaś z całych sił skupiaj się na możliwościach.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'umysł poszerza się przez używanie, a zanika z powodu bezczynności',
+            description: 'Podobnie jak ciało nabiera sił poprzez regularne ćwiczenia fizyczne, tak samo umysł wymaga regularnego używania, aby zachować siły. Upewnij się, że twój plan osobistego rozwoju zawiera mnóstwo stymulacji umysłowej. Do najlepszych sposobów rozwijania zdolności wyobraźni i wizualizacji należy czytanie.<br>W trakcie czytanie czegokolwiek umysł tłumaczy słowa na obrazy, ułatwiające lepsze zrozumienie koncepcji, o których czytasz. Zostań nienasyconym czytelnikiem. Czytaj gazety, czasopisma handlowe, poradniki i powieści; wszystko przyczyni się do powiększenia zasobów twej wiedzy oraz zdolności wizualizacji i bardziej skutecznego wykorzystywania wyobraźni'
         }, {
             day: 7,
             motto: '',
