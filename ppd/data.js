@@ -1172,28 +1172,28 @@ let plan = {
             description: 'Podobnie jak ciało nabiera sił poprzez regularne ćwiczenia fizyczne, tak samo umysł wymaga regularnego używania, aby zachować siły. Upewnij się, że twój plan osobistego rozwoju zawiera mnóstwo stymulacji umysłowej. Do najlepszych sposobów rozwijania zdolności wyobraźni i wizualizacji należy czytanie.<br>W trakcie czytanie czegokolwiek umysł tłumaczy słowa na obrazy, ułatwiające lepsze zrozumienie koncepcji, o których czytasz. Zostań nienasyconym czytelnikiem. Czytaj gazety, czasopisma handlowe, poradniki i powieści; wszystko przyczyni się do powiększenia zasobów twej wiedzy oraz zdolności wizualizacji i bardziej skutecznego wykorzystywania wyobraźni'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'w prawdzie twki coś, co powoduje, że łatwo mogą ją rozpoznać ci, którzy opszukują jej otwartym umysłem',
+            description: 'Ważna osobistość w branży cukierniczej, cytowany już Wally Amos, spopularyzował ciekawe powiedzenie: "Umysł przypomina spadochron. Funkcjonuje najlepiej, gyd się go otworzy". Kiedy otwierasz umysł na możliwości, obiektywnie analizujesz informacje i nie pozwalasz własnym skłonnościom i preferencjom, by zniekształcały ocenę, wówczas będziesz w stanie dostrzegać wielkie prawdy, które zostały przeoczone przez innych. Zamknięty umysł powoduje, że traciszs nieuchronnie niektóre z największych darów życia.<br>Widząc, że spierasz się z faktami albo wciąż próbujesz nagina je, by podtrzymać swoje prekonania, zadaj sobie istotne pytanie: - dlaczego tak bardzo nie chcę przyjąć tej informacji? czy zachowuję logikę i rozsądek, czy też zwyczajnie emocje przysłaniają mój osąd?<br>Najgorszym błędem, jaki możez popełnić, jest usiłowanie przekonania siebie samego do zaakceptowania fałszywej prawdy. Próby oszukiwania innych nie mieszczą się w ramach właściwego postępowania, kiedy jednak oszukujesz sam siebie, z całą pewnością nastąpi katastrofa.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'zamknięty umysł potyka się o błogosławieństwa, nie rozpoznając ich',
+            description: 'Dla niewprawnego oka geoda wygląda zupełnie podobnie do zwykłej skały. Wyszkolony geolog wie jednak, że wewnątrz znajduje się cudowna wyściółka krystaluczna. Identyczna historia zdarza się tym, którzy nie chcą badać nowych możliwości, ponieważ mają zamknięte umysły. Największe okazje życia, podobnie do geod, pojawiają się często w pospolitych opakowaniach.<br>Nie pozwól sobie stać się niewolnikiem nawyków do takiego stopnia, aby poprzestawać na zwykłym wykonywaniu ruchów i pozwól wreszcie, by życie ci się przydarzyło. Zwyczajnie wybranie innej drogi do pracy, ułożenie układanki, przeczytanie gazety zamiast oglądania telewizji, czy zwiedzenie muzeum podczas południowej przerwy, będą stymulować twoje procesy myślowe i pomagać w otwieraniu umysłu na nowe możliwości.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'weź w posiadanie swój umysł, a wkrótce możesz skłonić zycie do gry na twoich warunkach',
+            description: 'Umysł jest twoją niekwestionowaną najcenniejszą własnością. Możesz utracić każdą materialną rzecz, jaką posiadasz, ale wiedza nigdy nie zostanie ci odebrana. Mając ją jesteś w stanie zbić nową fortunę, wybudować nowy dom, kupić cokolwiek, czego naprawdę pragniesz. Nikt inny nie może kierować twoimi myślami. Nwet najokrutniejszy tyran nie potrafi cię zmusić do myślenia o czymś, czego nie chcesz zaakceptować. Kiedy podejmuejsz świadomą decyzję, by przejąć ster swego umysłu i karmić go pozytywnymi, konstruktywnymi myślami, zmierzasz w kierunku przejęcia kontroli nad swym życiem. Rodzaj myśli, jakim pozwolisz dominować w swoim umyśle, zadecyduje o tym, co otrzymasz od życia.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że umysł wzmacnia się poprzez używanie go; walka rodzi moc',
+            description: 'Napoleon Hill lubił przytaczać opowieść o swym dziadku, cieśli, wyrabiającym wozy w północnej Karolinie. Gdy zdarzyło się, że stary człowiek karczował ziemię pod uprawę, zawsze zostawało kilka dębów pośrodku pola, na łasce żywiołów, nie osłoniętych przez inne drzewa w lesie. To właśnie z tych drzew dziadek Hilla robił koła do wozów. Pinieważ musiały one walczyć z atakami natury, stawały się wystarczająco mocne, by wytrzymać najcięższe ładunki.<br>Z radością witaj trudne wyzwania, gdyż najwspanialsze okazje rodzą się z wyzwań, które zmuszają twój umysł do wysiłku w poszukiwaniu twórczych rozwiązań. W najgorszch godzinach znajduj pocieszenie w fakcie, że wzmacniasz się poprzez walkę, aby w przyszłości być przygotowanym na podjęcie jeszcze trudniejszych wyzwań. Jak ten stary dąb nabierasz siły, kiedy sytuacja zmusza cię do walki.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'bądz czujny wobec tego, kto stara się zatruć twój umysł pod pretekstem pomocy tobie; stawiam tysiąc do jednego, że usiłuje pomóc samemu sobie',
+            description: 'Współczesny południowoafrykański poeta i malarz, Breyten Breytenbach, opowiada historię o pewnym Murzynie, zwanym Freedom, który należał do jednonogiego właściciela niewolników w czasach panowania niewolnictwa. Kupując sobie nowe buty, właściciel zawsze dawał lewy but, którego nie mógł używać, swemu niewolnikowi Freedomowi. w końcu noszenie samych lewych butów tak zdeformowało prawą stopę Freedoma, że dzięki "szczodrości" swego pana stał się trwałym kaleką.<br>Nie daj się oszukać ludziom, którzy usiłują załatwić swoje interesy pod pozorem pomocy tobie. Wysłuchaj rady innych, podziękuj im za zainteresowanie i sam zdecyduj, co jest najlepsze. Zastosuj się do rady, jeżeli pasuje ona do twojego planu zycia, ale nei wahaj się odrzucić jej, jeśli ci nie odpowiada. Na całym świecie istnieje tylko jedna osoba, która najlepiej wie, co jest dla ciebie najlepsze i tą osobą jesteś ty.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'najbystrzejsze umysły to te, które zostają wyostrzone praktycznym doświadczeniem',
+            description: 'Teoretyczną wiedzę bez doświadczenia praktycznego można by porównać do wielkiej ilości nie ukierunkowanej energii. Dopóki nie zostanie skupiona, trudno ją skierować na pożyteczny cel. Doświadczenie praktyczne jest jak gdyby soczewką, dzięki której wiedza może być zogniskowana i skierowana na działania zapewniające największe korzyści.<br>Kiedy poznajesz nowe koncepcje albo wpadasz na pomysł, który jeszcze nie został wypróbowany, zawsze przed wdrożeniem przemyśl jego zastosowania. Jeśli po rozważeniu możliwości pomysł wciąż wydaje się dobry - weź się do działania. Jedynym sposobem na zdobycie praktycznego doświadczenia jest zabranie się do pracy na zrealizowaniem swego pomysłu.'
         }, {
             day: 13,
             motto: '',
