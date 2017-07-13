@@ -1196,32 +1196,32 @@ let plan = {
             description: 'Teoretyczną wiedzę bez doświadczenia praktycznego można by porównać do wielkiej ilości nie ukierunkowanej energii. Dopóki nie zostanie skupiona, trudno ją skierować na pożyteczny cel. Doświadczenie praktyczne jest jak gdyby soczewką, dzięki której wiedza może być zogniskowana i skierowana na działania zapewniające największe korzyści.<br>Kiedy poznajesz nowe koncepcje albo wpadasz na pomysł, który jeszcze nie został wypróbowany, zawsze przed wdrożeniem przemyśl jego zastosowania. Jeśli po rozważeniu możliwości pomysł wciąż wydaje się dobry - weź się do działania. Jedynym sposobem na zdobycie praktycznego doświadczenia jest zabranie się do pracy na zrealizowaniem swego pomysłu.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'szybka decyzja zwykle świadczy o czujmyn umyśle',
+            description: 'Ludzie sukcesu są osobami szybkiej decyzji. Nie męczą się bez końca z jej podejmowaniem, tracąc w tej sposób cenne okazje. Zbierają istotne informacje, dyskutują alternatywy z doradcami, których opinie szanują, a potem podejmują decyzję i biorą się za jej realizację. Brak decyzji prowadzi do najgorszego rodzaju paraliżu i , pozostawiony bez nadzoru, może przynieść trwałą szkodę tobie i twojej firmie.<br>Jeśli masz kłopoty z podejmowaniem decyzji, to pamiętaj, że tylko nieliczne decyzje są nieodwracalne. Gdy później odkryjesz, że popełniłeś błąd czy nie miałeś racji, popraw bieg spraw i ruszaj dalej.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'kontroluj swój umysł, a nigdy nie będziesz kontrolowany przez umysł innego człowieka',
+            description: 'Umysł jest najporężniejszą bronią, jaką zna człowiek. Nie może być kontrolowany ani ograniczany przez zewnętrzną siłę, jakkolwiek straszliwa mogłaby się ta siła na początku wydawać. Poprzez wieki historii wielu tyranów usiłowało kontrolować myśli i przekonania swych oponentów, tych, którzy im się sprzeciwiali, jednak ostatecznie władcy ci przekonywali się, że siła wyobraźni, myśli, znacznie przewyższa groźbę miecza. Victor Hugo powiedział: "Można powstrzymać inwazję armii, ale nie idee, której czas nadszedł".'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'najlepiej służy ten umysł, który jest najbardziej wykorzystywany',
+            description: 'Czy posiadasz program stałego udoskonalania swej najcenniejszej własnoście - twego umysłu? Dopilnuj, by każdego dnia poświęcać przynajmniej pół godziny na studiowanie, myślenie i planowanie. Rewiduj swe cele długo - średnio i - krótkoterminowe oraz mierz dotychczasowe postępy. Czy zachowujesz harmonogram ich realizacji? Zadawaj sobie pytania - jakich brakuje mi informacji, pomocnych w osiągnięciu moich celów? Potem weź się za zebranie potrzebnych danych i przystąp do działania.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'umysł nigdy się nie męczy, ale czasem staje się znudzony "pożywieniem", jakie dostaje',
+            description: 'Eksperci od komputerów stosują akronim GIGO - śmieci na wejściu, śmieci na wyjściu - dla zilustrowania faktu, że komputer może przetworzyć tylko te informacje, które dostaje. Podobnie dzieje się z twoim umysłem. Jeśli karmisz go zdrowym, pożywnym "pokarmem", to będzie co raz silniejszy i zręczniejszy, jeśli jednak ograniczasz się do ciągłej diety umysłowego "byle czego", to umysł stanie się chory, negatywny i nieproduktywny. Zwróci ci dokładnie to, co do niego wkładaz. Karm swój umysł zrównoważoną, odżywczą dietą. Studiuj wiadomości z różnorodnych dziedzin, aby ułatwić sobie nadążanie za najnowszymi trendami. Możesz się niejednokrotnie przekonać, że najlepszy pomysł dla twojego przedsiębiorstwa pochodzi z dziedziny zupełnie z nim nie związanej.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'poznaj swój własny umysł, a zyskasz mądrość mędrców',
+            description: 'Kiedy przejmujesz kontrolę nad swoim umysłem, przejmujesz kontrolę nad własnym życiem. Gdy rozumiesz swoje myśli, emocje i pragnienia, możez je skierować ku dowolnemu wynikowi, jaki wybierzesz. Mądrość przychodzi z poświęcania czasu na poznawanie samego siebie, na dowiadywanie się, dlaczego jesteś tym, kim jesteś. Przejmowanie kontroli nad własnym umysłem to proces głęboki, intelektualny, samotny. Tylko ty sam możesz pojąć skomplikowane, wewnętrze działania własnego umysłu i musisz chcieć poświęcić czas i wysiłek, jakich wymaga zyskiwanie takiej wnikliwości.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'jeżeli znasz swój umysł, to wiesz wystarczająco dużo, by zawsze utrzymać go w postawie pozytywnej',
+            description: 'Możesz nie rozumieć do końca skomplikowanego procesu wytwarzania i doprowadzania elektryczności do twojego domu, wiesz jednak bardzo dobrze, w jakie sposób tę elektryczność zastosować i wykorzystać do oświetlenia mieszkania, uruchomienia komputera czy wykonywania setek innych ważnych zadań. To samo odnosi się do twego umysłu. Nikt z ludzi nie rozumie niewiarygodnie złożonych działań mózgu, wiemy jedynie, że kiedy wykorzystujemy umysł w określony sposó, otrzymujemy pożądany wynik. Jeśli myślimy pozytywnie, osiągamy pozytywne rezultaty.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'nikt jeszcze nie odkrył ograniczeń możliwości własnego umysłu',
+            description: 'Pat Rayan, prezez spółki Aon Corporation, ogromnej międzynarodowej firmy ubezpieczeniowej, jest lubiany za swe powiedzenie: "Stawiając ograniczenia swemu umysłowi nawet nie domyślasz się, jak wysoki jest jego pułap". Przyznaje on, że ta faza nie jest arcydziełem stylu, ale mocno podkreśla to, że jedynymi ograniczeniami, jakie mogą być nałożone na moc twego umysłu są te, jakie sam sobie narzucasz.<br>Kiedy prowadzisz burzę mózgów, nie pozwalaj na stawianie granic jakimkolwiek pomysłom. Czasem idee, które w danej chwili wydają się najbardziej szalone, później okazują się najbardziej natchnione. Pracując z grupą, zachęcaj do swobodnego przepływu idei. Nie bądź krytyczny ani analizujący podczas procesu burzy mózgów. Na tym etapie każdy pomysł jest dobry. Połącz idee w grupy powiązanych ze sobą myśli tak, aby najlepsze z nich mogły być potem ukształtowane w kierunku praktycznego zastosowania.'
         }, {
             day: 20,
             motto: '',
