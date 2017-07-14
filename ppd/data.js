@@ -1224,28 +1224,28 @@ let plan = {
             description: 'Pat Rayan, prezez spółki Aon Corporation, ogromnej międzynarodowej firmy ubezpieczeniowej, jest lubiany za swe powiedzenie: "Stawiając ograniczenia swemu umysłowi nawet nie domyślasz się, jak wysoki jest jego pułap". Przyznaje on, że ta faza nie jest arcydziełem stylu, ale mocno podkreśla to, że jedynymi ograniczeniami, jakie mogą być nałożone na moc twego umysłu są te, jakie sam sobie narzucasz.<br>Kiedy prowadzisz burzę mózgów, nie pozwalaj na stawianie granic jakimkolwiek pomysłom. Czasem idee, które w danej chwili wydają się najbardziej szalone, później okazują się najbardziej natchnione. Pracując z grupą, zachęcaj do swobodnego przepływu idei. Nie bądź krytyczny ani analizujący podczas procesu burzy mózgów. Na tym etapie każdy pomysł jest dobry. Połącz idee w grupy powiązanych ze sobą myśli tak, aby najlepsze z nich mogły być potem ukształtowane w kierunku praktycznego zastosowania.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'negatywny umysł nigdy nie sprowadza szczęścia ani powodzenia materialnego, ale zawsze przyciąga ich przeciwieństwa',
+            description: 'Morzesz przekonać samego siebie, że zabawiasz się jedynie w adwokata diabła albo wynajdujesz słabości w zupełnie dobrych pomysłach, ale ostatecznie negatywne myślenie zawsze przynosi negatywne rezultaty. Tak jak twój umysł niestrudzenie pracuje, aby przetłumaczyć twe pozytywne myśli na ich fizyczne odpowiedniki, równie intensywnie będzie się trudzić nad stworzeniem negatywnych wyników, kiedy wszystkie twoje myśli są negatywne.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'każdy umysł jest dla wibracji myśli zarówno stacją nadawczą jak i odbiorczą',
+            description: 'Niezależnie od tego, jak transmisja myśli wygląda od strony naukowej, prawdą jest, że kiedy chcesz zyskać siłę obecną w myślach innych, musisz uwarunkować swój umysł na przyjmowanie ich idei. Słuchanie pomaga w nastawieniu twego umysłu na otrzymanie cennych informacji zawartych w myślach innych ludzi. Odłóż na bok swoje jakiekolwiek wcześniejsze wyobrażenia na dany temat i słuchaj uważnie, bez oceniania tego, co jest mówione. Koncentruj się na informacji, nie na mówiącym. Próbuj identyfikować kluczowe koncepcje, jakie kryją się za słowami mówcy. Ćwicz umysł w rozpoznawaniu i przyswajaniu informacji, które inni często przeoczają, ponieważ ich receptory nie są dostrojone na właściwą częstotliwość.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'twój prawdziwy wiek jest zdeterminowany opstawą umysłową, a nie latami, które przeżyłeś',
+            description: 'Amerykański duchowny i autor, Tyron Edwards, powiedział: "Wiek nie zależy od ilości lat, lecz od temperamentu i zdrowia. Niektórzy ludzie rodzą się starzy, a inni nigdy nie stają się tacy". Bez wątpienia spotkałeś nastolatków, którzy zestarzeli się przed czasem i siedemdziesięciolatków o temperamencie i entuzjazmie osób po raz pierwszy odkrywających cudowności życia. Wszystko jest kwestią postawy<br>Kiedy wzrastasz i rozwijasz się, dopilnuj, by doświadczenie kierowało cię w stronę zdobywania mądrości, nie zaś przyswajaniu cynizmu. Jeżeli z powodu przeszłych doświadczeń utrzymywanie otwartego umysłu sprawia ci trudność, to przypomnij sobie, że obecnie masz do czynienia z innymi ludźmi, zmienionymi warunkami, a sam jesteś starszy i mądrzejszy, zatem twoje szanse odniesienia są większe niż w przeszłości.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'twój umysł to jedyna rzecz, jaką w pełni kontrolujesz; nie trwoń go w bezużytecznych sporach',
+            description: 'Swój czas i energię - zarówno fizyczną jak i umysłową - możesz poświęcić na sprawy, które przyniosą największy zysk z twojej inwestycji, albo możesz roztrwonić je na działania, które nigdy nie wydadzą owoców. Skoro umysł jest wyłącznie twoim królestwem, ty decydujesz, czy wykorzystać go dla konstruktywnych celów czy zmarnować moc umysłu - i czas - na bezsensowne kłótnie, które do niczego nie prowadzą. Istnieje szalona różnica pomiędzy ożywioną, śmiałą debatą intelektualną a małostkowym sporem. Kiedy dyskutujesz na temat koncepcji, twoja własna wiedza poszerza się poprzez wzajemne kontakty z drugą myślącą osobą. Gdy pozwalasz sobie wciągnąć się w kłótnie o sprawy błahe, skutkiem tego będzie przytępienie zarówno umysłu jak i ducha.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'kurczęta wracają na noc do domu i podobnie czynią twoje myśli; uważaj, jakiego rodzaju myśli wysyłasz',
+            description: 'Myśli, które wysyłasz do innych, będą miały znacznie większy wpływ na ciebie niż na nich. W przeciwieństwie do dóbr materialnych, kiedy uwalniasz myśl czy przekazujesz ją drugiemu, ona nadal pozostaje z tobą. Może być pogrzebana w podświadomości na długo po tym, jak świadomość o niej zapomni.<br>Podobnie do kurcząt, które powracają do kojca na noc, myśli mogą znów rozbłysnąć w twej świadomości, kiedy najmniej się ich spodziewasz. Gdy twoje myśli są pozytywne, nigdy nie musisz się martwić szkodami, jakie mogłyby ci wyrządzić negatywne myślenie. Pogodne, pozytywne, szczęśliwe myśli, które są ukryte w twojej podświadomości, powracając przynoszą pozytywne rezultaty, a poprzez swoją obecność zachęcają do podtrzymywania pozytywnej postawy we wszystkim, co robisz.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'masz większe szanse na rdzewienie twego mózgu z braku używania niż na zuzycie go z powodu wykorzystywania',
+            description: 'W przeciwieństwie do urządzenia mechanicznego, które zużywa się i musi być w końcu wymienione, jeżli stale i konsekwentnie się je wykorzystuje, umysł nabiera sił kiedy jest aktywny. Im więcej ćwiczysz i wysilasz umysł, tym bardziej staje się wydajny. Zaniechanie jednak wykorzystywania go będzie wywierać taki sam skutek na umysł jak na maszynę. Najbardziej skomplikowana, najpotężniejsza maszyna na świecie, podobnie jak największy umysł zardzewieją, jeżeli nie będą używane.<br>Jeśli nie pokierujesz swoim harmonogramem tak, by przeznaczyć czas na uczenie się i studiowanie, to łatwo ulec pokusie spędzania czasu na bezmyślnych, paraliżujących umysł, stroniących od życia rozrywkach. Relaks ma istotne znaczenie, lecz równie ważne jest zdobywanie nowej wiedzy. Dopilnuj, by twój rozkład dnia przewidywał czas na obie te czynności.'
         }, {
             day: 26,
             motto: '',
