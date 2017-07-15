@@ -1248,28 +1248,28 @@ let plan = {
             description: 'W przeciwieństwie do urządzenia mechanicznego, które zużywa się i musi być w końcu wymienione, jeżli stale i konsekwentnie się je wykorzystuje, umysł nabiera sił kiedy jest aktywny. Im więcej ćwiczysz i wysilasz umysł, tym bardziej staje się wydajny. Zaniechanie jednak wykorzystywania go będzie wywierać taki sam skutek na umysł jak na maszynę. Najbardziej skomplikowana, najpotężniejsza maszyna na świecie, podobnie jak największy umysł zardzewieją, jeżeli nie będą używane.<br>Jeśli nie pokierujesz swoim harmonogramem tak, by przeznaczyć czas na uczenie się i studiowanie, to łatwo ulec pokusie spędzania czasu na bezmyślnych, paraliżujących umysł, stroniących od życia rozrywkach. Relaks ma istotne znaczenie, lecz równie ważne jest zdobywanie nowej wiedzy. Dopilnuj, by twój rozkład dnia przewidywał czas na obie te czynności.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'niektórzy ludzie nigdy nie uwalniają się od kłopotów, ponieważ utrzymują swe umysły dostrojone do troski; umysł przyciąga to, na czym się zatrzymuje',
+            description: 'Zatroskanie nie służy żadnemu użytecznemu celowi, może zaś mieć poważny, ujemny wpływ na twoje zdrowie umysłowe i fizyczne. Charles Mayo, który wraz z bratem Williamem założył słynną klinikę Mayo w Rochester, w stanie Minnesota, powiedział: "Nigdy nie poznałem człowieka, który by umarł z nadmiaru pracy, ale widziałem wielu, którzy zginęli z nadmiaru trosk".<br>Troska kieruje się w stronę jakiegoś mglistego, niepewnego zagrożenia i dlatego trudno jest radzić sobie z nią w logiczny sposób. Najlepszy sposób na pozbycie się trosk stanowi podjęcie pozytywnego działania i wyeliminowanie źródła zmartwień. Kiedy opracujesz plan konstruktywnego radzenia sobie z problemami i zabierzesz się do pracy nad jego wdrożeniem, troski przestaną cię gnębić. Negatywne myśli zawsze ustępują przed zdeterminowaną osobą przeprowadzającą pozytywny plan działania.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'najgorszą sprawą dotyczącą troski jest to, że przyciąga ona całe stada swoich krewnych',
+            description: 'Troski, jak owce, zdają się gromadzić w stada. (Nieszczęścia chodzą parami). Jedno zmartwienie prowadzi do drugiego i nim się sopstrzeżesz, otaczają cię i osaczają potencjalne problemy. Kiedy pozwalasz sobie na zabawę <i>co by było, gdyby</i> - na spekulowanie wokół dodatkowych kłopotów, jakie może spowodować jeden potencjalny problem - troski mnożą się, a każda powoduje, że następna wygląda jeszcze gorzej.<br>Jeżeli musisz zastanawiać się <i>co by było, gdyby</i>, to zajmuj się po to, by zwyciężyć. Skupiaj się na rozwiązaniach, nie na samych problemach i dodatkowych kłopotach, jakie te pierwsze mogą przynieść. Niezależnie od tego, jak poważne wydają ci się twoje troski, kiedy budzą cię o północy, po uważnym ich przeanalizowaniu przekonasz się, że każdy problem ma swoje rozwiązanie.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'skoro nie potrafisz kierować swą postawą umysłową, dlaczego sądzisz, że możesz kierować innymi?',
+            description: 'Dlaczego dzieje się tak, że ci, którzy uważają, iż byliby najlepszymi kierownikami - gdyby tylko dać im szansę - często nie nauczyli się właściwie kierowac sobą? Zanim kiedykolwiek możesz liczyć na efektywne kierowanie innymi, musisz najpierw nauczyć się dawać innym przykład do naślawodania. Inspirowanie innych do wyższych poziomów dokonań jest po prostu niemożliwe, jeżeli sam nie potrafisz się do tego pobudzić. Nie popełniaj częstego błędu ludzi, którzy powiadają: "kiedy zrobią mnie kierownikiem, pokażę im, jak potrafię kierować". Pierwszy ruch należy do ciebie. Ty musisz najpierw udowodnić swoją wartość.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'możesz wymyślić własną drobę dojścia lub wyjścia z prawie każdych okoliczności, czy to dobrych czy złych',
+            description: 'Żadne działanie nie ma miejsca, jeśli nie jest poprzedzone myśleniem. Jeżeli jesteś niezadowolony z okoliczności, w jakich się znajdujesz, możesz poprawić swą sytuację opprzez siłę myśli z równą pewnością, jak potrafisz zniszczyć ozytywne życie negatywnym myśleniem. Sukces zaczyna się od uczciwej analizy swych obecnych warunków, przejęcia odpowiedzialności za własne życie i opracowania realnego planu osiągnięcia tego, czego pragniesz.'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'umysł pozytywny szuka sposobów, jak co wykonać; umysł negatywny wyszukuje sposoby, by uzasadnić, że czegoś nie można zrobić',
+            description: 'Ktoś kiedyś powiedział: "Nie ma żadnych prawd. Są jedynie sposoby postrzegania prawdy". Czy akceptujesz to stwierdzenie czy nie, to to co uznajesz za prawdziwe, stanie się twoją rzeczywistością. Twoja podświadomość uwierzy we wszystko, co jej powiesz - jeżeli powtarzasz słowa często i z przekonaniem. Jeśli stawiasz czoło poważnemu zadaniu, którego dotąd jeszcze nie próbowałeś, skoncentruj się na możliwości sukcesu, nie porażki. Podziel pracę na małe elementy i do każdego z nich podejdź oddzielnie. W przypadku dowolnej pracy tym, co decyduje o sukcesie lub porażce, jest twoja postawa wobec niej.'
         }, {
             day: 31,
-            motto: '',
-            description: ''
+            motto: 'mądry człowiek pomyśli dwa razy, zanim raz powie',
+            description: 'Chyba największą zaletą przywódcy i najcenniejszą umiejętnością w budowaniu relacji międzyludzkicj jest zdolność pomyślenia, zanim się coś powie. Jeżeli masz tendencję do pospiesznego wybuchania gniewem, by potem żałować swych słów, to może ci posłużyć dziecięca zachęta, by policzyć do dziesięciu przed otworzeniem ust. Kiedy przerywasz - choćby tylko na chwilę - by rozważyć konsekwencje, możesz lepiej przemyśleć, co miałeś właśnie powiedzieć. A jeśli musisz powiedzieć coś mocnego, to dobrym pomysłem jest osłodzić słowa - na wypadek, gdybyś później sam miał je przełknąć.'
         }]
     }, {
         name: 'listopad',
