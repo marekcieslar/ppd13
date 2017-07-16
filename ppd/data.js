@@ -1276,32 +1276,32 @@ let plan = {
         motto: 'zdrowie i szczęście',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'postawa umysłowa to najbardziej niezawodny klucz do osobowości',
+            description: 'Twoje mniemanie o samym sobie ma duży wpływ na to, jak inni cię postrzegają. Jeśli należysz do osbó pewnych siebie, pogodnych i pozytywnych, to współpracownicy, przyjaciele i rodzina będą przyciągani przez twoją osobowość. Jeżeli jesteś nieszczęśliwy, negatywny i zawsze uskarżasz się na swoją sytuację, będziesz odpychał innyck. Nawet jeśli czasami nei czujesz się zbyt szczęśliwy, to nakłaniając samego siebie do zachowania się w pozytywny sposób, przekonasz się, że w krótce poczujesz się dużo lepiej, ponieważ podświadomośc nie rozróżnia emocjni sztucznej od prawdziwej. Kiedy zachowujesz się pozytywnie, będziesz pozytywnie wpływał na wszystkich wokoło - także na samego siebie.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'nie możesz sterować czynami innych ludzi, możesz jednak kontrolować swoje reakcje na nie, a to jest dla ciebie najważniejsze',
+            description: 'Nikt nie możesz spowodować odczuwania przez ciebie niegatywnych emocji - strachu, gniewu czy poczucia niższości - bez twojego przyzwolenia. Zawsze znajdą się ludzie czerpiący perwersyjną przyjemność w denerwowaniu innych, albo tacy, którzy igrają z twymi emocjami, by móc cię wykorzystać dla swych własnych, egoistycznych celów. To, czy im się to uda, zalezy w zupełności od ciebie i twojej reakcji na ich negatywne zachowania.<br>Kiedy jesteś zmuszony radzić sobie z takimi ludźmi, uznaj od początku, że próbują wytrącić cię z równowagi nie z powodu czegoć, co ty im zrobiłeś, lecz w wyniku problemu, jaki mają ze sobą. Powiedz sobie: "To nie chodzi o mnie. Nie pozwolę, by ta osoba mnie zdenerwowała. Panuję nad moimi emocjami i życiem".'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'zawsze możesz w innych odnaleźć takie cechy charakteru, jakich poszukujesz',
+            description: 'Margaret Wolfe Hungerford powiedziała: "Poekno znajduje się w oczach patrzącego". Chciała w ten sposób wyrazić myśl, że widzimy to, co pragniemy w innych zobaczyć. Każda istota ludzka jest złożoną kombinacją uczuć, emocji i myśli - niektórych dobrych, innych złych. Twoje wrażenie o innych zależy przede wszystkim od ciebie i twoich oczekiwań wobec tej osoby. Jeśli masz przekonanie, że ktoś jest dobry, znajdziesz w nim zalety. Jeśli nie, to ich nie dostrzeżesz.<br>Jeśli sam należysz do osób pozytywnych, skłaniasz się ku poszukiwaniu dodatnich cech w innyck. Podobnie jak pracujesz nad rozwijaniem dobrych, konstruktywnych nawyków, aby stale się udoskonalać, szukaj takich samych zalet w drugich. Łatwo wytykać ludziom słabości, kiedy jednak rozpoznajesz w nich dobro i gratulujesz pozytywnych dokonań, zyskujesz przyjaciół, na których możesz zawsze polegać - czy to w dobrych czy złych czasach.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'zawsze brakuje ludzi, którzy wykonują pracę na czas, bez wymówek i narzekań',
+            description: 'Jeżeli z bliska przyjrzysz się tym, którzy sięgnęli szczytu w dowolnej instytucji, przekonassz się, że są nimi ludzie chętnie przyjmujący wyzwania, przejmujący inicjatywę i wykonujący zadania. Nie skarżą się, nie szukają wymówek. Ci, którzy nigdy do niczego w swojej pracy i karierze nie dochodzą. zdaja się nie rozumieć, że zdobywcy nie stają się nimi po dotarciu do szczytu. Docierają na szczyt dzięki temu, jak postępowali po drodze.<br>Łatwo możesz stać się jednym z tych, którzy regularnie awansują w firmie - o ile znajdziesz w sobie gotowość zapłacenia za to ceny. Dobry kierownik poinformuje cię, że ludźmi najbardziej poszukiwanymi są ci, którzy potrafią samodzielnie myśleć, przejmują inicjatywę bez konieczności wydawania im poleceń i nie przerywają pracy aż do jej zakończenia. Jeżeli zechcesz, możesz należeć do takich ludzi.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'jak możesz właściwie ocenić innych, skoro nie nauczyłeś się odpowiednio oceniać samego siebie?',
+            description: 'Zdolność obiektywnej oceny samego siebie i swoich wyników jest podstawowym czynnikiem w twoich relacjach z innymi i będzie wywyerać ogromny wpływ na poziom sukcesu, jaki osiągniesz w ciągu swego życia. Jeśli nie potrafisz uczciwie ocenić swych mocnych i słabych stron, to jak możesz spodziewać się poprawy swego postęowania? Musisz określić, gdzie się znajdujesz, zanim uda ci się opracować plan dostania się tam, gdzie chciałbyś być.<br>Gdybyś był niezależnym, bezstronnym obserwatorem, jakiej rady udzieliłbyś sobie w celu poprawienia twoich umiejętności, nawyków pracy, wzajemnych relacji z innymi i twego wkładu w firmie? Uczciwość przed sobą samym jest pierwszym krokiem do poprawy siebie.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'czy oszukałeś innych albo siebie samego? dobrze pomyśl, zanim odpowiesz',
+            description: 'Kiedy jesteś nieuczciwy w traktowaniu innych albo wykorzystujesz ich, to bardziej oszukujesz siebie niż ich. Przez jakiś czas mogą żałować interesów prowadzonych z tobą, ale w końcu przebrną przez to i wezmą się za inne sprawy. Jednak ty musisz żyć ze swoją rzeczywistością do końca swoich dni. W głębi serca będziesz znał prawdę o tym, jaki jesteś.<br>Każdego kusi czasem, by wykorzystać innych. Jeśli są na tyle głupi - płyną myśli - by dać się wrobić w tę sytuację, to mają to, na co zasługują. W rzeczywistości, kiedy pozostajesz rzetelny i uczciwy wobec osoby, którą mogłeś wykorzystać, stajesz się kimś lepszym.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'najbardziej kosztownymi słowami są "nie mam czasu"',
+            description: 'Koszty tych słów są wielorakie. Możesz stracić przyjemność spędzenia czasu z rodziną. Możesz nie poprawić drobnego błędu, który później się skomplikuje. Możesz zignorować błagania twego ciała o odpoczynek i ćwiczenia fizycznie. Niezależnie od przypadku, nie pozwól domniemanemu brakowi czasu powstrzymać cię od robienia tego, co chroni twoje szczęście.<br>Istnieje wiele sposobów lepszego zorganizowania czasu, tak byś mógł robić to, co powinno być zrobione. Dobry lider ma zawsze zaufanego partnera, który przejmie część obciążenia w trudnym okresie, a każdy może sięgnąć po pozytywną postawę umysłową, by znaleźć energię na szybsze i lepsze wykonanie zadania. Jeśli czas nieustannie cię popędza, to może powinieneś przeprowadzić całościową analizę sposobu swej pracy, jednak nigdy nie dopuść do tego, by brak kilku minut powstrzymał cię od wykonania czegokolwiek, co chcesz lub powinieneś zrobić.'
         }, {
             day: 8,
             motto: '',
