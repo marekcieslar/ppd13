@@ -1316,16 +1316,16 @@ let plan = {
             description: 'To prawda. Pieniądze nie mogą kupić szczęścia. Większość z nas jest motywowana aspiracjami do stylu życia, jakiego pragniemy dla siebie i swoich rodzin, a nie fizycznym posiadaniem - domów, szans na luksusowe wakacje, samochodów itd. Kiedy uznasz  ten fakt, będziesz wiedział, że musisz stale "podnosić poprzeczkę", aby zachęcić siebie do zdobywania wyższych celów. Twoje cele powinny także zawierać dobra materialne, jakich pragniesz, ale jak to powiedział dawny prezez Apple COmputer, John Sculley: "Sukces jest podróżą, a nie miejscem przeznaczenia. Dopilnuj, byś się cieszył z wyprawy".'
         }, {
             day: 11,
-            motto: 'nie możesz znaleźć szczęścia okradając zeń kogoś innego; to samo dotyczy poczucia bezpieczeństwa finansowego',
-            description: 'Niewiele istnieje na tym świecie rzeczy, które wzbogacą ciebie, jeśli pozbawidsz ich innych. Na ogół prawda jest odwrotna. Kiedy dzielisz się bogactwem i szczęściem, powiększasz własny udział w obu. Właściwie ani szczęście, ani bezpieczeństwo finansowe nie ma wielkiej wartości, jeśli nie jest dzielone. Szczęścia nie można gromadzić i odkładać, aż będzie potrzebne, a poczucie bezpieczeństwa należy do pojęć abstrakcyjnych. Generał Douglas MacArthur zauważył kiedyś: "W życiu nie ma bezpieczeństwa. Istnieje tylko okazja". Musisz odnaleźć szczęście i bezpieczeństwo finansowe dla samego siebie i dzielić je, by je zachować.'
+            motto: '',
+            description: ''
         }, {
             day: 12,
-            motto: 'uśmiech poprawia twój wygląd, sprawia, że czujesz się lepiej i nic przy tym nie kosztuje',
-            description: 'Przebłysk uśmiechu jest naturalną reakcją, kiedy znajdziemy się przed kamerą. Instynktownie wiemy, że wyglądamy bardziej pociągająco i atrakcyjnie, gdy się uśmiechamy. Kiedy uśmiechamy się do innych, wywołuje to korzystną reakcję z ich strony, ale co ważniejsze, powoduje też, że sami czujemy się lepiej. Nie wynika to wyłącznie z zasad psychologii. Eksperci w tej dziedzinie odkryli, że uśmiechanie się powoduje zmiany w procesach chemicznych przebiegających w naszym ciele i rzeczywiście dzięki uśmiechowi zyskujemy poczucie szczęścia i zdrowia.<br>Kiedy zachowujesz uśmiech w swyj głosie, inni porzucają postawę obronną i otwierają się na ciebie - osobiście czy przez telefon. Pracownicy spędzający dużo czasu na rozmowach telefonicznych wiedzą o tym, że ludzie, z kttórymi konwesrują, potrafią "usłyszeć" uśmiech w ich głosie. Jeśli pamiętanie o przyjemnym tonie głosu sprawia ci trudności, trzymaj małe lusterko przy aparacie telefonicznym, by sprawdzić, czy uśmiechasz się, kiedy mówiesz.'
+            motto: '',
+            description: ''
         }, {
             day: 13,
-            motto: 'każdego człowieka można łatwiej zdobyć przez miłość niż przez nienawiść',
-            description: 'Najlepszym sposobem na to, by ktoś cię polubił, jest samemu zacząć go lubić. Przekonasz się, że nie może nie lubić cię osoba, którą ty lubisz. Ludzie zwyczajnie są skonstruowani w taki sposób. Jakiekolwiek złe uczucia, które inni mogą żywić dla ciebie, rozpraszają się natychmiast przy pierwszym wyrażeniu podziwu z twojej strony. Kiedy zrozumiesz mądrość zawartą w tej koncepcji, każdy, ktogo poznasz, będzie twoim potencjalnym przyjacielem.<br>Najpewniejszym sposobem na zyskanie uczucia jest ofiarowanie go - dobrowolnie i bez zastrzeżeń. Jeżeli stawiasz przyjaźni warunki albi próbujesz pozyskać innych dla swego celu tylko ze względu na to, co mogą zrobić dla ciebie, szybko wykryją taką nieszczerość. Gdy jednak swoimi czynami udowadniasz, że dbasz o nich, że zawsze dajesz w zamian więcej niżoni ofiarują tobie, to będą twymi przyjaciółmi przez całe życie.'
+            motto: '',
+            description: ''
         }, {
             day: 14,
             motto: '',
