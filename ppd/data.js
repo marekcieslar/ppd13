@@ -1328,20 +1328,20 @@ let plan = {
             description: 'Najlepszym sposobem na to, by ktoś cię polubił, jest samemu zacząć go lubić. Przekonasz się, że nie może nie lubić cię osoba, którą ty lubisz. Ludzie zwyczajnie są skonstruowani w taki sposób. Jakiekolwiek złe uczucia, które inni mogą żywić dla ciebie, rozpraszają się natychmiast przy pierwszym wyrażeniu podziwu z twojej strony. Kiedy zrozumiesz mądrość zawartą w tej koncepcji, każdy, ktogo poznasz, będzie twoim potencjalnym przyjacielem.<br>Najpewniejszym sposobem na zyskanie uczucia jest ofiarowanie go - dobrowolnie i bez zastrzeżeń. Jeżeli stawiasz przyjaźni warunki albi próbujesz pozyskać innych dla swego celu tylko ze względu na to, co mogą zrobić dla ciebie, szybko wykryją taką nieszczerość. Gdy jednak swoimi czynami udowadniasz, że dbasz o nich, że zawsze dajesz w zamian więcej niżoni ofiarują tobie, to będą twymi przyjaciółmi przez całe życie.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'ci, którzy łatwo rozdają szczęście, zawsze mają go pod dostatkiem',
+            description: 'Amerykański wychowawca, William L. Phels zauważył: "Prawdziwe szczęście nie zależy od rzeczy zewnętrznych. Staw jest zasilany od środka. Trwałe szczęście to to, które wytryska z wewnętrznych myśli i emocji. Musisz pielęgnować swój umysł, jeśli pragniesz osiągnąć nieustające szczęście. Trzeba karmić umysł interesującymi myślami i ideami, ponieważ pusty umysł poszukuje przyjemności jako substytutu szczęścia".'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'możesz "wyśmiać" troski, których nie da się przestraszyć groźną miną',
+            description: 'Jakiś czas temu dobrze znany wydawca czasopisma dosłownie "wyśmiał sobie" swój powrót do zdrowia. Leżąc w szpitalu z powodu wyniszczającej choroby i ogromnego bólu, zauważył, że ból fizyczny zmniejsza się kiedy on się śmieje. Obserwacja ta zaprowadziła go do zaproponowania własnej kuracji za pomocą śmiecku. Czytał książki z żartami, opowiadał dowcipy, prosił odwiedzających, by przychodzili z przygotowanymy dykteryjkami i bez końca oglądał w telewizji komedie. Wygrał bitwę z chorobą.<br>Nie bierz siebie tak poważnie, by nie móc się śmiać z siebie czy swojej sytuacji. Nie bedziesz w stanie przepracować przewidzianych statystyką dla twego życia ponad osiemdziesięciu tysięcy godzić (czterdzieści godzin tygodniowo, przez czterdzieści lat), jeśli nie wymyślisz, jak po drodze znaleźć trochę śmiechu.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'kiedy czujesz się ospały, wypróbuj lekarstwa naturalnego - po prostu przestań jeść, aż znów poczujesz się głodny',
+            description: 'Wielu specjalistów poleca jedzenie czterech małych posiłków dziennie, każdy o podobnej wartości odżywczej. Kiedy ograniczysz spożycie tłuszczu i cukru, nie musisz się przejmować ilością kalorii. Dieta bogata w produkty zbożowe, ważywa i owoce jest lżej strawna, utrzymuje poziom cukru we krwi na bardziej stabilnym poziomie, obniża apetyt i zapewnia bardziej stały poziom energii dzięki mniejszmu odkładaniu tłuszczu. Niemal natychmiast po zastosowaniu takiej diety poczujesz przypływ energii.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'najlepszy czas na "leczenie" jest zanim zaczniesz chorować',
+            description: 'Jeśli chodzi o zachowanie pełnego zdrowia fizycznego, to sporo można by powiedzieć na temat profilaktyki. W rzeczywistości wiele najpoważniejszych problemów zdrowotnych - między innymi chorób serca i nowotworowych - możemy sami wywołać. Palenie tytoniu i złe nawyki żywieniowe przyczyniają się do skrócenia milionom ludzi. Niestety spustoszenia postępują przez tak dłubi czas, że kiedy zaczynamy odczuwać ich skutki, jest już za późno.<br>Nie pozwól, by twoje zdrowie było rujnowane złymi nawykami. Przyjmij styl życia, który eliminuje nadużywanie jakichkolwiek substancji i zatępuje złe nawyki żywieniowe zdrową dietą i dużą ilością ćwiczeń fizycznych. Kiedy tak postąpisz, nie tylko poczujesz się fizycznie lepiej. Będziesz też miał o sobie lepsze zdanie.'
         }, {
             day: 18,
             motto: '',
