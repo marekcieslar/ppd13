@@ -20,7 +20,7 @@ const virtues = {
         {
             number: 4,
             name: 'postanowienie',
-            description: 'postanów czynić to, co powinieneć; czyń bezbłędnie to, co postanowiłeś'
+            description: 'postanów czynić to, co powinieneś; czyń bezbłędnie to, co postanowiłeś'
         },
         {
             number: 5,
