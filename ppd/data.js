@@ -1344,27 +1344,27 @@ let plan = {
             description: 'Jeśli chodzi o zachowanie pełnego zdrowia fizycznego, to sporo można by powiedzieć na temat profilaktyki. W rzeczywistości wiele najpoważniejszych problemów zdrowotnych - między innymi chorób serca i nowotworowych - możemy sami wywołać. Palenie tytoniu i złe nawyki żywieniowe przyczyniają się do skrócenia milionom ludzi. Niestety spustoszenia postępują przez tak dłubi czas, że kiedy zaczynamy odczuwać ich skutki, jest już za późno.<br>Nie pozwól, by twoje zdrowie było rujnowane złymi nawykami. Przyjmij styl życia, który eliminuje nadużywanie jakichkolwiek substancji i zatępuje złe nawyki żywieniowe zdrową dietą i dużą ilością ćwiczeń fizycznych. Kiedy tak postąpisz, nie tylko poczujesz się fizycznie lepiej. Będziesz też miał o sobie lepsze zdanie.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'by cieszyć się dobrym zdrowiem, naucz się kończyć jedzienie, zanim poczujesz się całkowicie nasycony',
+            description: 'Wiele ze złych nawyków żywieniowych pochodzi z dzieciństwa, kiedy zachęcano nas, by wstąpić do "klubu czystego talerza" i zjadać wszystko, co zostało nam podane. Jednak u dorosłych metabolizm się zmienia i nasze potrzeby są zupełnie inne. Po zakończeniu procesu wzrostu potrzeba nam znacznie mniej kalorii, aby nakarmić ciało, zatem nadmiar jest odkładany w postaci tkanki tłuszczowej. Kiedy przestajemy rosnąć wzwyż, zaczynamy rosnąć wszesz.<br>Zjadaj mniejsze porcje, kończ jedzenie zanim całkiem się nasycisz i przeżuwaj pokarm dłużej. Może też opmóc dobre towarzystwo przy jedzeniu. Ożywiona rozmowa przenosi twoją uwagę z jedzenia, które spożywasz, na pokarm dla umysłu.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'jeśli zatrzymasz swój umysł na chorobach ciała, zawsze będziesz chory',
+            description: 'Lekarze właśnie zaczęli doceniać wagę postway w zachowaniu pełnego zdrowia fizycznego. Jeżeli robisz to, co konieczne, by pozostać zdrowym i nie martwisz się nieustannie, co może być z twoim ciałem nie w porządku, twoje szanse na utrzymanie dobrego zdrowia są nieskończenie większe, niż gdybyś opzwolił swemu umysłowi na ciągłe rozważanie tego, co mogłoby być nei tak. Stajesz się tym, o czym myślisz. Umysł jest cudownym urządzeniem, które może wywierać wielki wpływ na organizm fizyczny. Utrzymuj swój umysł silny i zdrowy, a skorzysta na tym twoje ciało.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'niektórzy dla pieniędzy zachwalają produkty, których sami nie konsumowaliby za żadną cenę',
+            description: 'Może dzisiaj bardziej niż kiedykolwiek ważne staje się ćwiczenie w prawidłowej ocenie i korzystanie ze staromodnego zdrowego rozsądku przy opdejmowaniu każdej decyzji. Żyjemy w świecie pełnym przesady i obietnic bez pokrycia. Ludzie chętie reklamują produkty, ponieważ są za to opłacani i usiłują namówić cię do kupna tego, czego sami by nie tknęli.<br>Jeśli chodzi o to, co spożywasz, sam o tym decyduj. Nie ulegaj wpływom ludzi, którzy mają interes w tym, by coś ci sprzedać. Producenci żywnośc mają obowiązek podawania składników produktu, abyś mógł zdecydować, czy chcesz to skonsumować czy nie. Stań się więc uważnym czytelnikiem etykiet.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'dojrzałymi owocami i surowymi warzywami nigdy się nie przejesz',
+            description: 'Ewolucja mogła nie nauczyć ludzi znajdowania wielkiej przyjemności w jedzeniu pożywienia, które jest dla nas najlepsze, ale nasze układy pokarmowe nie w pełni przystosowały się, by skutecznie radzić sobie z niektórymi rzeczami, jakie najbardziej lubimy. Przykładowo, trawienie mięsa i innych ciężkich pokarmów wymaga ogromnych ilości energii, która mogłaby być skierowana do osiągania czegoś bardziej konstruktywnego niż zwykłe przetwarzanie żywności. Jednak naprawdę nie można zjeść więcej surowych warzyw i dojrzałych owoców niż to jest dla ciebie dobre. Takie pokarmy mają małą zawartość tłuszczu, organizm łatwiej je przetwarza i zawierają składniki, które szybko są zamieniane w energię.'
         }, {
             day: 22,
-            motto: '',
+            motto: 'wiesz, jak karmić swój samochód, aby dobrze ci służył; naucz się karmić siebie, by mieć dobre zdrowie',
             description: ''
         }, {
             day: 23,
-            motto: '',
+            motto: 'Często wiele robimy, aby dowiedzieć się, jak działają maszyny i jakiego rodzaju obsługi wymagaj, by zachowywać je w dobrym stanie technicznym. A przecież jeśli chodzi o nasze ciało - najważniejsze, co mamy - tak mało zważamy na jego potrzeby. Na naukę nigdy jednak nie jest za późno. Istnieją na ten temat dosłownie setki książek. Poznaj to, co powinieneś wiedzieć, zatroszcz się o własne ciało, a ono zadba o ciebie.',
             description: ''
         }, {
             day: 24,
