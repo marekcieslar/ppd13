@@ -1361,39 +1361,39 @@ let plan = {
         }, {
             day: 22,
             motto: 'wiesz, jak karmić swój samochód, aby dobrze ci służył; naucz się karmić siebie, by mieć dobre zdrowie',
-            description: ''
+            description: 'Często wiele robimy, aby dowiedzieć się, jak działają maszyny i jakiego rodzaju obsługi wymagaj, by zachowywać je w dobrym stanie technicznym. A przecież jeśli chodzi o nasze ciało - najważniejsze, co mamy - tak mało zważamy na jego potrzeby. Na naukę nigdy jednak nie jest za późno. Istnieją na ten temat dosłownie setki książek. Poznaj to, co powinieneś wiedzieć, zatroszcz się o własne ciało, a ono zadba o ciebie.'
         }, {
             day: 23,
-            motto: 'Często wiele robimy, aby dowiedzieć się, jak działają maszyny i jakiego rodzaju obsługi wymagaj, by zachowywać je w dobrym stanie technicznym. A przecież jeśli chodzi o nasze ciało - najważniejsze, co mamy - tak mało zważamy na jego potrzeby. Na naukę nigdy jednak nie jest za późno. Istnieją na ten temat dosłownie setki książek. Poznaj to, co powinieneś wiedzieć, zatroszcz się o własne ciało, a ono zadba o ciebie.',
-            description: ''
+            motto: 'nie usiłuj zwalczyć bólu głowy; lepiej jest wyleczyć jego przyczynę',
+            description: 'jeśli masz jakiś poważny problem medyczny, za wszelką cenę udaj się do lekarza. Pamiętaj jednak także o tym, że wiele z dolegliwości, leczonych tysiącami środków famrakologicznych, wywołują przyczyny, które możesz kontrolować. Bóle głowy, żołądka, mięśni, ospałość i podobne obiawy są sygnały, że ignorujesz potrzeby swego ciała albo problemy umysłu.<br>Zastanów się uważnie, czy nie spychasz w podświadomość jakiejśc dręczącej cię sprawy, która powoduje napięcie. Zapytaj siebie, czy wykonujesz ćwiczenia fizyczne, jakich potrzebuje twoje ciało, aby być w formie i pełnym energii. Podobnie jak przy każdej przeciwności, ważne jest, byś zaczął działać od razu w celu zrozumienia źródła problemu i pracy nad jego poprawieniem. Kiedy to zrobisz, znajdziesz więcej entuzjazmu i wigoru, by podążać za swym wyraźnym życiowym celem.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'zwróć uwagę na swe nawyki żywieniowe i zapobiegaj wydawaniu pieniędzy na wizyty lekarskie',
+            description: 'Zaczynamy dopiero rozumieć dalekosiężne skutki, jakie ma dieta dla naszego zdrowia i dobrego samopoczucia, ale wiemy już, które pokarmy są dla nas dobre, a które najbardziej szkodliwe. Wciąż jednak jeszcze ignorujemy tę mądrość, wybierając przyjemności teraz i martwienie się o konsekwencje później.<br>Jeśli zwracasz uwagę na odżywianie, możesz uniknąć innych problemów zdrowotnych. Eksperci doradzają unikanie duzych ilości kofeiny, alkoholu i soli oraz przestrzeganie diety niskobiałkowej i niskotłuszczowej, za to bogatej w węglowodany: warzywa, produkty zborzowe, makarony, pieczywo, ziemniaki i owoce. Polecają również duże ilości pokarmów o wysokiej zawartości błonnika: zboża, pieczywo pełnoziarniste, ziemniaki oraz ważywa i owoce takie jak brokuły, marchew, rośliny strączkowe, pomarańcze, truskawki.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'wielki apetyt zazwyczaj nie prowadzi do krzepkiego zdrowia',
+            description: 'najczęstszą przyczyną chorób związanych z odżywianiem jest przejadanie się. Dieta to jedna z tych dziedzin, w których <i>mniej</i> oznacza zdecydowanie <i>lepiej</i>. Dotyczy to w sposób szczególny pokarmów zawierających cukry złożone. Jeżeli okaże się, że nie potrafisz całkowicie zrezygnować ze słodyczy, to przynajmniej ogranicz ich spozycie do jednej czy dwóch małych porcji tygodniowo. Twój system trawienny poradzi sobie z minimalnymi ilościami; nie uczyć tylko słodyczy zawierajacych cukry złożone stałą częścią swej diety.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'czas jest najlepszym z lekarzy; jeśli da mu się szaneś, może wyleczyć większość dolegliwości, na które skarżą się ludzie',
+            description: 'Nie oznacza to, że powinniśmy ignorować problemy fizyczne. Jeśli z twoim ciałem jest coś nie w porządku, powinieneś jak najszybciej starać się zrozumieć, co powoduje twoją dolegliwość i działać, by poprawić sytuację.<br>Czasem czujemy się spięci i obolali. Głowy zdają się pękać; żołądki buntują się przy najłagodniejszym ożywieniu, a ból w plecach jest nieustępliwy. Przyczyną zaś może być zwyczajne napięcie, a rozwiązaniem - zwykły, stary, uczciwy odpoczynek. Każdego dnia daj sobie troche czasu na "wyłączenie się", rozmyślanie nad sprawami, które cię cieszą. Kilka godzin tygodniowo zwyczajnej przyjemności może uczynić cuda z problemami, które cię dręczą i zapewnić ci energię i perspektywy, które cię dręczą i zapewnić ci energię i perspektywy, które czujesz, że utraciłeś.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'człowiek, który buduje dom, jest lepiej opłacany niż ten, kto go burzy',
+            description: 'w dowolnym rodzaju pracy, każdym biznesie, zawodzie, powołaniu czy fachu potrzeba znacznie więcej umiejętności, poświęcenia i wytrwałości, aby stworzyć coś wartościowego, niż by zniszczyć dzieła stworzone przez innych. Wizja i mistrzostwo, które są konieczne, by skonstruować coś pięknego - ze zwykłych materiałów dostępnych dla każdego - przynoszą dalekowyższe wynagrodzenie niż niewykwalifikowana praca potrzebna do unicestwienia dzieła. Dopilnuj, byś był budowniczym i twórcą, a nie niszczycielem rzeczy i idei. Najczęściej stanowi to kwestię postawy. Kiedy masz w zwyczaju poszukiwanie twórczych, pełnych wyobraźni pomysłów, lepszych sposobów wykonywania tych samych, starych rzeczy, to staniesz się budowniczym.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'kiedy nie możesz wygrać, przynajmniej się uśmiechnij',
+            description: 'Odwaga jest tym, co Ernest Hemingway nazwał "ulgą w napięciu". Kiedy potrafisz przejawiać postawę sportową w obliczu przegranej, robisz pierwszy krok w kierunku zyskania szacunku kolegów i przygotowania się do przyszłego zwycięstwa. Nie traktuj siebie i swojej sytuacji tak poważnie, aby nie móc ofiarować uśmiechu szczerych gratulacji komuś, kto chwilowo cię przewyższył. Życz mu dobrze, a potem oddaj się na nowo doskonaleniu własnych zdolności - i pozostań w grze.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'zacznij szukać objawów choroby, a sama choroba także się wkrótce pojawi',
+            description: 'Siły umysłu są naprawdę niewiarygodne. Jego wpływ na fizyczne samopoczucie jest tak głęboki, że standardową praktyką stało się już przy testowaniu dowych medykamentów przepisywanie placebo kontrolnej grupie pacjentów. Jeśli umysł myśli, że ciało otrzymuje lekarstwo, które przyniesie dobry skutek, to przyjmujący placebo mogą rzeczywiście ujawniać takie same wyniki jak ci, którzy dostają prawdziwe lekarstwo.<br>Wykorzystuj wiedzę o wpływie umysłu na zdrowie fizyczne na swoją korzyść, łącząc rygory fizyczne z pozytywną postawą w sotsunku do życia. Jeśli podejmiesz kroki konieczne do zachowania zdrowia fizycznego, poprawi się twoja postawa, a mając pozytywną postawę - z większym prawdopodobieństwem przyjmiessz zdrowy styl życia. Skutkiem jest synergiczna relacja pomiędzy twym zdrowiem fizycznym i umysłowym. Jedno przynosi korzysć drugiemu.'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'skoro twój umysł potrafi uczynic cię chorym - a potrafi = pamiętaj, mze może cię również wyleczyć',
+            description: 'Nie możesz mieć zdrowego ciała bez zdrowego umysłu i niezmiernie trudno jest zachować pozytywną postawę umysłową, kiedy ciało niedomaga. Połącz pracę z zabawą, wysiłek umysłowy z aktywnością fizyczną, ćwiczenie z odpoczynkiem i relaksem, jedzenie z postem, a także - poważny nastrój z dobrym humorem.'
         }, {
             day: 31,
             motto: '',
