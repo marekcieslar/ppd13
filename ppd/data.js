@@ -1394,38 +1394,34 @@ let plan = {
             day: 30,
             motto: 'skoro twój umysł potrafi uczynic cię chorym - a potrafi = pamiętaj, mze może cię również wyleczyć',
             description: 'Nie możesz mieć zdrowego ciała bez zdrowego umysłu i niezmiernie trudno jest zachować pozytywną postawę umysłową, kiedy ciało niedomaga. Połącz pracę z zabawą, wysiłek umysłowy z aktywnością fizyczną, ćwiczenie z odpoczynkiem i relaksem, jedzenie z postem, a także - poważny nastrój z dobrym humorem.'
-        }, {
-            day: 31,
-            motto: '',
-            description: ''
         }]
     }, {
         name: 'grudzień',
         motto: 'wiara i nadzieja',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'nieszczęście rzadko dotyka tych, których strzeże nadzieja i wiara',
+            description: 'Czy zastanawiałeś się kiedyś, dlaczego niektórzy ludzie zdają się wieść czarowne życie, a wszystko sprawia wrażenie, jakby zawsze układało się dla nich pomyślnie? Gdybyś przyjrzał się bliżej, okazałoby się, że pozory mylą. Prawdopodobnie mają oni dokładnie tyle samo problemów, niepowodzeń i porażek co inni; w inny tylko sposób radzą sobie z nimi. Nie pozwalają sobie na utratę nadziei tylko dlatego, że przytrafiło im się jakieś niefortunne doświadczenie. Posiadają wiarę w to, że sprawy zawsze w końcu przybierają najlepszy obrót. Kiedy nieszczęście dotyczy ciebie, może to być trudne do zaakceptowania, ale przekonasz się, że jeżeli nie zgadzasz się na porażkę, to w końcu nastąpi sukces. Jak długo trwasz w wierze i nadziei, tak długo nie ma nieszczęścia, które nie może zostać przezwyciężone.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'wiara potrzebuje fundamentu, na którym może się oprzeć - strach istnieje bez podstaw',
+            description: 'Podstawowym dogmatem każdej religii jest wiara. Jeśli nie chcesz porzucić swego cynizmu i niewiary, zaakceptowanie istnienia Istoty Najwyższej jest po prostu niemożliwe. To samo odnosi się do wiary w siebie, w swoje zdolności, wartości, którym hołdujesz. Musisz zbudować fundament wiary, aby podtrzymał ciebie i twoje przekonania. Kiedy twoje podstawy są mocne, szybko możesz rozproszyć obawy, które usiłują podkopać wiarę.<br>Jeżeli nie zbudujesz fundamentu na zrozumieniu zasad, w które wierzysz, to może on zostać zniszczony przez wichry wątpliwości i strachy, które od czasu do czasu miotają nami wszystkimi. Upewnij się, że wiesz - w co i dlaczego wierzysz. Kiedy to zrobisz, nic nie będzie mogło wstrząsnąć twoim fundamentem.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'wolny człowiek nie boi się niczego',
+            description: 'Nie ma takiej przeszkody, której stawiwszy czoła nie mógłbyś pokonać, dopóki pozostajesz wolny. Kiedy masz wolność wyboru, by pójść za dowolną alternatywą, jakiej pragniesz, jedynymi ograniczeniami będą te, jakie sam sobie narzucisz. Stany Zjednoczone przetrwały wojne domową, dwie wojny światowe, Wielki Kryzys, prezydenckie rezygnacje i atak na wszystkie instytucje. Przeżyły, ponieważ demokratyczna forma rządu opiera się na przekonaniu o tkwiącym w ludzkości dobru. To system oparty o optymizm i nadzieję, nie tyranię i ucisk. Pielęgnuj rodzaje swojej wolności, celebruj patriotyzm i lojalność. Bądź dumny z tego, że jesteś cząstką największego eksperymentu świata - demokracji!'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'nie możesz być w pełni wolny, dopóki nie jesteś całkowicie uczciwy wobec siebie',
+            description: 'Oszukiwanie samego siebie to podstępny rak ducha. Dopóki usiłujesz oszukiwać siebie co do tego, jaki jesteś i za czym się opowiadasz, dopóty będziesz zamknięty w więzieniu własnej konstrukcji. nie możesz zacząć realizować swego potencjału, jeśli nie ptzyznasz, kim jesteś i nie zaczniesz kształtować siebie zgodnie z wizerunkiem osoby, jaką pragniesz się stać. Trwający przez całe życie proces osobistego wzrastania zaczyna się od zobowiązania do uczciwości - wobec samego siebie.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'wiara nie przyniesie ci tego, czego pragniesz, ale wskaże sposób podążania za tym',
+            description: 'Słownik webstera definiuje słowo <i>wiara</i> jako "pewne przekonanie o prawdzie, wartości czy zasługiwaniu na zaufanie osoby, idei czy rzeczy, przekonanie, które nie opiera się na logicznym czy materialnym dowodzie". Wiara jest nieuchwytną, abstrakcyjną ideą, gotowością przyjęcia czegoś, co jeszcze nie zostało - i może nigdy nie zostanie - udowodnione. Posiadanie wiary w to, że możesz coś osiągnąć, nie zdobędzie przedmiotu twoich marzeń, lecz da ci odwagę, aby zrobić to, co musisz, by po niego sięgnąć.<br>Zdarzą się w twoim życiu chwile, kiedy nie będziesz potrafił udowodnić, że twoja wiara w samego siebie znajduje uzasadnienie. Musisz przyjąć fakt w oparciu o twoje intuicyjne przeczucie, iż jesteś zdolny do wielkości. Bez wątpienia doznasz rozczarowania, gdy nie zdołasz dorównać swym oczekiwaniom. Ale nie mając wiary w siebie, nigdy nie zaczniesz sięgać po swój potencjał... ponieważ nie będziesz chciał spróbować.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'ktoś, kto jest w zgodzie z samym sobą, zachowuje pokój także z całym światem',
+            description: 'Pokój nie jest czymś, co może i ci zostać nadane. Może pochodzić jedynie od wewnątrz. Rozwijanie pokoju wewnętrznego to zadanie na całe życie. KIedy świat wokół ciebie się zmienia, a relacje z innymi ewoluują, twoje poczucie bezpieczeństwa osobistego może być zagrożone. Zmiany - szczególnie o dużym zasięgu - zawsze niosą pewne zagrożenia. Nauczysz się dużo skuteczniej radzić sobie z ze zmiennymi kojejami życia, kiedy będzisz lepiej reagował na jego wyzwania. Wzrastając jako jednostka dopilnuj, aby twój program osobistego doskonalenia obejmował zarówno pokarm dla ducha, jak i ciała oraz umysłu.'
         }, {
             day: 7,
             motto: '',
