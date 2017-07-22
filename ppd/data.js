@@ -1424,32 +1424,32 @@ let plan = {
             description: 'Pokój nie jest czymś, co może i ci zostać nadane. Może pochodzić jedynie od wewnątrz. Rozwijanie pokoju wewnętrznego to zadanie na całe życie. KIedy świat wokół ciebie się zmienia, a relacje z innymi ewoluują, twoje poczucie bezpieczeństwa osobistego może być zagrożone. Zmiany - szczególnie o dużym zasięgu - zawsze niosą pewne zagrożenia. Nauczysz się dużo skuteczniej radzić sobie z ze zmiennymi kojejami życia, kiedy będzisz lepiej reagował na jego wyzwania. Wzrastając jako jednostka dopilnuj, aby twój program osobistego doskonalenia obejmował zarówno pokarm dla ducha, jak i ciała oraz umysłu.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'dopóki nie masz pokoju umysłu, nie jesteś osobą wolną',
+            description: 'Pokój umysłu ma własności wyzwalające. Kiedy posiadasz wiarę i pewność siebie opartą na arealistycznej ocenie swych zdolności do osiągnięcia konkretnego celu, to żadne siły zewnętrzne nie mogą zagrozić twemu sopkojowi. Będziesz wiedział, że twoja wiara w siebie jest uzasadniona i będziesz wolny do podążania za wybranym celem tak długo, jak dłygo nie narusza on praw Bożych ani praw drugiego człowieka.<br>Twoje pożywienie duchowe powinno obejmować studiowanie dzieł wielkich pisarzy i filozofów. Rozważanie wielkich myśli, które były badane przez wiodących myślicieli w historii świata, pomoże ci zyskać wgląd we własne uczucia i przekonania oraz umożliwi prowadzenie bardziej przemyślanej i satysfakcjonującej egzystencji. Jedynie wtedy, gdy twoje przekonania są oparte o studia i introspekcję, możesz posiąść intelektualne bezpieczeństwo wiodące do pokoju umysłu.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'najwspanialsze i najbardziej skuteczne modlitwy to te, które wznosimy z wdzęczności za już doznane błogosłwieństwa',
+            description: 'Modlitwa stanowi aktywne wyrażenie wiary i pozwala czerpać z mądrości zgrowadzonej przez wieki. Moc modlitwy podtrzyma cię wtedy, kiedy życie jest trudne i pomoże ci radzić sobie pozytywnie i pomyślnie. Modląc się, nie proś o więcej dóbr materialnyc. Zamiast tego proś o mądrość, by lepiej doceniać i wykorzystywać to, co już masz. Kiedy tak postępujesz, sprzyjasz nastawieniu umysłu na przyjęcie wspaniałej, dostępnej dla ciebie mocy - Mocy Bożej - z której każdy może czerpać środki do życia.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'lepiej jest dziękować za już otrzymane błogosławieństwa niż modlić się o dalsze łaski',
+            description: 'Zarówno teologowie jak i niewierzący od zarania religii dyskutują i drobiazgowo analizują moc modlitwy. Dla wierzącego modlitwa jest bezpośrednią linią łączności z Bogiem. Dla niewierzących może być zaledwie metodą porządkowania myśli i potwierdzania celów. Jakiekolwiek jest twoje przekonanie na temat modlitwy, stanowi ona połączenie się z tajemniczym źródłem mocy pozostającym poza sferą materii.<br>Nigdy nie pozwól, by dzień minął bez modlitwy dzięczynienia za obfitość, którą się cieszysz, jakkolwiek mała by ona nie była. Każdego dnia także schodź ze swej drobi, by poświęcić część czasu na pomoc innym. Pamiętaj też, że żaden problem nie jst jedyny ani nowy. Zawsze możesz zwrócić się po poradę czy pomoc. I nigdy nie zostajesz sam. Bóg jest zawszes z tobą. Ucz się polegać na Nim.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'modlitwy zanoszone z obawą czy wątpliwością przynoszą tylko negatywne skutki',
+            description: 'Jakiś czas temu profesor z Uniwersytetu Harvarda, Robert Rosenthal, prowadził pewne badania. Poinformował on nauczycieli szkół podstawowych, że niektórzy z ich uczniów (którzy w rzeczywistości zostali wybrani w sposób przypadkowy) są intelektualnymi "geniuszami". W trakcie roku szkolnego czterdzieści siedem procent dzieci, po których nauczyciele spodziewali się błyszczenia intelektualnego, poprawiło swój iloraz inteligencji aż o dwadzieścia punktów. Rosenthal nazwał to zjawisko "samospełniającym się proroctwem".<br>Kiedy wątpisz w to, czy twoje modlitwy się spełnią, to prawdopodobnie doświadczysz zjawiska samospełniającego się roroctwa. Umysł jest skonstruowany w taki sposób, że jeśli karmi się go informacją negatywną, to zareaguje w sposób negatywny. Zawsze plasuj swe modlitwy w kontekście pozytywnym<. Przykładowo, jeżeli chciałbyć przezwyciężyć strach, to nie módl się o pomoc w poradzeniu sobie z lękiem. Nadaj natomiast swej modlitwie pozytywne ramy, prosząc o piomoc w uzyskaniu odwagi.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'sztuka okazywania wdzięczności za posiadanie błogosławieństwa jest najgłębszą formą modlitwy, bezcenną perłą',
+            description: 'Nabier zwyczaju zatrzymywania się na kilka chwil każdego dnia - może tuż przed udaniem się na spoczynek - aby zanieść dziękczynienie. Kiedy się modlisz, nie proś o dalsze łaski. Proś natomiast o mądrość i zrozumienie w celu lepszego wykorzystania błogosławieńst, które obecnie posiadasz. Proś też o lepsze wyczucie potrzeb innych, byś mógł w sercach ludzi zajmować więcej miejsca dzięki wyświadczaniu im każdego dnia coraz lepszych i liczniejszych przysług.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'pięć znanych rzeczywistości we wszechświecie to czas, przestrzeń, materia, energia i nieskończona inteligencja, która to porządkuje',
+            description: 'Wielebny Bernardt Frauman, duchowny kościoła prezbiteriańskiego i dziennikarz czasopisma "Think and Grow Rich Newsletter", uważa, że uporządkowanie wszechświata stanowi jeden z najbardziej nieodpartych argumentów za istnieniem Boga. wszechświat jest po prostu zbyt skomplikowany w swych założeniach, by mógł powstać w sposób przypadkowy. Powiada, że wspaniałość wszechświata sama w sobie wystarcza jako przekonujący dowód, że "Bóg jest w to zamieszany". Możemy nie rozumieć złożoności jJego Nieskończonej Inteligencji, wolno nam jednak sięgać po tę duchową moc i w dobry sposób ją wykorzystywać w swoim życiu.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'dzisiejsze marzenia stają się jutrzejszą rzeczywistością; nie umniejszaj praktycznego marzycielstwa, gdyż jest ono zwiastunem cywilizacji',
+            description: 'Na niedawnym spotkaniu pisarzy literatury <i>science fiction</i> zgromadzeni autorzy rozważali pewien szczególnie interesujący problem. Przez lata powszechnie uważano, że dobry pisaż <i>science fiction</i> wyobraża sobie rzeczy, które mogłyby się stać rzeczywistością za około trzydzieści lat. Problem polega na tym, że postęp techniki jest tak szybki, iż nawet autorzy o najbardziej bujnej wyobraźni nie dorównują temu, co staje się możliwe w dzisiejszym świecie.<br>Kiedy zastanawiasz się nad możliwościami w swym biznesie czy specjalności, przeznacz czas na swobodne myślenie, puść wodze fantazji, Co byłoby możliwe, gdyby zostały usunięte czynniki obecnie ograniczające postęp? Jakie tendencje mają szanse wpływać na twoje interesy lub sposób myślenia twych klientów? Co musisz zrobić, by pozostać na szczycie w swym zawodzie? w swoich odpowiedziach możesz odnaleźć jutrzejsze innowacje.'
         }, {
             day: 14,
             motto: '',
