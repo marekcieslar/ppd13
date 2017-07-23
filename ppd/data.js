@@ -1452,36 +1452,36 @@ let plan = {
             description: 'Na niedawnym spotkaniu pisarzy literatury <i>science fiction</i> zgromadzeni autorzy rozważali pewien szczególnie interesujący problem. Przez lata powszechnie uważano, że dobry pisaż <i>science fiction</i> wyobraża sobie rzeczy, które mogłyby się stać rzeczywistością za około trzydzieści lat. Problem polega na tym, że postęp techniki jest tak szybki, iż nawet autorzy o najbardziej bujnej wyobraźni nie dorównują temu, co staje się możliwe w dzisiejszym świecie.<br>Kiedy zastanawiasz się nad możliwościami w swym biznesie czy specjalności, przeznacz czas na swobodne myślenie, puść wodze fantazji, Co byłoby możliwe, gdyby zostały usunięte czynniki obecnie ograniczające postęp? Jakie tendencje mają szanse wpływać na twoje interesy lub sposób myślenia twych klientów? Co musisz zrobić, by pozostać na szczycie w swym zawodzie? w swoich odpowiedziach możesz odnaleźć jutrzejsze innowacje.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'nie istnieje coś takiego jak szczęście i pech; wszystko ma przyczynę, która prowadzi do właściwego skutku',
+            description: 'W życiu istnieje niewiele absurdów. Dostłownie każde działanie, jakie podejmujesz, może wpłynąć na ciebie i innych, i może to być wpływ dobry albo zły, pozytywny lub negatywny, zależnie od okoliczności. Przykładowo czyn w pełni właściwy w jednym układzie warunków może być całkowicie nieodpowiedni w innym czasie i miejscu. To, czy masz szczęście czy pecha, zależy znacznie bardziej od twojej reakcji na okoliczności niż od samych okolicznośi.<br>W. Clement Stone mówił często, że pozytywna postawa umysłowa oznacza postawę właściwą w danych okolicznościa. Jest to postawa <i>mogę</i>, która przejawia się w pozytywnym działaniu, prawie zawsze prowadzącym do pozytywnych rezultatów. Gdy podejmujesz działanie w duchu pozytywnego osiągnięcia, to zawsze będziesz miał szczęście, nawet jeśli wyniki nie będą takie, jakich się spodziewałeś czy początkowo pragnąłeś. Pozytywne działanie ostatecznie zawsze przynosi pozytywne wyniki.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'nie ma czegoś takiego jak pasywna wiara; działanie jest najważniejszym wymogiem wiary - same słowa nie mogą służyć',
+            description: '"wiara stosowana" oznacza posługiwanie się swoją wiarą w siebie samego, w drugiego człowieka i w Boga - w każdych okolicznościach. Stanowi ona istotny składnik każdego sukcesu. Bez wiary w siebie nie będziesz chciał próbować czegokolwiek, a bez wiary w drugiego człowieka nie będziesz zdolny do nawiązania zaufania i więzi, które są wymogiem robienia interesów z innymi. I oczywiście, dla wielu z nas wiara w Boga nadaje życiu ostateczne znaczenie i sens.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'jedyną stałą rzeczą w całym wszechświecie jest zmiana - nic nie jest takie samo przez dwa kolejne dni',
+            description: 'W pierwszym wieku naszej ery rzymski filozof i pisarz, Pliniusz Starszy napisał "Jedynym pewnikiem w życiu jest to, że nie ma nic pewnego". Zanim zostały zredagowane te słowa, istoty ludzkie opierały się zmianom, analizowały je i usiłowały je kontrolować - wszystko z miernym skuktkiem. W dzisiejszym, wysoko uprzemysłowionym, pędzącym świecie osiągnięcie sukcesu wymaga czegoś więcej niż chęci zaakceptowania zmian. Musimy się nauczyć witać je z entuzjazmem. Przed dwudziestu pięciu laty Alvin Toffer napisał w swym bestsellerze <i>Szok przyszłości</i> (Future Shock), że w wieku informacji sukces odnosić będą ci, którzy zamiast buntować się przeciw zmianom, spodziewają się ich i je przywołują.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'dzisiejsze troski mogą stać się jutrzejszym bezcennym doświadczeniem',
+            description: 'Jak śmiesznie może się przedstawiać wiele spośród najgorszych obaw, kiedy spoglądamy na nie po czasie, we właściwej perspektywie. Troski, które zdawały się gigantyczne, jakoś zostały pokonane i zajęliśmy się bardziej produktywnymi sprawami. Właściwie, po czasie często zdajemy sobie sprawę, że nasze obawy w tamtych chwilach strasznego, gwałtownego stresu były mocno przesadzone. Po upływie czasu odkrywamy, że to właśnie dzięki tym doświadczeniom zyskaliśmy głębszy wgląd w siebie samych i we własne życie<br>Rozpoznanie tego, że sprawy rzadko mają się tak źle, jak wyglądają na początku, stanowi część dorosłości. Doświadczenie uczy, że zawsze potrafimy znaleźć rozwiązanie problemu, jeżeli poświęcimy czas na przeanalizowanie sytuacji i opracowanie odpowiedniej reakcji. Jeżeli nasze zatroskanie wynika z poczucia niepewności i niezdatności, to możemy kształtować w sobie odnowioną pewność siebie poprzez działania potrzebne, by rozgryźć problem, udoskonalić swe umiejętności i poprawić wyniki.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'zamartwianie się zabije cię szybciej niż praca',
+            description: 'Troska należy do najbardziej chyba bezużytecznych z ludzkich emocji. Komik Will Rogers zauważył kiedyś: "Z troską jest jak z fotelem bujanym. Masz zajęcie, ale ciągle tkwisz w tym samym miejscu". Zamartwianie się nie rozwiązuje żadnego z problemów. Służy jedynie wywieraniu na ciebie dodatkowej presji. Gdyby istniało coś takiego jak konstruktywna troska, to oznaczałaby ona przyjmowanie pozytywnej postawy wobec potencjalnych problemów poprzez przewidywanie ich zanim nastąpią i opracowywanie alternatywnych rozwiązań. Jeżeli na przykład stawiasz czoło problemowi, który może się rozwinąć w kilku różnych kierunkach, to spróbuj przemyśleć drzewo decyzji z planem działania na każdą ewentualność. Kiedy masz opracowaną reakcję na wszystkie możliwe warianty, nie musisz marnować czasu na nieproduktywne, niepotrzebne zamartwianie się.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'nigdy nie słuchaj niedowiarka tomasza, ponieważ wątpienie jest zaraźliwe',
+            description: 'Jako istoty ludzkie mamy wielką skłonność do wątpienia. Pomimo najbardziej mężnych wysiłków, by przezwyciężać wątpliwości i niepewności, czasem wślizgują się one do naszych umysłów, zanim zdamy sobie sprawę, co się dzieje. Jedno negatywne słowo może wystarczyć, by uruchomić nasze stłumione negatywne uczucia i rozpętać falę bezpodstawnych obaw. Pozytywne myslenie jest czymś wyuczonym, delikatnym i zazwyczaj przeciwnym wzorcom kulturowym. Musi być nieustannie wdrażane.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'większość zmartwień nie jest nawet w połowie tak poważna, jak się nam z początku wydaje',
+            description: 'Wiele snu stracono z powodu trosk, które w świetle kolejnego poranka okazywały się błahe. Wśród ciemności nocy, czy w godzinach samotności, sprawy zawsze wydają się najbardziej ponure. W takich chwilach umysł potrafi pogarszać okoliczności, aż przekonujemy samych siebie, że rzeczy stoją znacznie gorzej niż to jest faktycznie. Nie trać na próżne zamartwianie się energii, która może być zwrócona w kierunku rozwiązania problemu.<br>Jeżeli masz trudności z zasypianiem, ponieważ troska odpędza sen z powiek, trzymaj notes w pobliżu łóżka. Zamiast martwić się czymś, co musisz zrobić, albo gryźć się z powodu problemu, którego nie umiesz rozwiązać, zrób listę rzeczy, jakie powinieneś wykonać rano, by poradzić sobie z sytuacją. Przekonasz się, że znacznie łatwiej jest pozostawić swe troski na papierze, zamiast obracać je tam i z powtorem w umyśle przez całą noc.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'jeżeli jesteś zbyt zajęty, by spędzać czas z troskami, zniechęcą się do kręcenia się w pobliżu',
+            description: 'Troska to towarzysz podobny do innych - nie pozostanie długo w pobliżu, jeśli nie będziesz spędzać z nią czasu. Kiedy jesteś zbyt zajęty pozytywnymi, konstruktywnymi działaniami, by się martwić, to już zacząłeś się "wspinać po drabinie sukcesu".<br>Nie chodzi o sugerowanie, że winieneś ślepo ingorować problemy. Nie powinieneś jednak tak "uwewnętrzniać" problemów, by cię paraliżowały i uniemożliwiały podejmowanie konstruktywnych działań. Kiedy widzisz, że troski nie dają ci spać w nocy, przyjmij sobie prostą prawdę, że najlepszym sposobem na zabicie swych trosk jest "zapracowanie" ich na śmierć.'
         }, {
             day: 22,
             motto: '',
