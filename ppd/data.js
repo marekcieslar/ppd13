@@ -1484,32 +1484,32 @@ let plan = {
             description: 'Troska to towarzysz podobny do innych - nie pozostanie długo w pobliżu, jeśli nie będziesz spędzać z nią czasu. Kiedy jesteś zbyt zajęty pozytywnymi, konstruktywnymi działaniami, by się martwić, to już zacząłeś się "wspinać po drabinie sukcesu".<br>Nie chodzi o sugerowanie, że winieneś ślepo ingorować problemy. Nie powinieneś jednak tak "uwewnętrzniać" problemów, by cię paraliżowały i uniemożliwiały podejmowanie konstruktywnych działań. Kiedy widzisz, że troski nie dają ci spać w nocy, przyjmij sobie prostą prawdę, że najlepszym sposobem na zabicie swych trosk jest "zapracowanie" ich na śmierć.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'gdybym mógł wyrazić tylko jedno życzenie, prosiłbym o więcej mądrości, by się cieszyć wieloma błogosławieństwami, jakie posiadam',
+            description: 'Ktoś powiedział kiedyś, że demokracja przypomina trochę produkcję kiełbasy. Nie jest ona zbyt elastyczna, ale wszystkim co się liczy, jest wynik. Mamy naprawdę szczęście, że nasi przodkowie sami doświadczyli ucisku. Byli zdecydowani skonstruować system demokratyczny, który pozwala na otwartą i uczciwą analizę polityki państwa i ostatecznie prowadzi do decyzji najlepiej służących większości społeczeństwa.<br>Demokracja i gospodarka wolnorynkowa to prawdziwe błogosłwieństwo. Następnym razem, kiedy będziesz brał udział w rozmowie na temat polityki, powiedz coś dobrego na temat demokracji. Przypomnij, jakim szczęściem jest żyć w kraju, w którym można otwarcie krytykować swych przywódców, spierać się między sobą i ostatecznie dochodzić do rozwiązań, które wszystkim najlepiej służą.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'liary nie można stworzyć, lecz mogą ją przyswoić wszyscy, którzy przygotowali umysły na jej przyjęcie',
+            description: 'W niektórych religiach nazywa się to "łaską wiary", darem od Boga dla tych, których umysły są przygotowane, by ją przyjąć. Kiedy uznasz istnienie wiary, mimo braku możliwości jej wyjaśnienia przez logiczną, racjonalną myśl, zaczniesz korzystać z przywilejów, jakie daje. Gdy obudzisz zdolność wierzenia, doświadczysz cudownego poczucia zadowolenia i zdrowia, które pochodzą ze świadomości, że ilekroć potrzebujesz, możesz w pełni korzystać z Bożej mocy.<br>Wiary doświadczasz wtedy, gdy stosujesz w praktyce swą religię, przyjmując doktryny swego kościoła, synagogi czy meczetu - mimo ustnienia Boga nie można dowieść w sposób doświadczalny. Przejawiasz też wiarę, kiedy ufasz innemu, że dotrzyma swych obietnic, a udowadniasz swą wiarę w siebie, ilekroś podejmuesz się wykonania czegoś, czego nigdy wcześniej nie robiłeś.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'wiara nigdy nie zmniejsza się w wyniku stosowania jej, przeciwnie - wzrasta',
+            description: 'Podobnie jak twe ciało i umysł, wiara także staje się silniejsza, kiedy ją praktykujesz. Za pierwszym razem, gdy "robisz krok wiary", zrozumiałe, że możesz żywić obawy. Nie jest łatwo przyjąć abstrakcyjną ideę za fakt, ani próbować czegoś, gdy nie ma się pewności wyniku. Jednak kiedy stosujesz swą wiarę, przekonasz się, że jeśli twój cel jest prawy i masz zaufanie do Boga, do innych ludzi i do siebie samego, osiągniesz to, czego pragniesz.<br>Będziesz doświadczał chwil pełnych wątpliwości, gdy jesteś niepewny siebie i działań, jakie powinieneś podjąć. W takiej sytuacji zaufaj swej intuicji. Twoja intuicja może pochodzić od Boga albo stanowić sumę twej wiedzy i doświadczenia. Ważne jest, byś pamiętał, że możesz z niej korzystać.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'największym ze wszystkich cudów jest moc prostej wiary',
+            description: 'Wiara jest istotnym elementem chrześcijaństwa i dlatego Nowy Testament wypełniają pouczenia o mocy wiary. W Ewangelii według św. Mateusza Jezus mówi swym uczniom, że jeśli będą mieć <i>wiarę jak ziarnko gorczycy</i> (17.20), posiądą moc przenoszenia gór i że z wiarą nie będzie dla nich nic niemożliwego. W Ewangelii według św. Marka Jezus zwraca się do wiernego mówiąc, że <i>Wszystko możliwe jest dla tego, kto wierzy</i> (9.23). W nauczaniach biblijnych wiara jest tym, czego (..) <i>się spodziewamy, dowodem tych rzeczywistości, których nie widzimy</i> (List do hebrajczyków 11.1).<br>W skrócie wiara stanowi aktywne wyrażenie gotowości wierzenia w to, czego nie potrafimy udowodnić. Jest ona naprawdę cudem.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'strach jest najbardziej kosztowną ze wszystkich ludzkich emocji, a przy tym większość lęków nie ma podłoża w faktach',
+            description: 'Największymi wrogami sukcesu są niezdecydowanie, zwątpienie i strach. Dopóki dręczą cię wątpliwości i obawy, będziesz niezdecydowany, a niezdecydowanie jest zalążkiem strachu. Krystaluzuje się w wątpliwość, a te dwie emocje w połączeniu rodzą strach. Wrogowie ci są szczególnie niebezpieczni, ponieważ kiełkują powoli i rosną niezauważenie.<br>Pomiędzy tobą a sukcesem może stanąć siedem podstawowych lęków. Należą do nich obawy przed: biedą, krytyką, złym zdrowiem, utratą miłości czy wolności, starością i śmiercią. Umysł zawsze stara się przekształcić myśli w ich fizyczne odpowiedniki, zatem musisz wykorzystać absolutnie całą swą siłę, aby zastąpić je myślami pozytywnymi. Opanowując swoje myśli, opanowujesz obawy.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'Kładź się do łóżka z modlitwą i wstawaj ze śpiewem, a przekonasz się, jak wspaniałą pracę wykonasz w ciągu dnia',
+            description: 'Religia jest szczególnie pomocna w nadaniu perspektywy ludzkiej egzystencji i w rozwijaniu właściwej postawy, aby zyskać błogosławieństwa życia dla siebie i swojej rodziny. Wykorzystując moc modliwty, by połączyć się z Bogiem, uczysz się ufać swym lepszym, bardziej szlachetnym instynktom i umożliwiasz sobie wzrost duchowy. Kiedy każdego wieczoru wyrażasz wdzięczność za błogosławieństwa i witasz pieśnią każdy nowy dzień, będziesz w stanie poradzić sobie ze wszystkim, co przyniesie ci życie.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'czy podjąłbyś ryzyko, aby być sądzonym w niebie według tych samych reguł, według których sądzisz swych bliźnich?',
+            description: 'Jak łatwo jest mieć jeden zestaw norm dla siebie, a drugi dla innych. Do najgłębszych koncepcji biblijnych należy zachęta, by wczuć się w sytuację drugiego, zanim zacznieszmy go sądzić. Kiedy kusi cię, by być krytycznym w stosunku do kolegi czy członka rodziny, zatrzymaj się na chwilę i zapytaj samego siebie: a jak jest ze mną? Czy krytykuję tę osobę za zachowanie, jakie i mnie się zdarza? Czy to, że oni nie robią tego tak jak ja bym zrobił, oznacza, że nie mają racji? Możesz się przekonać, że kiedy poważnie rozważasz podejście drugiego, sam uczysz się lepszego postępowania.'
         }, {
             day: 29,
             motto: '',
