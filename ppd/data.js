@@ -8,12 +8,12 @@ let plan = {
             description: 'Ludzie z charakterem robią to - co mówią, że zrobią, wtedy - kiedy mówią, że zrobią i zgodnie z ustalonymi warunkami. Są liderami, do których inni zwracają się o prowadzenie, ponieważ udowodnili, że zależy im i można im zaufać. Jeśli szanujesz siebie na tyle, by dotrzymywać zobowiązań nawet wtedy, gdy jest to dla ciebie niewygodne, inni również zaczną cię szanować.<br>Niezawodność, podobnie jak inne cechy charakteru, jest nawykiem. Zacznij dzisiaj - na początku nowego roku - kształtować postawę niezawodności. Jeśli odkładasz sprawy lub trudno ci dotrzymywać przyrzeczeń, rozpocznij od rzeczy drobnych. Obiecaj sobie, że na przykład będziesz punktualny i tak zorganizuj czas, by dotrzymać najbliższego terminu. wkrótce przekonasz się, że łatwiej ci będzie wypełniać inne zobowiązania.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'charakter ludzi mozna poznać po towarzystwie, jakim się otaczają',
+            description: 'Powiedzenie mówi: "Ptaki jednego gatunku gromadzą się razem". Zazwyczaj wybieramy przyjaciół czy współpracowników, którzy lubią te same rzeczy co my oraz podzielają te same wartości. Jeżeli otaczasz się szczęśliwymi, pozytywnymi, produktywnymi towarzyszami, to prawdopowodnie sam wkrótce staniesz się szczęśliwy, pozytywny i produktywny. Niestety, sprawdza się także twierdzenie przeciwne. Przepełnieni poczuciem nieszczęścia, negatywni, destrukcyjni ludzie z pewnością pociągną cię w dół wraz z sobą.<br>Zdecyduj się spędzać większość czasu z osobami, które przejawiają pozytywną postawę umysłową. Jeżeli twoja praca wymaga, byś przebywał z ludźmi negatywnymi, ogranicz ten czas najbardziej jak potrafisz i nade wszystko nie pozwól im zniechęcić cię negatywizmem. W zamian okazuj swą pozytywną postawę umysłową.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'reputacja oznacza to, za kogo ludzie cię uważają; charakter -to, kim jesteś naprawdę',
+            description: 'Na pewno pragniesz, aby twoja reputacja i charakter zgadzały się ze sobą, skoncentruj się jednak na charakterze. Przez jakiś czas może ci się udać oszukiwać innych co do tego, jaką jesteś osobą, jednak rzadko trwa to długo. Najpewniejszym sposobem zadbania o to, by twój charakter i opinia były zgodne, jest żyć tak, by żadne informacje o tobie - gdyby zostały wydrukowane na pierwszych stronach gazet - nie mogły cię wprawić w zakłopotanie. Dobry charakter oznacza, że nigdy nie chodzisz na "etyczne skróty", nawet gdyby wszyscy inni tak robili. Kształtujesz go wtedy, gdy robisz właściwą rzecz, ponieważ jej zrobienie jest słuszne.'
         }, {
             day: 4,
             motto: '',
@@ -1512,16 +1512,16 @@ let plan = {
             description: 'Jak łatwo jest mieć jeden zestaw norm dla siebie, a drugi dla innych. Do najgłębszych koncepcji biblijnych należy zachęta, by wczuć się w sytuację drugiego, zanim zacznieszmy go sądzić. Kiedy kusi cię, by być krytycznym w stosunku do kolegi czy członka rodziny, zatrzymaj się na chwilę i zapytaj samego siebie: a jak jest ze mną? Czy krytykuję tę osobę za zachowanie, jakie i mnie się zdarza? Czy to, że oni nie robią tego tak jak ja bym zrobił, oznacza, że nie mają racji? Możesz się przekonać, że kiedy poważnie rozważasz podejście drugiego, sam uczysz się lepszego postępowania.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'nadzieja i strach nie idą ze sobą w parze',
+            description: 'Nadzieja i strach są to emocje, które pozostają ze sobą w konflikcie. Dopóki masz nadzieję, że możesz pokonać każdą obawę, jaka ci grozi. Nadzieja daje odwagę wytrwania w obliczu przeciwności, w poszsukiwaniu nowych granic osiągnięć. Psychiatra i autor, Karl Menninger powiedział: "Nadzieja jest skromna, pokora, nieegoistyczna. Pociąga za sobą postęp. Jest przygodą, drogą naprzód - ufnym poszukiwaniem satysfakcjonującego życia".<br>Nadzieja wyrasta na przygotowanym gruncie. Kiedy badasz możliwości w duchu pozytywnego osiągnięcia, nadzieja jest nieuniknionym rezultatem. Jeżeli podejmujesz odpowiednie kroki, by przygotować się do sukcesu w jakimś przedsięwzięciu, nabywaz pewności siebie, która w sposób nieomylny i płynny zaprowadzi cię do przedmiotu twych pragnień. Kiedy doświadczasz opóźnień, niepowodzeń i chwilowych porażek, nadzieja daje ci odwagę do wytrzymania aż do czasu, gdy przezwyciężysz wątpliwości i obawy, które od czasu do czasu dręczą nas wszystkich.'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'życie nigdy nie jest słodkie dla tych, którzy są skwaśniali wobec świata',
+            description: 'Możesz oczekiwać korzyści od życia wprost proporcjonalnych do tego, co w nie zainwestowałeś. Jeśli siejesz pozytywne myśli i czyny, zbierzesz obfity plon. Jeżeli jednak posiałeś nienawiść i niezadowolenie, możesz spodziewać się zbioru tego samego rodzaju. Kiedy niechętnie dajesz tylko to, co musisz, przygotuj się na to, że otrzymasz w zamian jedynie to, co inni bedą zmuszeni dać tobie.<br>Możesz w sposób świadomy zdecydować się, by być pozytywnym, delikatnym, aktywnym zdobywcą, który powoduje, że coś się dzieje albo możesz wybrać czekanie, obserwowanie z boku i powolne stawanie się człowiekiem starym i zgorzkniałym.<br>To smutne, ale kiedy tylko pozwalasz sobie na nurzanie się w negatywizmie, możesz nawet nie zdawać sobie sprawy z wyrządzanej samemu sobie krzywdy, aż będzie za późno. Kiedy postanowisz być szczęśliwym i osiągać sukcesy, z pewnością znajdziesz szczęście i sukces, nie musisz jednak wcale wybierać negatywizmu i porażki - one same cię znajdą.'
         }, {
             day: 31,
-            motto: '',
-            description: ''
+            motto: 'tylko jedno przyciąga miłość i tym właśnie jest miłość',
+            description: 'Miłość jest jedną z wielkich tajemnic życia. Nie da się wyjaśnić uniesienia, jakie czujesz, gdy doświadczasz miłości, a słowa nie potrafią opisać intensywności emocji, które cię ogarniają, kiedy łączysz się umysłowo i fizycznie z inną ludzką istotą. A jak wyrazić to nieopisane uczucie, które towarzyszy ci, gdy po raz pierwszy trzymasz w ramionach własne dziecko? Takie jest królestwo miłości.<br>Podobnie jak w przypadku przyjaźni, nie możesz przyjąć prawdziwej miłości, dopóki sam nie jesteś gotów jej ofiarować. Miłość zawiera w sobie ryzyko. Kiedy kierujesz miłość ku drugiej osobie, robisz to w nadziei, że twoja miłość zostanie przyjęta i odwzajemniona. Jeżeli jednak nie chcesz najpierw ofiarować siebie, to nigdy nie poznasz radości płynącej z przyjmowania niezasłużonej, hojnej, rozumiejącej miłości. Jeśli kochaszs zbyt mocno, możesz zostać zraniony, jeśli jednak kochasz zbyt słabo, bedziesz żył w nędzy.'
         }]
     }]
 }
