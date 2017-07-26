@@ -16,32 +16,32 @@ let plan = {
             description: 'Na pewno pragniesz, aby twoja reputacja i charakter zgadzały się ze sobą, skoncentruj się jednak na charakterze. Przez jakiś czas może ci się udać oszukiwać innych co do tego, jaką jesteś osobą, jednak rzadko trwa to długo. Najpewniejszym sposobem zadbania o to, by twój charakter i opinia były zgodne, jest żyć tak, by żadne informacje o tobie - gdyby zostały wydrukowane na pierwszych stronach gazet - nie mogły cię wprawić w zakłopotanie. Dobry charakter oznacza, że nigdy nie chodzisz na "etyczne skróty", nawet gdyby wszyscy inni tak robili. Kształtujesz go wtedy, gdy robisz właściwą rzecz, ponieważ jej zrobienie jest słuszne.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'każda myśl, jaką wysyłasz staje się stałą częścią twojego harakteru',
+            description: 'Myśli <i>są</i> czymś konkretnym. Każda myśl, jaką wysyłasz - dobra czy zła - stanowi formę energii, która może mieć dobry lub zły wpływ na tych, do których dociera. Co ważniejsze, twoje myśli oddziałują także na ciebie. Stajesz się tym, o czym najwięcej myślisz. Jeśli myślisz o sukcesie, uwarunkowujesz swój umysł na poszukiwanie sukcesu i przyciągasz sporą jego porcję. I odwrotnie, jeżeli rozmyślasz o klęsce i rozpaczy, stajesz się nieszczęśliwy i zrozpaczony. W celu zachowania umysłu na pozytywnej ścieżce, gdy tylko zaczynasz doświadczać wślizgiwania się negatywizmu, od razu podejmij świadomą decyzję, aby wyeliminować negatywne myśli i zastąpić je ich pozytywnymi odpowiednikami.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'rozsądek to nasz największy majątek, gdyż zapewnia siłę, z którą możemy opanować kryzysy naszego zycia zamiast upadać pod nim',
+            description: 'Życie bez pozytywnej postawy umysłowej mozna opisać jako długie okresy nipewności, naznaczone przypadkowymi sytuacjami awaryjnymi, które wstrząsają nami do głębi istoty. Te nagłe wypadki mogą być natury finansowej, osobistej, czy związane ze zdrowiem, z każdym jednak trzeba się zmierzyć oddzielnie i szybko. Najpewniejszym sposobem na poradzenie sobie z dowolnym kryzysem jest skupienie się na rozwiązaniach, a nie na prawdopodobnej przyczynie problemu czy na potencjalnym winowajcy. Przeprowadź szybkie badanie szkody, poświęć czas na przemyślenie alternatyw i ich konsekwencji, a potem wprowadź w życie najlepsze z rozwiązań. Jeżeli będziesz mierzył się z awariami życia w miarę jak występują - na swych własnych warunkach - staniesz się silniejszą, lepszą osobą dzięki spojrzeniu im w oczy i pokonaniu ich.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'niektórzy ludzie przypominają tanie zegarni - nie można na nich polegać',
+            description: 'Dobrze wiemy, że nie można się spodziewać, by tanie, masowo produkowane zegarki pracowały z taką samą dokładnością, jak wykonany z najwyższym kunsztem Rolex. Nie są one wytwarzane z materiałów tej samej jakości ani z takim samym mistrzostwem. W jakiś jednak dziwny sposób wydaje się nam, że nei potrzeba przykładać dużej uwagi do naszej najważniejszej własności: nas samych. Nie zostawiaj losowi czegoś tak ważnego jak własny charakter. Wybierz cechy charakteru, które podziwiasz i pracuj nad ich wykształceniem. Nie zniechęcaj się, kiedy się potykasz. Budowanie charakteru to proces, którego ukończenie zajmuje całe zycie. Na szczęście, podobnie jak we wszystkim innym, im więcej pracujesz nad charakterem, tym lepsze osiągasz wyniki.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'wybierz osobę, którą podziwiasz i naśladuj ją najlepiej jak potrafisz; może to wyglądać na czczenie bohatera, ale skutercznie poprawia charakter',
+            description: 'Różnica pomiędzy ślepym wpatrywaniem się w idola a przemyślanym naśladowaniem wzoru tkwi w zdolności rozróżniania dobrych cech charakteru od tych, które może nie są tak dobre. Twoi bohaterowie z pewnością nie będą idealni; nikt z nas nie jest.<br>Przyznaj, że wszyscy jesteśmy ludźmi, przebacz swym ideałom, jeśli zawodzą i nadal naśladuj w nich to, co ci się podoba i co szanuejsz. Porównywanie swego charakteru z postawami tych, którzy osiągneli sukces w swoich dziedzinach, poszesza twoje horyzonty i kieruje wzwyż twoje cele. Kiedy widzisz, czego dokonali inni i jaki w trakcie tego wykształcili charakter, lepiej będziesz w stanie rozpoznać, w jaki sposób poprawić własne wyniki.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'chełpliwość jest zazwyczaj przyznaniem się do kompleksu niższości',
+            description: 'Ludzie naprawdę zdolni nie muszą przechwalać się swymi osiągnięciami; ich czyny mówią za nich. Kiedy chełpisz się dokonaniami, przekazujesz innym sygnał niepewności siebie i swej wartości w świecie. Tommy Lasorda, menadżer baseballowy, zauważył kiedyś, że są ludzie, którzy obserwują co się dzieje, tacy, którzy zastanawiają się, co się stało oraz ci, którzy sprawiają, że rzeczy się wydarzają. Dąż do tego, by należeć do zdobywców powodujących wydarzanie się rzeczy. Jeżeli <i>pokażesz</i> innym, co potrafisz zrobić, będą cię szanować bardziej, niż gdybyś po prosu powiedział im, czego dokonałeś. Każdy może polemizować ze słowami, ale czyny mówią same za siebie.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'ciskanie przekleństw to przejaw stosowania niewłaściwego słownictwa lub złego osądu - albo obu tych rzeczy jednocześnie',
+            description: 'Mark Tawin zauważył kiedyś, że "różnica między słowem właściwym a prawie odpowiednim jest taka jak między błyskawicą a robaczkiem świętojańskim". Wypowiadanie przekleństw nigdy nie należy do dobrego tonu, a szczególnie pośród osób, które dobrze nie znasz. W zamian poszerzaj swoje słownictwo poprzez czytanie i uczenie się, abyś umiał wyrażać się prosto i elokwentnie. Rozszerzając zakres znanych ci słów, poszerzasz także swój umysł, ponieważ rozumienie słów i ich znaczenia wymaga pojmowania tego, co się za nimi kryje. Dopilnuj, by każdego dnia poświęcać czas na studiowanie i refleksję.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'jeżeli zaczynasz być zakłamany, upewnij się, że nie okłamujesz swojego najlepszego przyjaciela - samego siebie',
+            description: 'Lepsze pojmowanie tego, kim jesteś - twoich celów, marzeń, aspiracji - prowadzi do lepszego zrozumienia tych, którzy są wokół ciebie. Niezbędne jest zatem, byś w każdej chwili był wobec siebie uczciwy. Moment, w którym zaczynasz oszukiwać siebie samego, jest początkiem schyłku twego charakteru; to rozpoczęcie procesu usprawiedliwiania się, który pozwala uzasadniać niedopuszczalne zachowania. Zadbaj o to, by być osobą, którą ty sam mógłbyś lubić, osobą o zdrowym charakterze. Jeżeli nie lubisz siebie, to jak możesz oczekiwać, że inni będą cię lubili? Zatrzymaj się i przebadaj swoje postępowanie w możliwie logiczny sposób. Zadaj sobie pytanie: "Czy jestem osobą, z jaką chciałbym przebywać?" Rozwijanie dobrych cech charakteru przypomina osiąganie każdego innego celu. Zdecyduj, gdzie chcesz się znaleźć, a potem opracuj plan dostania się tam.'
         }, {
             day: 11,
             motto: '',
