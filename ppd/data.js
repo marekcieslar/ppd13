@@ -44,28 +44,28 @@ let plan = {
             description: 'Lepsze pojmowanie tego, kim jesteś - twoich celów, marzeń, aspiracji - prowadzi do lepszego zrozumienia tych, którzy są wokół ciebie. Niezbędne jest zatem, byś w każdej chwili był wobec siebie uczciwy. Moment, w którym zaczynasz oszukiwać siebie samego, jest początkiem schyłku twego charakteru; to rozpoczęcie procesu usprawiedliwiania się, który pozwala uzasadniać niedopuszczalne zachowania. Zadbaj o to, by być osobą, którą ty sam mógłbyś lubić, osobą o zdrowym charakterze. Jeżeli nie lubisz siebie, to jak możesz oczekiwać, że inni będą cię lubili? Zatrzymaj się i przebadaj swoje postępowanie w możliwie logiczny sposób. Zadaj sobie pytanie: "Czy jestem osobą, z jaką chciałbym przebywać?" Rozwijanie dobrych cech charakteru przypomina osiąganie każdego innego celu. Zdecyduj, gdzie chcesz się znaleźć, a potem opracuj plan dostania się tam.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'pieniądze mają dobry, lub zły wpływ, zależnie od charakteru właciciela',
+            description: 'To prawda. Pieniądze same w sobie nie mają charakteru, osobowości ani wartości. Ich działania odbijają jedynie pragnienia ic hwłaściciela. Pieniądze mogą budować wspaniałe szpitale czy szkoły, a mogą też zostać przepuszczone na hazard czy roztrwonione na nic nie znaczące dobra materialne. Mogą tworzyć muzea, w których wystawia się piękne dzieła sztuki i konstruować zachwycające miejsca czci - ale mogą też być używane do wytwarzania narzędzi wojny, walki i zniszczenia.<br>Budując swoje bogactwo osobiste, nie przeocz kształtowania charakteru poprzez odkładanie części dochodu na pomoc innym. Wybierz kościół, cel charytatywny, sprawy, które możesz entuzjastycznie wpsierać. Potem ofiaruj swoje pieniądze i czas dla wspierania tej sprawy. Takie szlachetne czyny przynoszą korzyść przede wszystkim temu, kto daje, nie temu, kto otrzymuje.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'nikt nie jest tak dobry, by nie można było znaleźć w nim czegoś złego, ani tak zły, by nie dało się dostrzec czegoś dobrego',
+            description: 'Jako istoty ludzki jesteśmy niezwykle skomplikowani. Wiele prac religijnych i wielkich dzieł literackich sięga do nieustannej walki pomiędzy dobrem a złem, jaka toczy się wewnątrz każdego z nas. Walka ta jest tak stara jak rodzaj ludzki. A jednak, chociaż rozpoznajemy własne wewnętrzne zmagania, często szybko i łatwo potępiamy innych. Psychologowie mówią, że nie istnieje ktoś taki jak zła osoba; są tylko złe postępki.<br>Postanów szukać dobra w sobie - i innych. Karm dobre cechy charakteru i pracuj nad tymi, które wymagają poprawy. Podobnie do roślin w ogrodzie, cechami charakteru, które wyrosną na silne i wydają owoce będą te, które są karmione, podlewane i regularnie pielone.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'osobę, która jest uczciwa tylko dla nagrody, powinno się uznać za nieuczciwą',
+            description: 'W pojciu uczciwości nie ma stopni pośrednich. Są tylko absoluty. Albo jesteś uczciwy, albo nie. Uczciwość nie pojawia się jako nagroda; uczciwość jest nagrodą sama w sobie. To także najbardziej skuteczne spośród ludzkich zachowań. Osoba uczciwa nigdy nie musi się martwić i zastanawiać nad tym, komu jakie kłamstwo powiedziała, i nigdy nie potrzebuje obawiać się pryłapania. W ten sposób może skoncentrować swoją energię na rzeczach bardziej produktywnych.<br>Niech będzie twym zwyczajem uczciwość we wszystkich poczynaniach. Jeśli nie możesz powiedzieć prawdy, nie mów nic. Pamiętaj, że małe kłamstwa zaczynają się zupełnie niewinnie, a wkrótce potem zaczynają żyć własnym życiem. Małe kłamstwo wymaga trochę większego, by je ukryć i szybko rodzi się konieczność coraz częstszego mijania się z prawdą. Nie wypowiadaj tego pierwszego kłamstwa i nie bierz pierwszego przedmiotu, który do ciebie nie należy, a nigdy nie będziesz musiał się lękać.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'ktoś leniwy jest albo chory, albo też nie znalazł pracy, którą by lubił',
+            description: 'Nikt nie jest z gruntu leniwy. W ludzkiej naturze leży pragnienie robienia czegoś, chyba że ktoś jest chory. Pewną oznakę powracania do zdrowia po chorobie stanowi pragnienie wstania i zakrzątnięcia się, powrotu do pracy, do robienia czegoś - czegokolwiek. Brak aktywności prowadzi do nudy, a znudzenie do "lenistwa". I odwrotnie, dziuałanie wiedzie ku zainteresowaniu, a zainteresowanie do entuzjazmu i ambicji.<br>W. Clement Stone mówi często: "Emocje nie zawsze poddają się rozsądkowi, ale zawsze poddają się działaniu!" Określ, w czym jesteś dobry i co lubisz robić, a potem kształtuj palące pragnienie stania się w tym najlepszym jak potrafisz. Wtedy przystąp do działania!'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'będąc rozsądnym, zazwyczaj nie zamartwiasz się o swoją reputację',
+            description: 'Thomas Jefferson powiedział kiedyś, że jeden człowiek z odwagą swoich przekonań pociągnie za sobą większość. Jeżeli posiadasz odwagę, płynącą z przekonania o swym zdrowym charakterze, uczciwości, niezawodności, uprzejmości i troskliwości, to nigdy nie będziesz musiał się martwić, co inni o tobie myślą. Jeśli w swoim sercu wiesz, że jesteś człowiekiem dobrym i przyzwoitym, to możesz iść na spotkanie wyzwań życia z podniesioną głową i bez lęu o to, zo myślą inni.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'zatroszcz się o swój charakter, a reputacja sama o siebie zadba',
+            description: 'Większość z nas doświadczyła kiedyś niezrozumienia ze strony osób, które są dla nas ważne. Ludzie ci sądzili, że zamierzamy podjąć kroki, które im nie odpowiadają, podczas gdy w rzeczywistości nasze intencje były zupełnie inne. Takie nieporozumienia szybko są wyjaśniane i życie toczy się dalej. To samo odnosi się do charakteru i reputacji. Jeśli z jakiegoś powodu opinia o tobie rozmija się z twym charekterem, to szybko naprawi się ona sama, kiedy inni odkryją, że nie jesteś osobą, jaką w tobie widzieli.<br>Jeżeli masz silne fundamenty, to nie musisz zajmować się takimi nieporozumieniami. Inni szybko przekonają się, jaki jesteś naprawdę. Poświęcaj czas i energię na stałe badanie siebie i korygowanie, budowanie silnego charakteru, a nigdy nie będziesz potrzebował martwić się o to, co inni myślą o tobie.'
         }, {
             day: 17,
             motto: '',
