@@ -68,36 +68,36 @@ let plan = {
             description: 'Większość z nas doświadczyła kiedyś niezrozumienia ze strony osób, które są dla nas ważne. Ludzie ci sądzili, że zamierzamy podjąć kroki, które im nie odpowiadają, podczas gdy w rzeczywistości nasze intencje były zupełnie inne. Takie nieporozumienia szybko są wyjaśniane i życie toczy się dalej. To samo odnosi się do charakteru i reputacji. Jeśli z jakiegoś powodu opinia o tobie rozmija się z twym charekterem, to szybko naprawi się ona sama, kiedy inni odkryją, że nie jesteś osobą, jaką w tobie widzieli.<br>Jeżeli masz silne fundamenty, to nie musisz zajmować się takimi nieporozumieniami. Inni szybko przekonają się, jaki jesteś naprawdę. Poświęcaj czas i energię na stałe badanie siebie i korygowanie, budowanie silnego charakteru, a nigdy nie będziesz potrzebował martwić się o to, co inni myślą o tobie.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'oszustwo zawsze wychodzi na jaw',
+            description: 'Naprawdę niemożliwe jest ukrycie prawdy na zawsze. Naturalnym porządkiem rzaczy prawda ostatecznie wyjdzie na jaw. Ten fakt stanowi podstawę systemu sądowego i na nim opierają się wszelkie wzajemne stosunki międzyludzkie. Relacje w interesach, zawodowe, osobiste, jeśli są zbudowane na kłamstwie, nie mogą długo przetrwać, ale te osadzone na prawdzie i tównych korzyściach uczestników mogą rozwijać się w sposób nieograniczony.<br>Przyjmij praktykę mówienia prawdy we wszystkim, co robisz - nawet kiedy to nie jest istotne - a ukształtujesz nawyk prawdomówności. Instynkt będzie ci podpowiadać, że lepiej powiedzieć prawdę i ponieść konsekwencje, niż zaserwować kłamstwo, które w końcu i tak da się poznać światu.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'jesteś uczciwy, albo nieuczciwy, nie ma tu kompromisu',
+            description: 'Urzędnicy mający do czynienia z defraudacją i kradzieżami mówią, że są często zszokowani, jak małe kwoty pieniężne bywają przedmiotem kradzieży. Niektórzy sprzedają swą prawość dosłownie za psie pieniądze. Dla takich jednostek nieuczciwe postępowanie nie jest sporadycznym przypadkiem - to sposób ich życia. Ci, którzy kłamią nawet w sprawach mało istotnych czy kradną choćby drobne sumy pieniężne, wykształcają w sobie nawyk kłamania i okradania.<br>Czy spoglądając wstecz na własne zachowanie, możesz odczuwać dumę wiedząc, że zawsze byłeś uczciwy? Jeżeli nie, to może już czas, by zastanowić się nad sytuacjami, gdy wybierałeś postępowanie nieuczciwe. Dlaczego to robiłeś? Czy warto było? Czy w tamtych okolicznościach poniesienie konsekwencji zachowania uczciwości i prawdomówności nie byłoby lepsze? Wyciągnij naukę ze swoich błędów i obiecaj sobie, że od tej chwili zawsze będziesz uczciwy.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'bankierzy często pożyczają pieniądze znając charakter osoby, ale rzadko opierają się na samej reputacji, bo wiedzą, że nie każda reputacja jest zasłużona',
+            description: 'Rozważając udzielenie pożyczki, bankier przywiązuje wielką uwagę do trzech spraw: zdolności pożyczającego do spłaty długu, historii wcześniejszych kredytów klienta oraz charakteru pożyczkobiorcy. Dwa pierwsze aspekty mogą być obliczone w sposób matematyczny; trzeci wymaga intuicji i doświadczenia. Ostrożni bankierzy wiedzą, że pożyczka udzielona ludziom z charakterem stanowi rozsądne ryzyko, ponieważ traktują oni poważnie swoje zobowiązania. Tych natomiast, którzy wydają swe zasoby dla prady, dla blasku sukcesu, powinno się unikać za wszelką cenę.<br>Chroń swoją dobrą reputację, tak jak chroniłbyś swój dom, inwestycje i życie. Raz utracona, może być odzyskana tylko przez tych, którzy wykształcą w sobie odwagę i siłę woli do wytrwania w obliczu wielkich przeciwności.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'uczciwość jest duchową zaletą, której nie można oceniać w katerorii pieniądza',
+            description: 'Istnieje wiele praktycznych przyczyn, dla których warto być uczciwym. Znacznie mniej wysiłku wymaga być prawdomównym niż kłamliwym - w dłuższej perspektywie ryzyko jest mniejsze a nagrody większe. Jednak w dzisiejszym skomplikowanym społeczeństwie granice dopuszczalnego postępowania są tak zatarte, że stają się czasem nierozróżnialne. Prawo i kodeks moralny wyznaczają normę <i>minimum</i> zachowania. Upewnij się, że twoje własne normy ustalasz powyżej takiego minimum i nie pozwalasz sobie upadać poniżej tej normy, niezależnie od tego, co inni mogą robić czy mówić. Twój własny zestaw reguł pozwoli ci szybko i łatwo zdecydować o właściwym przebiegu działania w obliczu trudnego problemu.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'bardzo łatwo jest usprawiedliwiać nieuczciwość, jeżeli się z niej żyje',
+            description: 'Podświadomość nie dokonuje żadnych osądów moralnych. Jeżeli wciąż coś sobie powtarzasz, to twoja podświadomość w końcu przyjmie za fakt nawet najbardziej rażące kłamstwo. Ci, których życie i kariery zniszczyło nieuczciwe postępowanie, rozpoczęli proces samodestrukcji w chwili, gdy wmówili sobie, że jedno drobne naruszenie zasad nie ma większego znaczenia. Kiedy oddajesz się idei, upewnij się, czy pomysł jest pozytywny, korzystny dla ciebie i nieszkodliwy dla innych.<br>Podobnie jak negatywne myśli i czyny powracają do swego twórcy, tak samo zachowują się pozytywne. Kiedy uruchamiasz siłę dobra, któ©a wielokrotnie do ciebie powróci.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'zbyt wielka porcja prawdy może niektórych przywieść do większej wściekłości niż zbyt mała',
+            description: 'Uczniowie bawią się czasem w grę zwaną "uczciwość". Zasady są proste: w ciągu wyznaczonego czasu uczestnicy zabawy muszą mówić prawdę, bez względu na temat. Potem zadają sobie pytania w rodzaju: "Czy podoba ci się moja fryzura?" albo "Czy uważasz, że Lindsay jest ładna?" Nieuchronnie niektórzy złoszczą się, kiedy się dowiadują, że koledzy ukrywali prawdę mówiąc <i>Małe białe kłamstewka</i>, aby uszanować czyjeś uczucia. Nawet po zakończeniu gry, jej lekcje nieprędko się zapomina.<br>Uczciwość wobec innych nie musi oznaczać brutalności. Nie trzeba koniecznie mówić ludziom o wszystkim, co nam się w nich nie podoba pod pretekstem szczerości <i>dla ich własnego dobra</i>. Czasem lepiej nie znać najskrytszych uczuć wszystkich innych do siebie. Poszanowanie własnej godności drugiej osoby oznacza czasem powierzenie mniejszej porcji prawdy zamiast zbyt wielkiej.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'uprzejmość zazwyczaj zaczyna się w domu, albo nie zaczyna się wcale',
+            description: 'Uprzejmość dla innych rodzi się zwykle z szacunku dla jednostki, którego uczymy się jako dzieci. Kiedy inni członkowie rodziny traktują cię z szacunkiem, ty także uczysz się ich poważać. Poczucie własnej godności wynikające z uznania cię za osobę unikalną przez ludzi, któ©zy najwięcej dla ciebie znaczą, pomaga rozwijać pewność siebie konieczną do późniejszego sukcesu w życiu. Uprzejmość i wzgląd na innych są zwyczajami, które - raz wykształcone - na ogół pozostają z nami przez całe życie. Chociaż zwykła grzeczność może się zdawać stosunkowo mało znacząca w całym biegu spraw, to jednak jest ona odzwierciedleniem bardziej podstawowych wartości. Co więcej, jeżeli wypracujesz nawyk szanowania innych, prawdopodobnie będziesz doznawał także szacunku z ich strony.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'ktoś, kto ma czas jedynie na plotkę i obmowę, jest zbyt zajęty, by zająć się sukcesem',
+            description: 'Każdy z nas dysponuje ograniczoną ilością czasu, energii i pieniędzy. Musisz wybierać, jak je spożytkujesz. Jeżeli wybierzesz trwonienie swych zasobów na pomniejszanie innych w usiłowaniu załatwienia własnych interesów, to wkrótce przekonasz się, że spędzasz tak wiele czasu i energii na plotce i obmowie, iż niewiele zostaje dla ciebie. Jeżeli wplączesz się w złośliwe intrygi, stracisz zaufanie ludzi. Jak mówi powiedzenie: "Ci, którzy mówią nam o innych, będą innym mówić o nas".'
         }, {
             day: 25,
             motto: '',
