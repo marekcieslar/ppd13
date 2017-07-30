@@ -100,32 +100,32 @@ let plan = {
             description: 'Każdy z nas dysponuje ograniczoną ilością czasu, energii i pieniędzy. Musisz wybierać, jak je spożytkujesz. Jeżeli wybierzesz trwonienie swych zasobów na pomniejszanie innych w usiłowaniu załatwienia własnych interesów, to wkrótce przekonasz się, że spędzasz tak wiele czasu i energii na plotce i obmowie, iż niewiele zostaje dla ciebie. Jeżeli wplączesz się w złośliwe intrygi, stracisz zaufanie ludzi. Jak mówi powiedzenie: "Ci, którzy mówią nam o innych, będą innym mówić o nas".'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'wielkie osiągnięcia rodzą się w wyniku walki',
+            description: 'Ralph Waldo Emerson powiedział: "Nasza siła wyrasta ze słabości. Dopiero kiedy jesteśmy pokłuci, poparzeni i straszliwie poranieni od strzałów, budzi się w nas oburzenie, które uzbraja się w tajemne siły". Zmaganie i walka może pobudzić cię do pokonania przeciwności i dać napęd do prawdziwego osiągnięcia. Postrzegaj każde zmaganie się jako sposobność do osobistego wzrostu. To sama walka, nie zaś jej wynik, buduje charakter. Jeżeli wiesz, że masz rację, trzymaj się kursu, nawet gdyby cały świat zdawał się być przeciw tobie i każdy, kogo znasz, kwestionował twój osąd. Kiedy zwyciężysz - a w końcu tak się stanie, jeśli przylgniesz do zadania - powiedzą ci, że przez cały czas wiedzieli, że możesz to zrobić.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'nie spoglądaj na gwiazdy jako na przyczynę swych nieszczęść - patrz na samego siebie',
+            description: 'Istnieje wiele rzeczy, których nie możesz kontrolować, jednak potrafisz kierować jedynymi, które naprawdę się liczą: swoim umysłem i postawą. Siły zewnętrzne mają bardzo niewiele wspólnego z sukcesem. Ci, którzy zaprogramują się na sukces, znajdą drogę do niego nawet w najtrudniejszych okolicznościach. Rozwiązania dla większości problemów pochodzą z jednego i tylko jednego źródła: ciebie samego.<br>Pełne życie bardzo przypomina pęd gumową tratwą po bystrzynie. Kiedy już się zdecydujesz, trudno jest zmienić kierunek, zawrócić i wiosłować pod prąd na spokojne wody. Jednak to właśnie podniecenie i przygoda nadają wysiłkowi wartość. Jeśli nigdy nie podejmiesz próby, nie poznasz wprawdzie głębokości rozpaczy, lecz także nie doświadczyszs cudownej radości sukcesu.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'szacunek dla samego siebie jest najlepszym środkiem zdobywania szacunku u innych',
+            description: 'Czy znasz ludzi, którzy nie wytrzymują pozostawania w samotności nawet przez chwilę? Prawdopodobnie ludzie ci nie lubią zbytnio siebe samych. Wciąż potrzebują kogoś wokół siebie, aby przydać wartości własnemu istnieniu. To smutne, że ludzie najbardziej potrzebujący innych to ci, których inni zazwyczaj najmniej pragną mieć w pobliżu. Ponieważ sami nie lubią siebie, inni także rzadko darzą ich sympatią. Najpewniejszą drogą do wzbudzenia szacunku u innych jest stanie się osobą, którą ty sam chciałbyś mieć w pobliżu. Rozpoznaj cechy, które podziwiasz u innych i podejmij świadomy wysiłek rozwinięcia ich u siebie. Twój szacunek dla samego siebie zacznie wzrastać od chwili, gdy postanowisz zrobić pierwszy krok, w kierunku stania się osobą, którą chciałbyś i wiesz, że możesz być.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'rozsądek zaczyna się od prawdziwego szacunku dla samego siebie',
+            description: 'Nikt nie wie na pewno, w jakie sposób budujemy szacunek dla samego siebie, ale eksperci uważają, że zaczyna się to bardzo wcześnie. Rodzice okazujący dzieciom, że kochają je bezwarunkowo - tylko dlatego, iż są tyk, kim są - budują fundament zdrowego poczucia godności, które będzie podtrzymywać dzieci przez resztę ich życia. Z tego fundamentu wywodzi się struktura moralna i etyczna, zwana charakterem.<br>Zdrowy szacunek dla samego siebie nie powinien być mylony z egotyzmem. Egoista kocha siebie z najbardziej powierzchownych powodów, podczas gdy osoba szanująca siebie jest dumna z zalet, nad ukształtowaniem których ciężko pracowała.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'jeżeli masz więcej wrogów niż przyjaciół to stawiam tysiąc do jednego, że zasłużyłeś na to',
+            description: 'Kiedyś Abraham Lincoln zauważył: "Możesz oszukiwać wszystkich ludzi przez jakiś czas; niektórych ludzi możesz nawet oszukiwać zawsze; jednak nie uda ci się oszukiwać wszystkich w nieskończoność". Niezależnie od tego, jak sprytnie się przebierzesz, inni w końcu przejrzą tę maskaradę i rozpoznają, jaki jesteś naprawdę. Ogólna zasada utrzymuje, że ludzie wierzą, iż jesteś taki jak mówiszs, dopóki nie okażesz się inny. Nie wykorzystuj dobrej woli innych. Zbieraj przyjaciół, nie wrogów.'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'najlepszym sposobem wykorzystania czasu jest ciche rozmyślanie w poszukiwaniu wewnętrznego prowadzenia',
+            description: 'Wszyscy doświadczamy tych rzadkich chwil, kiedy spada na nas olśniewające objawienie i nagle widzimy sprawy inaczej niż dotychczas. Zwykle jednak prawdy o sobie samych uczymy się stopniowo, przez długi czas, poprzez cichą introspekcję. Wszyscy jesteśmy istotami duchowymi, jednak niektórzy nauczyli się sięgać bardziej skutecznie niż inni po tę wielką siłę, jaka zamieszkuje w naszej duchowej części.<br>Duch nie jest chełpliwy ani hałaśliwy. Nawiązanie kontaktu ze swym duchowym <i>ja</i> wymaga spokoju i samotności. Dopilnuj, by każdego dnia poświęcić czas na myślenie i studiowanie, rozważanie i zastanawianie się nad swoim życiem. Wybierz takie miejsce i czas, które pozwolą ci najlepiej uspokoić umysł i poddać swe myśli refleksji.'
         }, {
             day: 31,
-            motto: '',
-            description: ''
+            motto: 'kiedy przejmiesz nad sobą pełną kontrolę, możesz zostać swoim własnym szefem',
+            description: 'Wszyscy doświadczamy chwil, kiedy pozwalamy innym prowokować naszą reakcję emocjonalną, szczególnie gniew. Często żałujemy później swojej reakcji i obiecujemy, że nigdy nie pozwolimy sobie na ponowne zachowanie się w ten sposób. Kiedy następnym razem poczujesz, jak wzbiera w tobie gniew, przypomnij sobie, że nikt nie może rozzłościć cię ani wywołać określonych emocji bez twego przyzwolenia - a nawet konieczny jest twój aktywny udział.<br>Ci, którzy nauczyli się kierować sobą, są predestynowani do tego, by być przywódcami. Są przeznaczeni do kierowania innymi, ponieważ wykazali, że potrafią zarządzać sobą. Są ludźmi z charakterem.'
         }]
     }, {
         name: 'luty',
