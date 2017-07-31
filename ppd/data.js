@@ -132,32 +132,32 @@ let plan = {
         motto: 'inicjatywa osobista',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'najlepszą pracę dostaje ten, kto nie zrzuca odpowiedzialności na drugiego ani nie wraca z wymówkami',
+            description: 'Często odkrywamy, że ludzie, o których sądziliśmy, iż odnieśli błyskawiczny sukces, w rzeczywistości pracowali nie zauważeni przez lata, zanim ostatecznie zostali uznani i wynagrodzeni za swoje usługi. Sukces jest wynikiem kumulowanego wysiłku; podróż na szczyt w dowolnej dziedzinie jest zazwyczaj długa i wymaga starannego planowania<br>Jeżeli chcesz zrobić pierwszy krok w kierunku sukcesu, musisz podjąć inicjatywę wykonania pracy, nawet gdy uważasz ją za mało ambitną czy nieprzyjemną. W końcu zapracujesz na swoją nagrodę. Zostaniesz szefem, przywódcą, ponieważ wykształcisz zwyczaj przejmowania inicjatywy w realizacji zadania. Będziesz dostawać najlepsze prace, gdyż poprzez przyjęcie odpowiedzialności za swoje czyny i za przyszłość dowiedziesz, że jesteś niezawodny.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'działaj z własnej inicjatywy i bądź gotów przyjąć pełną odpowiedzialność za swoje czyny',
+            description: 'Jedną z podstawowych różnic pomiędzy tymi, któ©zy dochodzą w swym życiu do wielkich rzeczy, a tymi, którym udaje się tylko jakoś przetrwać, jest to, że ludzie sukcesu wcześnie uczą się odpowiedzialności za swoje czyny. Nikt poza tobą samym nie może zapewnić ci sukcesu ani też powstrzymać cię od osiągnięcia twoich celów.<br>Podejmowanie inicjatywy oznacza przyjmowanie roli przywódczej, pozycji, która wystawia cię na pochwały - lub krytykę. Dobry lider to te, kto dzieli zasługi za sukces z innymi, lecz przyjmuje pełną odpowiedzialność za porażki czy chwilowe niepowodzenia. Kiedy przyjmuejsz odpowiedzialność za swoje czyny, syskujesz szacunek u innych i jesteś na dobrej drodze do kreowania swej własnej przyszłości.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'wszystko, to tłumi osobistą inicjatywę, jest zdecydowanie wrobiem indywidualnych osiągnięć',
+            description: 'Wielkie struktury- także biznesowe, rządowe i wojskowe - coraz częściej odkrywają, że ich wysiłki zmierzające do standaryzacji procedur i centralizacji podejmowania decyzji stworzyły biurokrację, która tłumi innowacje i inicjatywę. W wyniku tego ustępują one pola mniejszym, bardziej autonomicznym jednostkom operacyjnym, pobudzającym inicjatywę jednostki.<br>Kultura, która zniechęca do podejmowania wyważonego ryzyka i przypisuje winę zamiast rozwiązywać problemy, z pewnością wytępi pomyłki - ponieważ nic nie będzie robione! Innowacja oznacza podejmowanie prób i ponoszenie oprażki, podejmowanie prób i osiągnięcie powodzenia. Rzadko się zdarza, by zwycięski pomysł był od początku doskonały. Środowisko, które zachęca ludzi do przejmowania inicjatywy i próbowania czegoś nowego, stwarza dobry grunt do osiągnięć indywidualnych i zbiorowych.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'wysokie zarobki i zdolność przyjmowania odpowiedzialności idą ze sobą w parze',
+            description: 'Mówi się, że zadaniem przywódcy jest inspirowanie innych do wysokich dokonań, podczas gdy rolą kierownika jest chronienie majątku inwestorów i akcjonariuszy. Ludzie odnoszący największe sukcesy to ci, którzy uznają podobieństwa i różnice pomiedzy obowiązkami przywództwa i kierownictwa, wypełniając obie funkcje z jednakową zręcznością, pewnością siebie i zimną krwią. Kiedy to robią, zbierają nagrody proporcjonalne do swych wysiłków.<br>Przejmując chętnie ospowiedzialność za swoje działania i wykonując pracę w sposób, który chroni interesy twego pracodawcy, przygotowujesz się do sytuacji, gdy będą ci powierzane coraz to większe obowiązki i odpowiedzialności. Ci zaś, którzy posiadają zdolność przymowania odpowiedzialności - za sukces projektu czy firmy - zawsze otrzymują największe wynagrodzenie.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'jeżeli wykonujesz zadanei w sposób zlecony przez kogoś innego, on ponosi odpowiedzialność; jeśli realizujesz je własną metodą, ty musisz ponieść odpowiedzialność',
+            description: '<i>Samotność na szczycie</i>, jaką częst oodczuwają wyżsi urzędnicy, todzi się ze świadomości, że sami są odpowiedzialni za klęskę lub powodzenie przedsiębiorstwa. Mogą dzielić ze swymi współpracownikami władzę, ale nie odpowiedzialność. Za klęskę czy nieudany sezon w jakiejś dziedzinie sportu do odpowiedzialności pociągani są menadżer i trenerzy. To oni, a nie poszczególni gracze, odpowiadają za porażkę drużyny; zespół bowiem stwsował się do ich zaleceń. Kiedy zostajesz liderem i wytyczasz trasę, musisz przejąć odpowiedzialność za wynik.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'wysoka płaca i niewielka odpowiedzialność rzadko idą w parze',
+            description: 'Można przejść przez życie bez podejmowania jakiejkolwiek odpowiedzialności, jednak taka wolność od trosk tego świata przychodzi za cenę ogromnego kosztu finansowego. Jeżeli nabrałeś zwyczaju wychodzenia tylnymi drzwiami, podczas gdy odpowiedzialność wchodzi od frontu, to stracisz także okazje, które zawsze towarzyszą odpowiedzialności. Niemal w każdym zamiłowaniu, zawodzie czy powołaniu wynagrodzenie jest wprost proporcjonalne do odpowiedzialności, jaka towarzyszy stanowisku.<br>Uczyń swym zwyczajem zgłaszanie się po większą odpowiedzialność lub zwyczajne podejmowanie jej. Zdarza się, że musisz zabrać się za bieżące zadanie nawet bez formalnego przekazania ci odpowiedzialności za nie. Jeśli pokażesz, że potrafisz, to towarzyszące tej pracy odpowiedzialność i wyższa płaca również się pojawią.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'przywilej sprowadzenia dzieci na ten świat niesie ze sobą odpowiedzialność nauczenia ich podstaw zdrowego charakteru',
+            description: 'Do największych radości życia nalezy poczucie cudowności, jakie towarzyszy przyjściu na świat maleńkiej, nowej istoty ludzkiej. Satysfakcja ta łączy się jednak z ogromną odpowiedzialnością, kryjącą w sobie potrzebę osobistej inicjatywy. Możesz wyposażyć dzieci we wszystkie fizyczne przywileje dobrego dzieciństwa, ale jeżeli nie starasz się zapewnić im przykładu do naśladowania, poznasz smak konsternacji i przerażenia, kiedy osiągną dorosłość i "rozkwitną" w istoty dryfujące bez celu.<br>Osobista inicjatywa, niezależnie od tego, czy wychowujesz dzieci czy nie, zawsze obejmuje zachowania modelowe. Nie możesz iść na moralne skróty, duże czy małe, tak by inni ludzie ich nie zauważyli i nie zakładali, że może stosować podobne zachowania wobec ciebie. Na pewno zdarzy ci się popełniać błędy, jeśli jednak zawsze dążysz do najlepszej lini postępowania, inni będą o tym pamiętać i zgodnie z tym cię traktować.'
         }, {
             day: 8,
             motto: '',
