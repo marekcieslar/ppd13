@@ -160,28 +160,28 @@ let plan = {
             description: 'Do największych radości życia nalezy poczucie cudowności, jakie towarzyszy przyjściu na świat maleńkiej, nowej istoty ludzkiej. Satysfakcja ta łączy się jednak z ogromną odpowiedzialnością, kryjącą w sobie potrzebę osobistej inicjatywy. Możesz wyposażyć dzieci we wszystkie fizyczne przywileje dobrego dzieciństwa, ale jeżeli nie starasz się zapewnić im przykładu do naśladowania, poznasz smak konsternacji i przerażenia, kiedy osiągną dorosłość i "rozkwitną" w istoty dryfujące bez celu.<br>Osobista inicjatywa, niezależnie od tego, czy wychowujesz dzieci czy nie, zawsze obejmuje zachowania modelowe. Nie możesz iść na moralne skróty, duże czy małe, tak by inni ludzie ich nie zauważyli i nie zakładali, że może stosować podobne zachowania wobec ciebie. Na pewno zdarzy ci się popełniać błędy, jeśli jednak zawsze dążysz do najlepszej lini postępowania, inni będą o tym pamiętać i zgodnie z tym cię traktować.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'nie pożądaj cudzej pracy, jeśli nie jesteś przygotowany do przejęcia odpowiedzialności, jaka jej towarzyszy',
+            description: 'Jakże często spoglądasz na ludzi obok ciebie i mówisz: "Mógłbym to wykonywać lepiej niż oni każdą z ich prac, gdybym tylko miał okazję", nie zdając sobie sprawy z ceny, jaką oni zapłacili i wiedzy, jaką zgromadzili, aby zasłużyć na prawo obejmowania swego stanowiska. Łatwo być graczem po zakończeniu rozgrywek i "przewidywać" po fakcie czyny innych. Jenak znacznie bardziej produktywne jest uznanie wkładu innych i przyznanie im zasług za dobrze wykonaną pracę. Jeżeli masz aspiracje do większego uznania ze strony innych, okaż - swym kolegom i przełożonym - że można na ciebie liczyć. Największe nagrody tego świata przypadają tym, którzy zawsze dotrzymują obietnic.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'próżnowanie w pracy przynosi szkodę twemu pracodawcy, lecz jeszcze większą krzywdę wyrządza tobie samemu',
+            description: 'Niektórzy ludzie zużywają znacznie więcej energii na pozbywanie się pracy niż poświęciliby na jej dobre wykonanie. Mogą sądzić, że oszukują szefa, ale oszukują tylko siebie samych. Pracodawca może nie znać wszystkich szczegółów każdej pracy czy zadania, lecz dobry kierownik rozpoznaje efekty wysiłku. Możesz być pewny, że kiedy przyjdzie pora na awanse czy dobre posady, tzw. "miejsca przy żłobie", nie dostaną się one próżniakom.<br>Jeżeli wykonujesz swą pracę ochodzo i dobrze, to nei tylko masz większe szanse na uznanie i nagrodę, ale także uczysz się, jak lepiej wykonywać swoje zajęcie. W miarę osiągania profesjonalizmu, stajesz się coraz cenniejszy dla swego pracodawcy. Zyskujesz także najbardziej wartościowe ze wszystkich aktywów - pewność siebie pochodzącą z przeświadczenia, że posiadasz umiejętności, które powiększają twą wartość dla każdej firmy.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'osoba, która pracuje ciężej, kiedy nie ma szefa, jest na najlepszej drodze do awansu',
+            description: 'Pewne jest, że nigdy nie osiągniesz wielkich sukcesów, jeżeli funkcjonujesz na wysokim poziomie tylko wtedy, gdy inni cię obserwują. Najbardziej odpowiednie normy postępowania to te, jakie sam dla siebie wyznaczasz, a nie te, które inni dla ciebie ustalają. Kiedy twoje oczekiwania od samego siebie są wyżesze niż twojego szefa, nigdy nie będziesz musiał się troszczyć o pewność swej pracy. Jeśli pracujesz zgodnie ze swymi najwyższymi standardami, awanse zatroszczą sie same o sibie.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'potrzeba czegoś więcej niż mocnego głosu, aby zyskać szacunek dla władzy',
+            description: 'Margaret Tatcher zauważyła kiedyś, że sprawowanie władzy porzypomina bycie damą: "Jeśli musisz mówić innym, że jesteś nią, to w istocie nią nie jesteś." Rzeczywiście wielcy przywódcy zyskują szacunek przez swój sposób postępowanie, nie przez donośność swych rozkazów, szacunek zdobywa się szanując innych. Postępuj zgodnie ze złotą regułą* w traktowaniu innych, a zaskarbisz sobie ich dozgonną lojalność.<br>Jeżeli zamierzasz kiedyś dzierżyć władzę nad innymi, musisz najpierw udowodnić, że jesteś jej wart. Musisz dowieść, że dbasz o nich i jako ich przywódca zawsze będziesz dążył do ich dobra. Prawdziwy oficer zawsze najpierw upewnia się, iż jego oddziałom niczego nie brakuje, zanim zatroszczy się o własne potrzeby. Ta lekcja wciąż zbyt często jest gubiona w przedzieraniu się na szczyt - jeśli jednak ją przeoczysz, właśnie ona podetnie ci skrzydła i zachamuje postępy.<br><br>*Złota reguła mówi: <i>Jak chcecie, żeby ludzie wam czynili, podobnie wy im czyńcie!</i> Ew. Łuk. 6.31'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'nadmierna ostrożność jest równie zła jak jej brak - wzbudza podejrzenia u innych ludzi',
+            description: 'Jeśli oczekujesz, że inni będą ci ufać, musisz zachowywać się w sposób, który budzi zaufanie. Ostrożność powodująca, że nigdy nie próbujesz niczego nowego, szkodzi twej wiarygodności w takim samym stopniu, jak porzucanie wszelkiej ostrożności i łapanie się bez zastanowienia za każdy pomysł, jaki się pojawia. (Większość ludzi każde skrajne zachowanie utożsamia ze złym osądem). Nie stań się jednak ofiarą "paraliżu analizowania". Naucz się oddzielać fakty od opinii i dopilnuj, aby twoje decyzje - i późniejsze czyny - opierały się o wiarygodne informacje. Wtedy podejmuj działanie.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'osoba, która skarży się, że nigdy nie dano jej szansy, prawdopodobnie nie miała odwagi by wykorzystać okazję',
+            description: 'Thomas Edison zauważył kiedyś, że przyczyna, dla której większość ludzie nie rozpoznaje okazji w chwili jej pojawienia się, leży w tym, iż jest ona często ukryta w pokrowcu i przywodzi na myśl pracę. Sposobność zwykle wiąże się z dużą ilością pracy i gotowością spróbowania czegoś, czego wynik może być niepewny<br>W końcu dochodzisz do miejsca, w którym musisz albo przyjąć okazję wraz ze wszystkimi jej niewiadomymi, albo odwrócić się do niej plecami. Nikt nie umie ci powiedzieć, kiedy docierasz do twgo punktu; ty jeden wiesz, kiedy przychodzi pora na twój ruch, na odwagę, by spróbować szczęścia i zaryzykować.'
         }, {
             day: 14,
             motto: '',
