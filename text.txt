@@ -1,0 +1,8 @@
+Subject: Terminal e-mail test
+
+Linia 1 test
+linia druga 
+
+podpis:
+
+Marek Cieślar

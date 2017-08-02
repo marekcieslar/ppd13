@@ -184,24 +184,24 @@ let plan = {
             description: 'Thomas Edison zauważył kiedyś, że przyczyna, dla której większość ludzie nie rozpoznaje okazji w chwili jej pojawienia się, leży w tym, iż jest ona często ukryta w pokrowcu i przywodzi na myśl pracę. Sposobność zwykle wiąże się z dużą ilością pracy i gotowością spróbowania czegoś, czego wynik może być niepewny<br>W końcu dochodzisz do miejsca, w którym musisz albo przyjąć okazję wraz ze wszystkimi jej niewiadomymi, albo odwrócić się do niej plecami. Nikt nie umie ci powiedzieć, kiedy docierasz do twgo punktu; ty jeden wiesz, kiedy przychodzi pora na twój ruch, na odwagę, by spróbować szczęścia i zaryzykować.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'niewidomy chłopak opłacił swą drogę do stopnia magistra na uniwersytecie northwestern prowadząc notatki z wykładów alfabetem braille\'a przepisując je na maszynie i sprzedając kopie kolegom, którzy mieli dobre oczy, lecz kiepską ambicję',
+            description: 'Do największych tajemnic życia należy to, dlaczego jedni ludzie, którzy zdają się posiadać wszystkie atuty - odpowiednie znajomoœci, wykształcenie i doświadczenie - nie dochodzą do niczego wielkiego, podczas gdy inni, którzy muszą walczyć o wszystko, osiągają niewiarygodne wyżyny sukcesu. Wszystko zależy od determinacji. Jeżeli chcesz odnieść sukces, to znajdziesz sposób, bez względu na przeszkody, jakie napotkasz.<br>Czy wykorzystujesz wszystkie swoje aktywa do osiągnięcia celów, czy też ejsteś upośledzony z powodu braku ambicji? Nikt inny nie może stworzyć w tobie pragnienia sukcesu. Przy wystarczającej motywacji zobaczysz wokół siebie rzeczy, które pomogą ci osiągnąć swe cele, rzeczy, które może przeoczyłeś już wiele razy.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'jeśli się zniechęcasz, pomyśl o hellen keller, która mimo że głucha, niemal niewidoma, inspirowała swymi książkami współczesnych, dla których los był bardziej łaskawy',
+            description: 'Życie Helen Keller* stanowi wyjątkowy przykład triumfu ludzkiego ducha nad fizycznym kalectwem. Nawet dzisiaj, wiele lat po śmierci, jej życie wciąż jawi się jako drogowskaz nadziei dla tych, którzy muszą neiustannie walczyć o wykonanie nawet zwykłych, codziennych zadań, jakie większość z nas przyjmuje za oczywiste. Zaqwsze kiedy czujesz, że los nie jest dla ciebie łaskawy, wystarczy rozejrzeć się wokół, a zaczniesz doceniać, jak bardzo jesteś uprzywilejowany. Upewnij się, czy twój życiowy plan obejmuje dawanie społeczeństwu bez oczekiwania czegoś w zamian. Ofiarowanie czasu i wysiłku, nie tylko pieniędzy, wzmacnia twoje związki ze środowiskiem i społecznością, zapewnia konkretne dowody skuteczności celowego działania i przypomina o inspirującej mocy determinacji w ludzkich poczynaniach.<br><br>Helen Keller (1880 - 1968), amerykańska pisarka, pedagog i działaczka społeczna; pozbawiona wzroku, słuchu i częściowo mowy; zajmowała się resocjalizacją nieuleczalnie chorych;'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'jeżeli zaczynasz na szczycie, możesz poruszać się tylko w jednym kierunku - w dół',
+            description: 'Chyba najgorszym, co mogłoby ci się przydarzyć, byłoby urodzić się w przysłowiowym czepku. Rodząc się bowiem jako osoba uprzywilejowana, byłbyś pozbawiony jednego z największych darów tego świata: okacji sięgnięcia po najwyższy sukces, do którego jesteś zdolny, wyłącznie o własnych siłach. Jeżeli urodziłeś się mając mniej niż inni, to nie zazdrość, tym którzy zdają się posiadać większe korzyści. W rzeczywistości to ty masz prawdziwą przewagę, ponieważ wykształcisz pewność siebie, pochodzącą z mierzenia się z wyzwaniami życia na twoich warunkach. W miarę czynienia postępów zyskasz siłę i wiedzę potrzebne do zapewnienia sobie trwałego sukcesu, co nie może być ci <i>dane</i>, ale musi być <i>wypracowane</i>.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'nie musisz robić więcej niż to, za co ci płacą, możesz jednak bardzo szybko wysunąć się naprzód, robiąc to na ochotnika',
+            description: 'Inicjatywa jest tą wyjątkowo rzadką zaletą, która skłania - a nawet zmusza - kogoś, by robił to, co powinno być zrobione, bez konieczności mówienia mu o tym. To towar, który świat ceni bardzo wysoko. Inicjatywa natychmiast wyróżni cię spośród konkurencji, niezależnie od tego, czy jesteś przedsiębiorcą, dostawcą profesjonalnych usług, prwcownikiem korporacji czy robotnikiem. Twój szef, klienci czy handlowcy zauważą cię i zaczną na tobie polegać, ponieważ jawisz się jako osoba, co do której można mieć pewność, że zawsze zrobi to, co nalezy.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'odwlekanie jest złym zwyczajem odsuwania na pojutrze tego, co powinno być zrobione przedwczoraj',
+            description: 'Dla zdobywcy chyba najbardziej niebezpiecznym, najbardziej niszczącym ze wszystkich zwyczajów jest odwlekanie, gdyż ograbia ono z inicjatywy. Jeżeli raz coś odłożysz, to odłożysz to i po raz drugi, aż nawyk zakorzeni się tak mocno, że trudno go będzie przełamać. Niestety, skutki nawyku odwlekania także się kumulują. Lekarstwo jest oczywiste - działanie. Zdziwisz się, jak szybko zaczniesz myśleć lepiej o sobie i o sytuacji, kiedy weźmiesz się za robienie czegoś - czegokolwiek. Brytyjski premier i autor, Benjamin Disraeli* powiedział kiedyś: "Działanie może nie zawsze przynosić szczęście, ale nie ma szczęścia bez działania".<br><br>* Benjamin Disraeli (1804-1881), brytyjski mąż stanu; wspótwórca imperium brytyjskiego; wielokrotny minister, a w latach 1874-1880 premier Wielkiej Brytanii; autor poezji postromantycznych i powieści politycznych'
         }, {
             day: 19,
             motto: '',
