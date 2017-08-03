@@ -204,28 +204,28 @@ let plan = {
             description: 'Dla zdobywcy chyba najbardziej niebezpiecznym, najbardziej niszczącym ze wszystkich zwyczajów jest odwlekanie, gdyż ograbia ono z inicjatywy. Jeżeli raz coś odłożysz, to odłożysz to i po raz drugi, aż nawyk zakorzeni się tak mocno, że trudno go będzie przełamać. Niestety, skutki nawyku odwlekania także się kumulują. Lekarstwo jest oczywiste - działanie. Zdziwisz się, jak szybko zaczniesz myśleć lepiej o sobie i o sytuacji, kiedy weźmiesz się za robienie czegoś - czegokolwiek. Brytyjski premier i autor, Benjamin Disraeli* powiedział kiedyś: "Działanie może nie zawsze przynosić szczęście, ale nie ma szczęścia bez działania".<br><br>* Benjamin Disraeli (1804-1881), brytyjski mąż stanu; wspótwórca imperium brytyjskiego; wielokrotny minister, a w latach 1874-1880 premier Wielkiej Brytanii; autor poezji postromantycznych i powieści politycznych'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'nawykowy odwlekacz jest zawsze ekspertem w znajdowaniu wymówek',
+            description: 'Przy pewnym nastawieniu zawsze możesz znaleźć mnóstwo przyczyn, dla których coś nie może lub nie powinno być zrobione - i zaledwie kilka cennych powodów, dlaczego powinno czy może. Dlatego łatwiej jest argumentować, czemu coś jest za trudne, za drogie, zbyt czasochłonne, niż zaakceptować pomysł, że jeśli chcemy pracować wystarczająco ciężko, wystarczająco mądrze i dostatecznie długo, to możemy osiągnąć wszystko. Zamiast uczynić postanowienie, wysuwamy wymówkę. Jeżeli zauważysz, że zbyt często wymyślasz wymówki, dlaczego czegoś nie zrobiłeś albo masz tysiąc powodów, dlaczego coś nie udało się według planu, pora już na konfrontację z rzeczywistością. Przestań się tłumaczyć i zacznij działać!'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'dwa typy ludzi, którzy nigdy nie idą na przód to ci, którzy robią tylko to, co im się każe oraz ci, którzy nie wykonują nawet tego, co im zlecono',
+            description: 'Trudno powiedzieć, co jest bardziej zniechęcające: przenoszenie się z pracy do pracy, gdyż zawsze ciebie zwalniają jako pierwszego, czy przebywanie w monotonnej szarości i mroku tej samej pracy. Pierwsze wynika z niewykonania tego, co kazano ci zroić, drugie zaś z wykonywania tylko tego, co ci każą. Przy każdym z tych podejść możesz przez jakiś czas przetrwać, ale nigdy nie wysuniesz się na przód. Przy dzisiejszej wysoko rozwiniętej technice osobista inicjatywa jest ważniejsza niż była w erze uprzemysłowienia, kiedy zdolność wypełniania poleceń innych była umiejętnością decydującą. W miarę jak nowe zdobycze techniki powodują, że wiele funkcji zterujących staje się zbędnych, od każdeto z nas oczekuje się zrobienia więcej mniejszą ilością środków, decydowania, co powinno być zrobione i wykonywanie tego. Nie czekaj, aż ci powiedzą. Poznaj swą firmę i pracę tak dobrze, byś potrafił przewidywać, co powinno być zrobione - i nie zwlekając zrób to!'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'znajdź sposób na podniesienie produkcji, to podniesie ciebie i twoją pensję',
+            description: 'Powszechnie wiadomo, że ten, kto najwięcej wie na temat poprawiania wydajności jakiejś pracy, zajmuje się tą pracą. Dlaczego zatem niechętnie przedstawiamy popozycje ulepszeń? Może widzieliśmy już zbyt wiele przestojów i reorganizacji, by sądzić, że wciąż sprawdza się dawna zasada indywidualnego działania i że naszym celem powinno być wypracowanie swej drogi - abyśmy mogli przesunąć się na lepsze i wyższe stanowisko.<br>Jednak stara mądrość wciąż zawiera sporo rozsądku. Jeśi znajdujesz sposób wykonywania rzeczy lepiej, szybciej czy taniej, zwiększasz swą wartość dla pracodawcy. Będziesz proszony o branie udziału w sesjach planowania i kręgach kontroli jakości, ponieważ wykazałeś, że wiesz, jak wykonywać coś batdziej wydajnie. Twój awans będzie nieunikniony, gdyż staniesz się jednym z tych wyjątkowych pracowników, którzy są zbyt cenni, by ich tracić.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'zaoszczęć wydatków w firmie, a firma odłoży pieniądze dla ciebie',
+            description: 'Nagrody mogą nie pojawić się dzisiaj, za tydzień czy nawet za rok, lecz przyjdą z pewnością. Kiedy twoją zasadą praktyczną jest dbanie o majątek firmy tak samo, jak troszczyłbyś się o swój własny, udowadniasz, że jesteś wart zaufania swego pracodawcy - i kolegów z pracy. Twoim przeznaczeniem są sprawy większe i lepsze. Oszczędności wcale nie muszą być duże. Istotny jest zwyczaj eliminowania marnotrastwa i poszukiwania okazji do zaoszczędzenia pieniędzy. Uczyć swym nawykiem badanie wszystkiego, co robisz pod kontem gospodarności, a z pewnością wkrótce będziesz odpowiadać za większy budżet i większą liczbę ludzi.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'zajdziesz daleko, jeżeli nad zadaniem, które musisz wykonać, pracujesz równie intensywnie jak nad tym, które pragniesz robić',
+            description: 'Mówi się, że zawsze powinno się pracować jednocześnie nad dwiema pracami: tą, którą masz i tą, jakiej pragniesz. Kiedy pracujesz równie instensywnie nad zajęciem, które chcesz wykonywać, jak nad tym, które musisz, przygotowujesz się do lepszej przyszłości. Uczysz się umiejętności, które pozwolą ci wznieść się ponad twoje stanowisko, do stanowiska twego szefa, a potem szefa szefa. Gdy nadejdzie pora, będziesz gotowy.<br>Kiedy opanuejsz po mistrzowsku jedno zajęcie, nie spoczywaj na laurach. w zamian zacznij natychmiast myśleć o przyszłości, o tym jak możesz ulepszyć to, co robisz teraz i czego się nauczyć, co może ci pomóc uczynić postępy w przyszłości. Nasza gospodarka jest oparta o wiedzę i wartość intelektualna znaczy w niej znacznie więcej niż dobra materialne. Dzisiaj sukces wymaga ciągłego kształcenia się, a pozostawanie na bieżąco w jakiejś dziedzinie w naszym szybko mknącym świecie oznacza - uczenie się przez całe życie.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'w dobrze zarządzanym przedsięwzięciu wszystkie awanse dokonują się same; jedynym udziałem pracodawcy w transakcji jest dopilnowanie, by awans był zasłużony',
+            description: 'Idealna recepta na niszczenie morale w dowolnej instytucji polega na tworzeniu środowska pracy skłaniającego pracowników do przekonania, że jedyną drogą wysunięcia się naprzód jest uprawianie polityki. W najlepiej zarządzanych przedsięwzięciach na każdy awans pracownik zasługuje i wypracowuje go, a osoby o równych kwalifikacjach mają równe szanse w rywalizacji o awans.<br> Jeżeli zajmujesz stanowisko kierownicze, to wszystkie decyzje personalne rozważaj w uczciwości. Jeśli natomiast masz aspiracje na kierownika, to wybierz firmę, która uczciwie traktuje swoich pracowników. Kiedy zapracujesz na swoje stanowisko dzięki umiejętnościom i skuteczności, odczujesz największe bezpieczeństwo zatrudnienia.'
         }, {
             day: 25,
             motto: '',
