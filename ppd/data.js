@@ -228,32 +228,24 @@ let plan = {
             description: 'Idealna recepta na niszczenie morale w dowolnej instytucji polega na tworzeniu środowska pracy skłaniającego pracowników do przekonania, że jedyną drogą wysunięcia się naprzód jest uprawianie polityki. W najlepiej zarządzanych przedsięwzięciach na każdy awans pracownik zasługuje i wypracowuje go, a osoby o równych kwalifikacjach mają równe szanse w rywalizacji o awans.<br> Jeżeli zajmujesz stanowisko kierownicze, to wszystkie decyzje personalne rozważaj w uczciwości. Jeśli natomiast masz aspiracje na kierownika, to wybierz firmę, która uczciwie traktuje swoich pracowników. Kiedy zapracujesz na swoje stanowisko dzięki umiejętnościom i skuteczności, odczujesz największe bezpieczeństwo zatrudnienia.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'najwspanialszym znanym lekarstwem na samotność, zniechęcenie i niezadowolenie jest praca zdolna wycisnąć zdrowy pot',
+            description: 'Emocje są czasem dziwne, ulotne i nieobliczalne. Nie zawsze kierują się logiką i rozsądkiem. Zawsze jednak reagują na działanie. Jeżeli czasem doświadczasz uczuć samotności, zniechęcenia czy niezadowolenia, to najlpeszym sposobem zabicia tych negatywnych emocji jest zamęczyć je na śmierć. Prawie nic nie okazuje się tak złe, jak się z począku wydaje i nie ma nic lepszego niż dzień ciężkiej pracy, by ustawić wszystko we właściwej perspektywie<br>Kiedy zaczynasz odczuwać negatywne emocje, to rozpamiętywanie nieszczęść tylko pogarsza sprawy. Zrób wszystko, co możesz, aby wypchnąć je ze swego umysłu i myśl o bardziej pozytywnych, konstruktywnych rzeczach. Może ci w tym pomóc praca fizyczna, a potem skup się na jego wykonaniiu.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'nikt poza tobą samym nie może cię tłumić',
+            description: 'Czy kiedykolwiek czułeś, że czasem ty sam jesteś swym największym wrogiem? Wszyscy mamy takie chwile, kiedy bez względu na to, jak bardzo się staramy, sprawy po prostu nie wychodzą, gdy wszystko toczy się źle i nie możemy winić za to nikogo poza sobą samym. Jednak podobnie jak możesz być swym największym wrogiem, tak samo możesz stać się swym najlepszym przyjacielem. Przemiana następuje zwykle wtedy, gdy zdajesz sobie sprawę, że jedyną osobą, która może przesądzić o twym sukcesie lub porażce, jesteś ty sam.<br>Swego najlepszego przyjaciela możesz odkryć, kiedy kształtujesz dojrzałość i siłę charakteru, aby zaakceptować siebie takiego, jakim jesteś i podjąć działania konieczne, by stać się osobą, jaką pragniesz być. Kiedy badasz siebie w sposób obiektywny, możesz zacząć bazować na swoich mocnych stronach i wyrównywać słabości. Kiedy to robisz, dochodzisz do przekonania i zrozumienia, że jedyną osobą, która stoi na drodze do twego sukcesu, jesteś ty sam.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'czy czekasz, aby sukces do ciebie przyszedł, czy też wychodzisz, by zbadać, gdzie się ukrywa?',
+            description: 'Słowa poety Johna Miltona*: "Oni obsługują także tych, którzy stoją i czekają" mogą być zarówno głębokie jak i prawdziwe, jednak rzeczywiste bogactwa życia ze znacznei większym prawdopodobnieństwem przypadną tym, którzy aktywnie wychodzą i szukają ich. Rzadko sukces pojawia się wkraczając z orkiestrą dętą, w pełnej okazałości i z insygniami królewskimi. Najczęściej jest osiągany przez tych, którzy długo i ciężko pracują.<br>Podejmij inicjatywę, a bedziesz tworzył własne sposobności. Nie ma żadnego substytutu działania opartego o dobrze przemyślany plan.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'gdybyś był własnym pracodawcą czy zadowoliłaby cię w pełni praca, jaką dziś wykonałeś?',
+            description: 'Pod koniec dnia nie ma większego znaczenia to, co inni myślą o tobie. Ważne jest to, co sam o sobie pomyślisz. Kiedy zastanawiaz się nad swoim dniem pracy, zapytaj siebie: "Czy dzisiaj dałem sto procent swego czasu i zdolności? Gdyby to była moja firma, czy chciałbym, by wypełniały ją setki ludzi takich jak ja, czy też wolałbym zatrudnić jednostki wykazujące trochę więcej inicjatywy?"<br>Kiedy staniesz się podobny do osoby, z którą chciałbyś pracować, albo żeby pracowała dla ciebie, to niedaleko ci do dnia, w którym będziesz posiadał firmę - albo przynajmniej staniesz się jej cenną częścią. Co ważniejsze, możesz spać głęboko, spokojnie, ze świadomością, że zrobiłeś wszystko, co mogłeś, że zapracowałeś na swą płacę i sporostałeś normom postępowania, jakie dla siebie wyznaczas.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
-        }, {
-            day: 30,
-            motto: '',
-            description: ''
-        }, {
-            day: 31,
-            motto: '',
-            description: ''
+            motto: 'zrób to teraz!',
+            description: 'To zdanie jest wspaniałym samowyzwalaczem, przypomnieniem, jakiego potrzebujesz, ilekroć czujesz, że do umysłu zaczyna się wkradać chęć odwlekania. (A jeśi ta chęć porusza się wystarczająco szybko, by cię dopaść, to już utknąłeś w martwym punkcie).<br>Zawsze istnieją rzeczy, które trzeba zrobić. Jeśli znajdujesz się w okowach lenistwa, zwróć się ku pierwszej czynności, jaką zobaczysz i weź się do pracy. Nie ma znaczenia, co to jest. Ważne byś przerwał chęć nierobienia niczego. Z drugiej jednak strony, jeżeli unikasz określinego obowiązku, od niego właśnei powinieneś zacząć działanie. W innm razie ta praca zacznie kształtować się w twym umyśle jako coś zbyt nieprzyjemnego do zrobienia. Jeżeli hasło "Zrób to teraz!" uczynisz nawykiem, to opanujesz istotę osobistej inicjatywy.'
         }]
     }, {
         name: 'marzec',
