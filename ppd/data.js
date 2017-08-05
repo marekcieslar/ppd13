@@ -905,7 +905,7 @@ let plan = {
         }, {
             day: 5,
             motto: 'większość z nas nie ma za złe mówienia o naszych błędach, jeśli krytyka jest na tyle łaskawa, by wspomnieć również o zaletach',
-            description: 'Obrona siebie i swego zachowania jest normalną reakcją w momencie, kiedy ktoś nas krytykuje - nawet w głębi przynajemy, że to, co się nam mówi, jest prawdą. Ci jednak, którzy osiągają w życiu wielki sukces, nauczyli się odkładać na bok swe emocje i uczyć się od innych, mimo że przesłanie może być nieprzyjemne.<br>Kiedy ktoś inny cię ocenia, pamiętaj, iż krytyka jakiegoś aspektu twojego postępowania nie stanowi ataku osobistego na ciebie. Kontroluje swoje reakcje emocjonalne i przyswajaj pożyteczne koncepcje, nawet gdyby ci się nie podobał sposób, w jaki informacja jest przekazywana.'
+            description: 'Obrona siebie i swego zachowania jest normalną reakcją w momencie, kiedy ktoś nas krytykuje - nawet w głębi przynajemy, że to, co się nam mówi, jest prawdą. Ci jednak, którzy osiągają w życiu wielki sukces, nauczyli się odkładać na bok swe emocje i uczyć się od innych, mimo że przesłanie może być nieprzyjemne.<br>Kiedy ktoś inny cię ocenia, pamiętaj, iż krytyka jakiegoś aspektu twojego postępowania nie stanowi ataku osobistego na ciebie. Kontroluj swoje reakcje emocjonalne i przyswajaj pożyteczne koncepcje, nawet gdyby ci się nie podobał sposób, w jaki informacja jest przekazywana.'
         }, {
             day: 6,
             motto: 'sukces nie wymaga wyjaśniej - porażka musi być leczona wymówkami',
