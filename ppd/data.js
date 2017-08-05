@@ -252,24 +252,24 @@ let plan = {
         motto: 'zwycięska postawa',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'ilość i jakość usług oraz postawa z jaką je świadczysz, decydują o wysokości otrzymywanej zapłaty i rodzaju wykonywanego zajęcia',
+            description: 'Ludzie awansujący na najlepsze stanowiska w firmie to ci, których zwyczajem jest iść dodatkowy tysiąc kroków. robić więcej niż to, za co im się płaci, czyniąc to chętnie i radośnie. Pierwszy krok w określaniu własnej przyszłości robisz wtedy, gdy podejmujesz świadomą decyzję, aby do każdego zadania podchodzić z pozytywnym nastawieniem i trwać przy pracy, dopóki nie zostanie zakończona.<br>Jeżeli na początku taka postawa wydaje ci się trudna, po jakimś czasie przekonasz się, że staje się częścią ciebie. Kiedy zaczniesz zdawać sobie sprawę z korzyści płynących z faktu uznawania cię za kogoś, kto zawsze daje coś więcej, nawet nie przyjdzie ci do głowy, by postępować w inny sposób.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'jednostka o negatywnej postawie umysłowej przyciąga kłopoty, podobnie jak magnes przyciąga opiłki żelaza',
+            description: 'Ciekawym zjawiskiem natury jest fakt, że nasze umysły znajdują sposób, aby przemieniać w fizyczną rzeczywistość sprawy, o których myślimy najwięcej. Jeśli spodziewasz się, że zawiedziesz, to możesz mieć pewność, że tak będzie, a jeżeli w każdej okazji dostrzeżesz coś negatywnego, to nic dla ciebie nie będzie się kończyć opmyślnie. Na szczęście jednak prawdziwe jest również twierdzenie odwrotne. Jeżeli jesteś osobą szczęśliwą, pozytywną, będziesz przyciągał rzeczy pozytywne.<br>Możesz zachowywać swe pozytywne nastawienie umysłu poprzez eliminowanie negatywnych myśli w chwili, gdy zaczynają się zakradać do twej świadomości. Jeżeli rozmyślasz nad negatywnymi aspektami każdej okazji, nigdy nie dokonasz niczego wartościowego. Bądź ostrożny co do ryzyka, jakie podejmuejesz, ale nei daj się sparaliżować obawie porażki.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'jeżeli zamartwiasz się lub boisz czegokolwiek, to w twojej postawie umysłowej jest coś, co wymaga poprawy',
+            description: 'Zatroskanie i obawa to negatywne emocje, które nie służą niczemu użytecznemu. Co gorsza, nie wywierają korzystnego wpływu na nasze zachowanie. Jeśli pozostawi się je bez kontroli, obie mają tendencję do rozrastania się. Ostatecznie wypierają pozytywne emocje i przekonania, przejmując umysł i napełniając go bezproduktywnymi uczuciami, które powodują, że zaczynasz wątpić w swoją zdolność powodzenia w jakimkolwiek działaniu. Jeżeli nie kontrolujesz swej troski i lęku, to pewnego dnia przekonasz się, że to one sterują tobą.<br>Chociaż nie zawsze da się leczyć emocje za pomocą logiki i rozsądku, to są one podatne na działanie. Działaj, a nawet jeśli twoje czyny nie całkiem odpowiadają sytuacji, to sam akt robienia czegoś - czegokolwiek - konstruktywnego będzie miał pozytywny wpływ na twój umysł i postawę.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że nie nagradza się za złe nastawienie i negatywną postawę umysłową',
+            description: 'Jeżeli dokładnie przyjrzysz się dobrze zarządzanej firmie, przekonasz się, że ludzie odnoszący największe sukcesy to ci, którzy są pozytywni i pomocni, którzy zawsze znajdują czas na zachętę i pochwałę, gdy tylko spostrzegą, że jest zasłużona. Ludzie piastujący najyższe stanowiska są na ogół pogodni, entuzjastyczni, zachęcający innych do zachowywania się w ten sam sposób. Zawsze jednak znajdzie się kilka jednostek, które zdają się nigdy nie rozumieć przesłania i postęoują tak, jak gdyby mogli 'wyżalić" sobie drogę na szczyt.<br>Nie ma i być nie może w twojej karierze, w relacjach z innymi czy w życiu osobistym ani jednej sytuacji, w której korzystałbyś na postawie negatywnej. Wszystko wyraźnie się poprawia, jeżeli swą praktyczną zasadą uczynisz podchodzenie do życia w pozytywny sposób.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'szybkie awanse nie zawsze wróżą długą karierę',
+            description: 'Z większością ludzi, którzy zawodzą po uzyskaniu awansu, dzieje się tak, ponieważ nie dorastają do wyzwań, jakie przedstawia nowe stanowisko. Zupełnie normalne jest odczuwanie kłucia niepewności, kiedy obejmujesz nową funkcję - w końcu przecież nigdy przedtem nei wykonywałeś tej pracy - jednak awanse rzadko pojawiają się, zanim jesteś do nich gotowy. Faktem pozostaje to, że w dniu, kiedy dostajesz awans, na ogół nie masz jeszcze kompetencji potrzebnych na tym stanowisku. Dostałeś awans z powodu swoich <i>potencjalnych możliwości</i>, a nie dlatego, że oczekuje się od ciebie natychmiastowego, płynnego wywiązywania się ze wszystkich nowych zadań. Pracuj, by dowieść, że wiara twojego szefa w ciebie była uzasadniona. Uczyń swym najważniejszym priorytetem dojście do profesjonalizmu w nowej pracy - w możliwie najkrótszym czasie.'
         }, {
             day: 6,
             motto: '',
