@@ -272,24 +272,24 @@ let plan = {
             description: 'Z większością ludzi, którzy zawodzą po uzyskaniu awansu, dzieje się tak, ponieważ nie dorastają do wyzwań, jakie przedstawia nowe stanowisko. Zupełnie normalne jest odczuwanie kłucia niepewności, kiedy obejmujesz nową funkcję - w końcu przecież nigdy przedtem nei wykonywałeś tej pracy - jednak awanse rzadko pojawiają się, zanim jesteś do nich gotowy. Faktem pozostaje to, że w dniu, kiedy dostajesz awans, na ogół nie masz jeszcze kompetencji potrzebnych na tym stanowisku. Dostałeś awans z powodu swoich <i>potencjalnych możliwości</i>, a nie dlatego, że oczekuje się od ciebie natychmiastowego, płynnego wywiązywania się ze wszystkich nowych zadań. Pracuj, by dowieść, że wiara twojego szefa w ciebie była uzasadniona. Uczyń swym najważniejszym priorytetem dojście do profesjonalizmu w nowej pracy - w możliwie najkrótszym czasie.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'chęć otrzymywania bez wcześniejszego dawania jest równie bezowocna, jak próba zbierania plonu bez uprzedniego posiania',
+            description: 'BIblia twierdzi, że człowiek zbiera to, co sam posiał. Najbardziej żyzna gleba może być jałowym nieużytkiem, jeśli nasiona nie zostaną odpowiednio posiane, uprawoane i karmione. We wszystkim, co robisz, relacja pomiędzy dawaniem i otrzymywaniem jest stała. Aby uzyskać powodzenie w dowolnym przedsięwzięciu, najpierw musisz zainwestować szczodrą porcję swego czasu i talentów, jeżeli spodziewasz się kiedykolwiek wypracować zwrot i zysk ze swej inwestycji. Musisz dać, zanim sam dostaniesz. Wszystko jest kwestią postawy. Możesz czasem doświadczać rozczarowania, kiedy nie widzisz wynagrodzenia za swoje wysiłki, jednak jeżeli żądasz zapłaty za usługi, zanim je wyświadczysz, to czeka cię całe życie pełne rozczarowania i frustracji. Skoro natomiast pogodnie robisz, co możesz, zanim poprosisz o zapłatę, możesz spodizeać sie obfitego plonu najwspanialszych nagród, jakie zycie ma do zaoferowania.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'zawsze jest lepiej naśladować człowieka sukcesu niż mu zazdrościć',
+            description: 'Pośród wszystkich negatywnych emocji zawiść należy do najbardziej chyba zdradliwych i podstępnych. Jest szczególnie groźna, ponieważ niszczy od wewnątrz, zastępując wszystko, co pozytywne, negatywnymi uczuciami gniewu, zazdrości i rozpaczy. Kiedy jednak gratulujesz innym sikcesów i prawdziwie dobrze im życzysz, to nie tylko oddajesz uznanie tym, którzy na nie zasługują, lecz także nabierasz lepszego mniemania o sobie samym. Kiedy jż przezwyciężysz zawiść, możesz zapragnąć dowiedzieć się, jakie konkretne działania podjęła druga osoba, aby osiągnąć sukces. W międzyczasie umocnisz swoje relacje z innymi, uznając ich dokonania.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'mówienie o innych jest bezpieczne tak długo, dopóki opowiadasz o ich zaletach',
+            description: 'Stare powiedzenie: "Jeśli nie możesz powiedzieć o kimś czegoś miłego, nie mów nic" nabiera dzisiaj szczególnej wartości. W każdej firmie, niezależnie od jej wielkości, pogłoski i plotki rozchodzą się błyskawicznie, szczególnie te negatywne. Możesz być pewien, że nieuprzejme rzeczy, jakie mówisz o innych, bardzo szybko do nich trafią, to truizmem już stało się powiedzienie, że ci, którzy mówią nam o innych, mówią też innym o nas. Nie tylko nie powinieneś źle wyrażać się o ludziach - nie powinieneś także uczestniczyć w rozmowach, w których inni to czynią. Spędzaj czas z tymi, którzy skupiają się na sprawach ważnych, a nigdy nie będziesz musiał przepraszać za niemiłe słowo, które wymknęło ci się w chwili słabości.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'albo ty ujeżczasz życie, albo ono jeździ po tobie; twoja postawa umysłowa decyduje, kto jest jeźdźcem, a kto koniem.',
+            description: 'Kiedy sprawa dotyczy tego, kto kieruje twym zyciem, nie ma miejsca na kompromis czy negocjacje. Albo ty przejmujesz kontrolę i żyjesz prooduktywnym życiem według własnego wyboru, albo pozwalasz, by rządziły tobą okoliczności. W sposób nieunikniony pojawią się wówczas przeszkody. Stare kowbojskie powiedzenie brzmi: "Nigdy nie było konia, którego nie dało by się ujeździć, ani jeźdźca, którego nie dałoby się zrzucić". Jak każdy człowiek będziesz miał dni, kiedy wszystko układa się dobrze, a ty znajdziesz się na szczycie świata. Rozkoszuj się tymi dniami, ciesz się nimi i zapamiętuj je. Wspominaj euforię, jaka im towarzyszyła, kiedy potrzeba ci dodatkowej porcji pozytywnego myslenia, abywrócić do siodła po doświadczeniu kłopotliwego i bolesnego upadku.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'zamiast narzekać na to czego w swej pracy nie lubisz, zacznij chwalić to, co ci się w niej podoba i obserwuj, jak szybko następuje poprawa',
+            description: 'Łatwo jest znaleźć wady w każdej pracy. Niezależnie od twego zajęcia czy zawodu zawsze istnieją pewne nieprzyjemne i monotonne zadania, które miałbyś ochotę pominąć. Nietrudno też pozwolić, by rzeczy, których nie lubisz, zdominowały twoje myśli i przeoczyć fakt, że to, ułamek całości. Postanów każdego dnia znaleść w swym zajęciu coś pozytywnego. Nie musi bo być wielkie ani ważne wydarzenie; wystarczy zwykłe odnalezienie radości w wyjątkowo dobrym załatwieniu jednej sprawy. Wtedy zamiast wyczekiwać końca zajęć, będziesz naprawdę cieszył się na myśl o pójściu do pracy.'
         }, {
             day: 11,
             motto: '',
