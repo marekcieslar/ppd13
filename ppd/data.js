@@ -292,32 +292,32 @@ let plan = {
             description: 'Łatwo jest znaleźć wady w każdej pracy. Niezależnie od twego zajęcia czy zawodu zawsze istnieją pewne nieprzyjemne i monotonne zadania, które miałbyś ochotę pominąć. Nietrudno też pozwolić, by rzeczy, których nie lubisz, zdominowały twoje myśli i przeoczyć fakt, że to, ułamek całości. Postanów każdego dnia znaleść w swym zajęciu coś pozytywnego. Nie musi bo być wielkie ani ważne wydarzenie; wystarczy zwykłe odnalezienie radości w wyjątkowo dobrym załatwieniu jednej sprawy. Wtedy zamiast wyczekiwać końca zajęć, będziesz naprawdę cieszył się na myśl o pójściu do pracy.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'czasem mądrzej jest połączyć swe siły z przeciwnikami niż walczyć z nimi',
+            description: 'O ile lepszy byłby świat, gdybyśmy pracowali razem w harmonii w kierunku osiągania wspólnych celów, zamiast angarzować się w drobne kłótnie i wyścigi. Kiedy pozwalasz sobie na wciągnanie się w konflikty osobowe, w udawanie, grę, sprzeczki o to, kto zasługuje na uznanie, w nieporozumienia o banalne kwestie, wysączają one jedynie energię i napełniają twą postawę goryczą. Tracisz ponadto cenny czas, który można by bykorzystać na znacznie ważniejsze sprawy.<br>Jeśli podejmiesz wysiłek, by zrozumieć pobudki innych, możesz się przekonać, że twoi oponenci mają z tobą o wiele więcej wspólnego niż sądzisz. Kiedy uciszysz swoje ego i spojrzysz na sytuację z punktu widzenia drugiej osoby, prawie zawsze będziesz mógł znaleźć sposób, by pracować razem ku obopólnej korzyści.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'gdyby koń odkrył swoją prawdziwą siłę, nikt nie potrafiłby go okiełznać; to samo jest prawdą w odniesieniu do ludzi',
+            description: 'Mimo że konie są stworzeniami masywnymi, znacznie większymi i silniejszymi od kobiet i mężczyzn, którzy ich dosiadają, to jednak posłusznie słuchają wydawanych im poleceń. Mogłoby się wydawać nielogiczne, by takie duże, potężne zwierzę pozwoliło się opanować istocie ludzkiej. Jednak potrafiliśmy wykorzystać swą inteligencję w celu dominowania nad królestwem zwierząt. Możesz wyzyskać te same siły, aby pozwolić swej pozytywnej stronie zdominować negatywną. Pozytywna postawa umysłowa pozwoli ci sięgnąć po źródło wielkiej mocy, jaka mieszka w tobie, umożliwiając ci dokonywanie rzeczy, których wcześniej nigdy nie uważałeś za możliwe.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'jeżeli masz więcej wrogów niż przyjaciół - pora przebadać swą postawę umysłową',
+            description: 'Kiedy twoi wrogowie przewyższają liczbą przyjaciół, rozwiązanie problemu tkwi najprawdopodobniej w tobie. Zadaj sobie pytanie: czy sam jestem osobą, którą chciałbym mieć za przyjaciela? Czy zważam na uczucia innych, czy też myślę wyłącznie o sobie? Czy staram się znaleźć w innych dobro, czy też zawsze szukam wad? Kiedy coś się nei powiedzie, czy poszukuję rozwiązania problemu czy raczej kogoś, kogo można obwinić? Właśnie w odpowiedziach na takie pytania możesz też znaleźć wyjaśnienie kwestii: dlaczego mam więcej wrogów niż przyjaciół?'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'twoja postawa umysłowa decyduje o tym, jakiego rodzaju przyjaciół przyciągasz',
+            description: 'Jeżeli chcesz być osobą pozytywną i osiągającą sukces, upewnij się, że starannie dobierasz przyjaciół. Pozytywni przyjaciele i takież wzorce będą mieć na ciebie pozytywny wpływ, podczas gdy przyjaciele negatywni wkrótce zabiją twoją inicjatywę. Nie pozwól się uśpić w samozadowoleniu przez tłumy uważające, że pośledniość i przeciętność jest wyborem dopuszczalnym. Koncentruj się na możliwościach sukcesu, nie na potencjalnej porażce. Kiedy ogarnia cię zwątpienie co do własnej osoby, przedyskutuj sytuację z pozytywny,, wspierającym cię przyjacielem. Każdy od czasu do czasu potrzebuje dodatkowego zastrzyku energii. Upewnij się, że twoi przyjaciele są pozytywnymi, nastawionymi na sukces ludźmi, którzy cię podbudowują, a nie negatywnymi myślicielami, którzy zawsze zdają się mieć sposób na pognębienie ciebie.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'zanim spróbujesz opanować innych, upewnij się, że jesteś panem samego siebie',
+            description: 'Kiedy kształtujesz pozytywną postawę umysłową, natychmiast wyróżniasz się spośród tłumu. Stajesz się liderem, ponieważ pozytywne myślenie prowadzi do pozytywnego działania, podczas gdy myślenie negatywne wiedzie do apatii i bierności. Kiedy przejmujesz inicjatywę w dowolnej sytuacji, inni opdążą za tobą zwyczajnie dlatego, że lubią przyłączać się do tych, którzy wiedzą dokąd idą. Aby kierować i prowadzić, musisz jednak najpierw sam chcieć poddać się dyscyplinie. Pierwszą zasadą przywództwa jest nigdy nie prosić innych o wykonanie tego, czego sam nie masz ochoty zrobić. Możesz prowadzić tylko poprzez przykład. Bycie przywódcą wymaga od ciebie pracy cięższej i dłuższej niż w przypadku pozostałych i udowodnienia, że jesteś sam panem własnego przeznaczenia.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'najlepszej rekomendacji udzielasz sobie poprzez świadczenie pierwszorzędnej usługi z właściwą postawą umysłową',
+            description: 'To, co inni myślą o tobie, jest ważne tak długo, jak długo pokrywa się z tym, co sam o sobie myślisz. Jeżeli inni uważają cię za osobę pozytywną, która zawsze wnosi ważny wkład, będziesz kimś pożądanym, gdyż w żadnej firmie nigdy nie ma dość takich ludzi. Współpracownicy będą cię cenić, klienci chwalić, a szef uznawać i nagradzać, jeśli w tym wytrwasz. Możesz nie odnieść błyskotliwego sukcesu, lecz także nie poniesiesz nagłej i nieodwracalnej klęski. Nabierz zwyczaju robienia dodatkowego tysiąca kroków z pozytywną postawą umysłową.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'charakter znajduje wierne odbicie w postawie umysłowej',
+            description: 'Bez mocnego fundamentu pozytywnych cech charakteru sukces nie będzie trwał długo. Nie sposób udawać dobrego charakteru. Ci, którzy grają, są szybko rozszyfrowywani, ponieważ brakuje im głębi i determinacji do podtrzymywania takiej gry. Pragnienie, by być dobrą, przyzwoitą, uczciwą, wrażliwą osobą musi najpierw pojawić się w głębi umysłu. Kiedy postanowisz stać się człowiekiem z charakterem, odkryjesz też, że znacznie chętniej robisz właściwe rzeczy po prostu dlatego, że ich zrobienie jest słuszne.'
         }, {
             day: 18,
             motto: '',
