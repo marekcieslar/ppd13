@@ -913,7 +913,7 @@ let plan = {
         }, {
             day: 7,
             motto: 'istnieje ogromna różnica pomiędzy klęską a chwilową porażką',
-            description: 'Nie istnieje coś takiego jak klęska, dopóki nie zostanie za taką przyjęta. Każda porażka jest chwilowa, chyba że się poddasz i pozwolisz jej stać się trwałą. W rzeczywistości często zdarza się, że okresowe niepowodzenie czyni nas silniejszymi i bardziej zdolnymi. Za każdym razem kiedy próbujemy i zawodzimy, uczymy się czegoś, co pomaga nam przygotować się do ostatecznego sukcesu.<br>Tylko podczas lekcji w szkole na każede ppytanie istnieje prawidłowa odpowiedź. Jeśli stosujesz jakieś podejście, które się nie sprawdza, spróbuj czegoś innego. Jeżeli traktujesz przeciwność wyłącznie jako doświadczenie, które uczy, to ilość twoich sukcesów znacznie przewyższy liczbę porażek.'
+            description: 'Nie istnieje coś takiego jak klęska, dopóki nie zostanie za taką przyjęta. Każda porażka jest chwilowa, chyba że się poddasz i pozwolisz jej stać się trwałą. W rzeczywistości często zdarza się, że okresowe niepowodzenie czyni nas silniejszymi i bardziej zdolnymi. Za każdym razem kiedy próbujemy i zawodzimy, uczymy się czegoś, co pomaga nam przygotować się do ostatecznego sukcesu.<br>Tylko podczas lekcji w szkole na każede pytanie istnieje prawidłowa odpowiedź. Jeśli stosujesz jakieś podejście, które się nie sprawdza, spróbuj czegoś innego. Jeżeli traktujesz przeciwność wyłącznie jako doświadczenie, które uczy, to ilość twoich sukcesów znacznie przewyższy liczbę porażek.'
         }, {
             day: 8,
             motto: 'Twoja prawdziwa odwaga ukazuje się najlepiej w godzinie przeciwności',
