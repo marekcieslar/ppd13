@@ -332,24 +332,24 @@ let plan = {
             description: 'Raz po raz słyszymy historie zwykłych ludzi, którzy robią rzeczy zdawałoby się niemożliwe, kiedy znajdą się w krytycznej sytuacji. Dokonują herkulesowych, bohaterskich wyczynów siły i wytrwałości, o których nawet nie śnili, że są do nich zdolni. Czyż nie byłoby wspaniale móc zaprzęgnąć tę siłę i uczynić ją dostępną zawsze, gdy jej potrzebujesz? Możesz - jeśli uwierzysz, że możesz.<br>Bez wątpienia pamiętasz czas w swoim życiu, kiedy w sposób wyjątkowy skupiłeś się na swym celu, kiedy osiągnąłeś więcej niż kiedykolwiek w krótszym czasie. Może to nadchodzące wakacje zmotywowały cię, aby wwszystko skończyć przed wyjazdem, albo egzamin, któdy "musiałeś zdać", pomógł ci skupić uwagę. Instensywność, jaką rozwinąłeś w tamtych okolicznościach, jest dla ciebie zawsze dostępna, jeśli wykażesz pozytywną postawę umysłową.'
         }, {
             day: 21,
-            motto: 'jednostki o pozytywnej postawie umysłowej nigdy nie wpadają w rutynę',
-            description: 'Jednostki o pozytywnej postawie umysłowej zawsze zdołają znaleźć coś nowego i ciekawego nawet w najbardziej monotonnych zadaniach. Nie pozwalają sobie poczuć się znudzonymi, gdyż zawsze starają się robić wszystko szybciej, lepiej i bardziej wydajnie. Jeśli zaczniesz praktykować poszukiwanie sposobów lepszego wykonywania tych samych, starych czynności, szybko otrzymasz propozycję awansu. Będziesz nadzorował innych przy wykonywaniu twojej dawnej pracy, ponieważ dowiodłeś, że można na ciebie liczyć, jeśli chodzi o przejęcie inicjatywy i zrobienie tego, co powinno być zrobione, bez konieczności mówienia ci o tym.'
+            motto: '',
+            description: ''
         }, {
             day: 22,
-            motto: 'nigdy nie pozwól nikomu poniewierać sobą',
-            description: 'Każdy z nas żyje w najwspanialszym kraju tego świata. Ojczyzna jest dla wszystkich miejscem zapewniajacym najlepsze możliwości rozwoju. Wielki eksperyment pozytywnego myslenia i oparcie systemu rządów na wierze we wrodzone dobro jednoski rozpoczął się w Stanach Zjednoczonych ponad dwieście lat temu od podpisania Deklaracji Niepodległości. Pomysł ten był wtedy całkowicie rewolucyjny, zapozyczony od największych myślicieli w historii, lecz obecnie jest najbardziej naśladowanym wzorem na całym świecie. Warunki ekonomiczne i polityczne zmieniają się, ale w demokratycznym społeczeństwie, które szanuje jednostkę, możemy osiągnąć wszystko, czego pragniemy. Potrzeba jedynie pragnienia sukcesu i determinacji trwania przy tym, aż do chwili sięgnięcia po swoje cele.'
+            motto: '',
+            description: ''
         }, {
             day: 23,
             motto: '',
             description: ''
         }, {
-            day: 24,
-            motto: '',
-            description: ''
+            day: 23,
+            motto: 'jednostki o pozytywnej postawie umysłowej nigdy nie wpadają w rutynę',
+            description: 'Jednostki o pozytywnej postawie umysłowej zawsze zdołają znaleźć coś nowego i ciekawego nawet w najbardziej monotonnych zadaniach. Nie pozwalają sobie poczuć się znudzonymi, gdyż zawsze starają się robić wszystko szybciej, lepiej i bardziej wydajnie. Jeśli zaczniesz praktykować poszukiwanie sposobów lepszego wykonywania tych samych, starych czynności, szybko otrzymasz propozycję awansu. Będziesz nadzorował innych przy wykonywaniu twojej dawnej pracy, ponieważ dowiodłeś, że można na ciebie liczyć, jeśli chodzi o przejęcie inicjatywy i zrobienie tego, co powinno być zrobione, bez konieczności mówienia ci o tym.'
         }, {
-            day: 25,
-            motto: '',
-            description: ''
+            day: 24,
+            motto: 'nigdy nie pozwól nikomu poniewierać sobą',
+            description: 'Każdy z nas żyje w najwspanialszym kraju tego świata. Ojczyzna jest dla wszystkich miejscem zapewniajacym najlepsze możliwości rozwoju. Wielki eksperyment pozytywnego myslenia i oparcie systemu rządów na wierze we wrodzone dobro jednoski rozpoczął się w Stanach Zjednoczonych ponad dwieście lat temu od podpisania Deklaracji Niepodległości. Pomysł ten był wtedy całkowicie rewolucyjny, zapozyczony od największych myślicieli w historii, lecz obecnie jest najbardziej naśladowanym wzorem na całym świecie. Warunki ekonomiczne i polityczne zmieniają się, ale w demokratycznym społeczeństwie, które szanuje jednostkę, możemy osiągnąć wszystko, czego pragniemy. Potrzeba jedynie pragnienia sukcesu i determinacji trwania przy tym, aż do chwili sięgnięcia po swoje cele.'
         }, {
             day: 26,
             motto: '',
