@@ -320,24 +320,24 @@ let plan = {
             description: 'Bez mocnego fundamentu pozytywnych cech charakteru sukces nie będzie trwał długo. Nie sposób udawać dobrego charakteru. Ci, którzy grają, są szybko rozszyfrowywani, ponieważ brakuje im głębi i determinacji do podtrzymywania takiej gry. Pragnienie, by być dobrą, przyzwoitą, uczciwą, wrażliwą osobą musi najpierw pojawić się w głębi umysłu. Kiedy postanowisz stać się człowiekiem z charakterem, odkryjesz też, że znacznie chętniej robisz właściwe rzeczy po prostu dlatego, że ich zrobienie jest słuszne.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'negatywny umysł płodzi jedynie negatywne pomysły',
+            description: 'Generowanie pozytywnych myśli jest dla negatywnego umysłu fizyczną niemozliwością. Kiedy pozwalasz sobie na rozmyślanie o negatywnych aspektach życia, myślenie negatywne rozszerza się tak, że wypełnia wszystkie twoje myśli i nie pozostawia miejsca na wzrastanie myśli pozytywnych. Koło się zamyka. Nawyk negatywnego myślenia produkuje wciąż więcej i więcej negatywnych myśli, które umysł usiłuje zamienić w rzeczywistość. Rezultatem staje się życie w rozpaczy i beznadziejności. Wykształć nawyk eliminowania negatywnych myśli w momencie, gdy się pojawiają. Zacznij od spraw drobnych. Kiedy tylko usłyszysz ten wewnętrzny głos mówiązy: "Nie potrafisz to zrobić", natychmiast wyrzuć taką myśl ze swego umysłu. W zamian skup się na samym zadaniu. Podziel je na strawne części i kolejno wykonaj. Kiedy zakończysz pracę, powiedz swemu wątpiącemu ja: "Myliłeś się. Potrafiłem to zrobić i zrobiłem!"'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'nie warto patrzeć na innych poprzez mroczną postawę umysłową',
+            description: 'Umysł powinien być cały czas skupiony na celu i powinna mu towarzyszyć budująca filozofia, która podtrzymuje w trudnych okresach. Kiedy będziesz wytrwale stosować zasady sukcesu, aż staną się częścią ciebie, nie będzie potrzebne zatrzymywanie się i zastanawianie, jak postąpić w konkretnej sytuacji. Pozytywna reakcja stanie się niemal automatyczna.<br>Dopilnuj, byś spędzał czas na refleksji i nauce. Wyznacz wyraźnie swe cele i opracuj plan oraz harmonogram ich osiągnięcia. Czytaj dzieła pisarzy motywacyjnych i wielkich filozofów oraz wykorzystuj wiedzę jaką zyskujesz, aby opracować własny kodeks postępowania. Ustal swoją filozofię sukcesu, której możesz się trzymać - dzień po dniu - niezależnie od tego co robi reszta świata.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'pozytywna postawa umysłowa to nieodparta siła, która nie zna czegoś takiego jak sprawa nie do ruszenia',
+            description: 'Raz po raz słyszymy historie zwykłych ludzi, którzy robią rzeczy zdawałoby się niemożliwe, kiedy znajdą się w krytycznej sytuacji. Dokonują herkulesowych, bohaterskich wyczynów siły i wytrwałości, o których nawet nie śnili, że są do nich zdolni. Czyż nie byłoby wspaniale móc zaprzęgnąć tę siłę i uczynić ją dostępną zawsze, gdy jej potrzebujesz? Możesz - jeśli uwierzysz, że możesz.<br>Bez wątpienia pamiętasz czas w swoim życiu, kiedy w sposób wyjątkowy skupiłeś się na swym celu, kiedy osiągnąłeś więcej niż kiedykolwiek w krótszym czasie. Może to nadchodzące wakacje zmotywowały cię, aby wwszystko skończyć przed wyjazdem, albo egzamin, któdy "musiałeś zdać", pomógł ci skupić uwagę. Instensywność, jaką rozwinąłeś w tamtych okolicznościach, jest dla ciebie zawsze dostępna, jeśli wykażesz pozytywną postawę umysłową.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'jednostki o pozytywnej postawie umysłowej nigdy nie wpadają w rutynę',
+            description: 'Jednostki o pozytywnej postawie umysłowej zawsze zdołają znaleźć coś nowego i ciekawego nawet w najbardziej monotonnych zadaniach. Nie pozwalają sobie poczuć się znudzonymi, gdyż zawsze starają się robić wszystko szybciej, lepiej i bardziej wydajnie. Jeśli zaczniesz praktykować poszukiwanie sposobów lepszego wykonywania tych samych, starych czynności, szybko otrzymasz propozycję awansu. Będziesz nadzorował innych przy wykonywaniu twojej dawnej pracy, ponieważ dowiodłeś, że można na ciebie liczyć, jeśli chodzi o przejęcie inicjatywy i zrobienie tego, co powinno być zrobione, bez konieczności mówienia ci o tym.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'nigdy nie pozwól nikomu poniewierać sobą',
+            description: 'Każdy z nas żyje w najwspanialszym kraju tego świata. Ojczyzna jest dla wszystkich miejscem zapewniajacym najlepsze możliwości rozwoju. Wielki eksperyment pozytywnego myslenia i oparcie systemu rządów na wierze we wrodzone dobro jednoski rozpoczął się w Stanach Zjednoczonych ponad dwieście lat temu od podpisania Deklaracji Niepodległości. Pomysł ten był wtedy całkowicie rewolucyjny, zapozyczony od największych myślicieli w historii, lecz obecnie jest najbardziej naśladowanym wzorem na całym świecie. Warunki ekonomiczne i polityczne zmieniają się, ale w demokratycznym społeczeństwie, które szanuje jednostkę, możemy osiągnąć wszystko, czego pragniemy. Potrzeba jedynie pragnienia sukcesu i determinacji trwania przy tym, aż do chwili sięgnięcia po swoje cele.'
         }, {
             day: 23,
             motto: '',
