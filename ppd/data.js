@@ -332,16 +332,16 @@ let plan = {
             description: 'Raz po raz słyszymy historie zwykłych ludzi, którzy robią rzeczy zdawałoby się niemożliwe, kiedy znajdą się w krytycznej sytuacji. Dokonują herkulesowych, bohaterskich wyczynów siły i wytrwałości, o których nawet nie śnili, że są do nich zdolni. Czyż nie byłoby wspaniale móc zaprzęgnąć tę siłę i uczynić ją dostępną zawsze, gdy jej potrzebujesz? Możesz - jeśli uwierzysz, że możesz.<br>Bez wątpienia pamiętasz czas w swoim życiu, kiedy w sposób wyjątkowy skupiłeś się na swym celu, kiedy osiągnąłeś więcej niż kiedykolwiek w krótszym czasie. Może to nadchodzące wakacje zmotywowały cię, aby wwszystko skończyć przed wyjazdem, albo egzamin, któdy "musiałeś zdać", pomógł ci skupić uwagę. Instensywność, jaką rozwinąłeś w tamtych okolicznościach, jest dla ciebie zawsze dostępna, jeśli wykażesz pozytywną postawę umysłową.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że ograniczenia umysłowe są twoim własnym wytworem',
+            description: 'Przez lata sportowcy usiłowali przebiec dystans jednej mili w czasie poniżej czterech minut, ale zdawało się to barierą nie do pokonania. Potem, 6 maja 1954 roku, brytyjski biegacz Roger Bannister przebiegł tę odległość w czasie 3 minuty 59,6 sekundy, ustanawiając nowy rekord świata. Wkrótce inni biegacze pobili rekord Bannistera.<br>Zbyt często zwyczajową mądrość przyjmujemy za fakt. Upewnij się, ze wyznaczas sobie cele wystarczająco ambitne. Nie przystawaj na nic mniejszego ze względu na ograniczenia, jakie w ten sposób na siebe nakładasz. Większość z nas nigdy nie osiąga poziomu dokonań, do których jesteśmy zdolni, ponieważ nie rzucamy sobie wyzwania, aby wziąć się za to. Może najlepiej wyraził to Robert Browning: "Człowiek powinien sięgać dalej niż zasięg jego rąk, bo inaczej po cóż byłoby niebo?"'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'Jeśli jesteś pewien, że masz słuszność nie potrzebujesz martwić się o to, co myśli świat',
+            description: 'Zamierzając osiągnąć w życiu sukces warty odnotowania, musisz chcieć odłączyć się od tłumu. Sukces jest czymś, co zdobywa mniejszość, nie większość ludzi. Kiedy pniesz się po drabinie sukcesu, zauważysz, że wielu z zazdrości czy zawiści pomniejsza twoje dokonania. Niemniej jednak, jeśli posiadasz odwagę przekonań, nic nie może odstraszyć cię od kroczenia swym szlakiem. Pewność przekonań kształtujesz poprzez własne myślenie i stałe, nieustanne sprawdzanie i rewidowanie swej wiedzy. Korzystaj z zasady W. Clementa Stone\'a "rozpoznawania i powiązania, przyswajania i stosowania" informacji w dowolnej dziedzinie, aby ułatwiać sobie rozwiązywanie problemów i ukierunkowanie myślenia.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'większość chorów zaczyna się od negatywnego umysłu',
+            description: 'Wciąż na nowo to się potwierdza. Hipochondrycy, ludzie przekonani, że są chorzy, choć nic im naprawdę nei dolega, doświadczają dokładntch objawów prawdziwej choroby. Dla nich choroba jest równie realna, jak gdyby ich ciała były rzeczywiście przez nią atakowane. Można wpędzić się w chorobę poprzez ciągłe zamartwianie się i strach przed porażką, ponieważ umysł nieustannie usiłuje zamienić w rzeczywistość to, o czym myśli najwięcej. Chroń swoje zdrowie umysłowe z równą dbałością, jaką darzysz swoje ciało. Podobnie jak ciało wymaga zdrowego, odżywczego pokarmu i zrównoważonej diety, tak samo i umysł. Upewnij się, że karmisz go obfitością dobrych myśli.'
         }, {
             day: 23,
             motto: 'jednostki o pozytywnej postawie umysłowej nigdy nie wpadają w rutynę',
@@ -352,12 +352,12 @@ let plan = {
             description: 'Każdy z nas żyje w najwspanialszym kraju tego świata. Ojczyzna jest dla wszystkich miejscem zapewniajacym najlepsze możliwości rozwoju. Wielki eksperyment pozytywnego myslenia i oparcie systemu rządów na wierze we wrodzone dobro jednoski rozpoczął się w Stanach Zjednoczonych ponad dwieście lat temu od podpisania Deklaracji Niepodległości. Pomysł ten był wtedy całkowicie rewolucyjny, zapozyczony od największych myślicieli w historii, lecz obecnie jest najbardziej naśladowanym wzorem na całym świecie. Warunki ekonomiczne i polityczne zmieniają się, ale w demokratycznym społeczeństwie, które szanuje jednostkę, możemy osiągnąć wszystko, czego pragniemy. Potrzeba jedynie pragnienia sukcesu i determinacji trwania przy tym, aż do chwili sięgnięcia po swoje cele.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'pokonuje cię nie tyle porażka, ile raczej twoja postawa umysłowa',
+            description: 'Wielu rzeczy w życiu nie możesz kontrolować, jednak możesz sterować swoją postawą wobec nich. Porażka nigdy nie jest ostateczna, chyba że pozwolisz jej być taką. Kiedy masz pozytywną postawę umysłową, uznasz porażkę za oszusta, którym jest w istocie i zrozumiesz, że w rzeczywistości stanowi kształcące doświadczenie, cenną lekcję, która pomoże ci osiągnąć powodzenie przy następnej próbie.<br>Zapytaj siebie: "Co mógłbym zrobić inaczej, co miałoby wpływ na wynik? Co mogę zrobić w przyszłości, by zminimalizować problemy i błędy? Czego nauczyłem się z tego doświadczenia, co mogę z pożytkiem wykorzystać następnym raze?" Jeśli podchodzisz do przeciwności i niepowodzeń z pozytywną postawą, zdziwisz się, jak szybko potrafisz przemienić porażkę w zwycięstwo.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'jeśli nie masz siły woli, by utrzymać swe ciało w dobrym stanie, zabraknie ci jej także, by zachować pozytywną postawę umysłową w ważnych okolicznościach, które kierują twym życiem',
+            description: 'Pozytywna postawa umysłowa nie powstaje w wyniku jednorazowej decyzji o zmianie myśli negatywnych na ich pozytywne równoważniki. To stałe zaangażowanie, które wymaga dyscypliny osobistej tego samego rodzaju, co dyscyplina potrzebna do zachowania sylwetki i zdrowia fizycznego. To zobowiązanie, które musi być codziennie wzmacniane, albo wkrótce zostanie ciśnięte na stos strzępów dobrych intencji. Kiedy przejmujesz odpowiedzialność za swój los i postanawiasz żyć pozytywnie w każdym aspekcie swego życia - fizycznym i umysłowym - zyskasz dodatkową korzyść. Pozytywne uwarunkowanie fizyczne wzmocni twą pozytywną postawę umysłową, a pozytywna postawa umysłowa pomoże ci utrzymać lepsze zdrowie fizyczne.'
         }, {
             day: 28,
             motto: '',
