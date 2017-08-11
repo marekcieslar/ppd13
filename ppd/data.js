@@ -360,28 +360,28 @@ let plan = {
             description: 'Pozytywna postawa umysłowa nie powstaje w wyniku jednorazowej decyzji o zmianie myśli negatywnych na ich pozytywne równoważniki. To stałe zaangażowanie, które wymaga dyscypliny osobistej tego samego rodzaju, co dyscyplina potrzebna do zachowania sylwetki i zdrowia fizycznego. To zobowiązanie, które musi być codziennie wzmacniane, albo wkrótce zostanie ciśnięte na stos strzępów dobrych intencji. Kiedy przejmujesz odpowiedzialność za swój los i postanawiasz żyć pozytywnie w każdym aspekcie swego życia - fizycznym i umysłowym - zyskasz dodatkową korzyść. Pozytywne uwarunkowanie fizyczne wzmocni twą pozytywną postawę umysłową, a pozytywna postawa umysłowa pomoże ci utrzymać lepsze zdrowie fizyczne.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'twoja własna postawa umysłowa jest twym prawdziwym szefem',
+            description: 'Twój czas i praca mogą podlegać wymaganiom pracodawcy i innych ludzi, ale twym umysłem nie może kierować nikt poza tobą. Myśli, które cię zaprzątają, postawa wobec pracy oraz to, co chcesz dać w zamian za otrzymywane wynagrodzenie, zależą w zupełności od ciebie. To ty decydujesz, czy będziesz niewolnikiem negatywnej postawy, czy mistrzem pozytywnej. Twoja postawa, jedyny pan twego życia, leży w całości w zasięgu twojej kontroli. Kiedy kierujesz swoim nastawieniem wobec wydarzeń, sterujesz ostatecznymi implikacjami tych wydarzeń.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'umysł chory od negatywnych postaw jest bardziej niebezpieczny niż chore ciało, ponieważ jego choroba jest zawsze zaraźliwa',
+            description: 'Eksperci ludzkich zachowań uważają za niemożliwe to, by pojedynczy człowiek jakiejś grupy nie uległ wpływowi innych członków. Ponadto sama grupa ma tylko taką siłę, jak jej najsłabsze ogniwo. Jest mało prawdopodobne, by cała grupa wzniosła się na wyższe poziomy dokonań niż te, do których jest zdolny jej najsłabszy członek. Jedynie jednostki, które wyłamują się z grupy, mogą przewyższyć jej potencjał jako całości.<br>Nie przestawaj z tymi, którzy są dotknięci umysłową chorobą ciągłego negatywnego myślenia. Przyłącz się do szczęśliwych, pozytywnych, produktywnych ludzi. Twój czas jest dobrem, którym trzeba zarządzać jeszcze uważniej niż pieniędzmi. Spędzaj go z ludźmi podzielającymi twoje pragnienie sukcesu u zaangażowanei się w zachowanie pozytywnej postawy umysłowej.'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'zatrzymuj swój umysł na tym, czego w życiu pragniesz, nie na tym, czego nie chcesz',
+            description: 'Badania nad wewnętrznym działaniem umysłu dopiero się rozpoczęły, jednak od dawna jesteśmy świadomi skutków naszych myśli. Kiedy skupiamy się na tym, by nie chybić celu zamiast na tym, by "trafić byka między oczy", rezultaty mogą okazać się tragiczne, ponieważ nie da się mysleć negatywnymi myślami w pozytywny sposób. Zapamiętaj dowolnego gracza w golfa, który usiłował nie zawieść wprowadzając piłkę do dołka, czy zawodnika na serwie w grze w krykieta, który walczy, by nie stracić rzutu.<br>Upewnij się, że twoje cele są konkretne i dokładne. "zrobienie dużych pieniędzy" czy "Zasłużenie na regularne awanse" nie należą do celów, lecz życzeń. Określ dokładnie, jaką kwotę pieniędzy spodziewasz się zarobić i kiedy, oraz konkretny awans, jakiego pragniesz, jak planujesz na niego zapracować i kiedy. Prezes Carlson Companies, Curt Carlson, zauważył kiedyś: "Przeciwności to te przerażające rzeczy, które widzisz, gdy tylko spuszczasz wzrok z celu".'
         }, {
             day: 31,
-            motto: '',
-            description: ''
+            motto: 'zmień swoją postawę umysłową, a świat wokół ciebie zmieni się także',
+            description: 'Twój świat stanie się tym, czym zechcesz go zrobić. Możesz sięgnać po wspaniałe wyżyny sukcesu albo przystać na nędzne życie pozbawione nadziei. Wybór należy do ciebie. Kiedy wybierasz pozytywny kurs, uruchamiasz niepowstrzymaną siłę, która pozwoli ci cieszyć się satysfakcjonującą karierą, miłością rodziny i przyjaciół, dobrym zdrowiem fizycznym i umysłowym oraz wszelkimi innymi prawdziwymi bogactwami życia.<br>Aby zmienić swój świat trzeba to zrobić od środka. Musisz zacząć od siebie. Kiedy wybierasz drogę, która stawia twoje życie na pozytywnym szlaku, poprawiasz swe życie, a także dodatnio wpływasz na ludzi, z którymi masz do czynienia.'
         }]
     }, {
         name: 'kwiecień',
         motto: 'wyznaczanie celów',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'możesz to zrobić, jeśli wierzysz, że możesz',
+            description: 'Kiedy coś wydarza się, ponieważ wierzymy, że tak się stanie, nazywamy to "samospełniającym się proroctwem". Ymysł jest skonstruowany w taki sposób, że nieustannie usiłuje urzeczywistnić rzeczy, o których myśli najwięcej. Większość z nas nigdy nie zda sobie sprawy z przeogromnego potencjału, jaki posiada - ponieważ nie chce uwierzyć, że możemy zdobyć to, co inni uważają za niemożliwe. "Niemożliwe" zadania wymagają więcej trudu i wyższej koncentracji, ale kiedy je zakończymy, nagrody - zarówno finansowe jak i psychiczne - są proporcjonalne do włożonego wysiłku. Możesz nie być w stanie osiągnąć wszystkiego, czego byś pragnął, lecz nie osiągniesz nic, jeśli nie uwierzysz, że możesz.'
         }, {
             day: 2,
             motto: '',
