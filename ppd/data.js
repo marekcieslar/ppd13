@@ -404,28 +404,29 @@ let plan = {
             description: 'Idąc przez życie przekonasz się, że ci, którzy najchętniej udzielają rad, to jednostki mające do tego najmniejsze prawa. Aktywni ludzie sukcesu nie widzą żadnego interesu w mówieniu ci, jak masz przeżyć swoje życie. Są zajęci przeżywaniem własnego. Ludzie porażki i przeciętności dysponują całym czasem świata. Przepadają także za przylądaniem się, jak zawodzisz i szybko komentują: "a nie mówiłem", kiedy doświadczasz chwilowego niepowodzenia.<br>Jeżeli ktoś ci mówi, że to, co próbujesz robić, jest niemożliwe lub niewarte zachodu, przyjrzyj się dokładnie jemu samemu i temu, co osiągnął we własnym życiu. Prawdopodobnie nie zrobił wiele. Ludzie sukcesu są jednostkami optymistycznymi. Mają nawyk sukcesu, ponieważ już dawno nauczyli się słuchać siebie samych, a nie tych, którzy chcieliby zobaczyć ich klęskę.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'gdzie znajdziesz się za dziesięć lat, jeśli będziesz trzymał się drogi, którą idziesz teraz?',
+            description: 'Wielu ludzi nie zdaje sobie sprawy z tego, że na wielki sukces składa się osiąganie małych zwycięstw, często przez bardzo długi czas. Prawdziwi ludzie sukcesu są dalekowzrocznymi myślicielami. Wiedzą, że muszą się opierać o kolejne dokonania i stale uczyć się nowych, lepszych sposobów działania. Istotną część wyznaczania celów stanowi regularny przegląd postępów. Cel jest czymś niewiele większym od życzenia, jeśli nie rowarzyszy mu harmonogram realizacji. Upewnij się, że twój plan na życie zawiera cele krótko-, średnio- i długoterminowe. Przeglądaj je w miarę jak dyktują to okoliczności, zaznaczaj, kiedy zostały zakończone i ustalaj nowe, większe lece, w miarę jak wzrastasz. Poświęć też czas, by często zastanawiać się nad tym, czy jesteś na właściwym dla samego siebie kursie.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'nigdy nie niszcze niczego, jeśli nie jesteś przygotowany do zbudowania czegoś lepszego w to miejsce',
+            description: 'Zasada ta odnosi się zarówno do osób, jak i rzeczy. Łatwo jest bezmyślnie krytykować innych ludzi za ich wady i równie łatwo znaleźć usterki w ich pracy czy sytyacjach, która ci się nei podobają. Znacznie trudniej jest zachęcać ludzi i tworzyć dzieła sztuki, użyteczne produkty czy przynoszące zyski przedsięwzięcia. Upewnij się, że należysz do budowniczych, a nie niszczycieli ludzi i rzeczy.<br>Kiedy krytykujesz czyny lub pracę innych - dzieci, pracowników czy ludzi, za których ponosisz odpowiedzialność - sprawdź, czy twoja krytyka jest pozytywna i skierowana na czyn albo okazję poprawy, a nie na osobę. Włącz w nią prowpozycje do zastosowania iskoncentruj się na możliwości sukcesu.'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'czego pragniesz od życia i co możesz dać w zamian?',
+            description: 'Jedno z praw fizyki mówi, że każdej sile akcji towarzyszy siła reakcji równa co do wartości, lecz przeciwnie skierowana. To samo prawdziwe jest w odniesieniu do życia. Dostajesz od niego to, co sam wnosisz. Gdy jesteś szczodry w udzielaniu czasu i wysiłku, zapłata będzie obfita. Kiedy dajesz niechętnie, zwrot także będzie proporcjonalny do inwestycji. Duże zyski wymagają wysokich zobowiązań osobistego i finansowego kapitału.<br>Na samym początku zrozum, że wszystko ma swoją cenę. Kiedy ustalając swój cel uznajesz, iż cza, wysiłek i osobista dyscyplina wymagane do jego osiągnięcia stanowią uczciwą transakcję, odkryjesz, że nawet najbardziej ambitne cele są w twoim zasięgu.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'człowiek sukcesu koncentruje swój umysł na ty, czego pragnie w życiu, nie na tym, czego nie chce',
+            description: 'To niemożliwe, by nei stać się tym, o czym myślisz najwięcej. Jeżeli na czymś skupiasz się wystarczająca długo, staje się to częścią twojej psyche. Wykorzystaj tę wiedzę na swoją korzyśc. Jeśli myślisz o problemach, znajdziesz problemy. Jeżeli zastanawiasz się nad rozwiązaniami, trafisz na rozwiązania. To normalne żywić wątpliwoći, obawy, niepewność. Człowiek sukcesu rozumie to i uczy się je pokonywać, koncentrując się na pożądanym celu, a nie na niepożądanych rozterkach.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'dostaniesz to, czego chcesz, jeśli nie będziesz przyjmował żadnych substytutów',
+            description: 'Kompromis stanowi istotny element polityki, dyplomacji i negocjacji, ale nie jest dobry przy ustalaniu i sięganiu po cele. Ludzie, którzy osiągają największe sukcesy w życiu, to ci, którzy nie chcą przyjąć od siebie samych mniej niż to, co najlepsze i odmawiają kompromisu przy zdobywaniu swych najważniejszych celów.<br>Kiedy zorientujesz się, że rozważasz zaakceptowanie czegoś mniej niż pełnia tego, co pragniesz osiągnąć, zatrzymaj się na chwilę i przeanalizuj sytuację. Czy przeszkody, z którymi się mierzysz, są rzeczywiście nie do pokonania, czy też istnieje inny sposób zaatakowania problemu? Czy możez obejść przeszkodę? Każdy krok w prawidłowym kierunku, jakkolwiek by nie był mały, prowadzi w stronę celu. Postęp w kierunku osiągnięcia wielkiego celu często mierzy się w centymetrach.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'zapomnij o tym, co robiłeś w przeszłości; myśl, co zamierzasz robić w przyszłości',
+            description: 'Spostrzeżenie Szekspira: "To, co przyszło, stanowi prolog" jest wyjątkowo właściwe w dzisiejszym szybko mknącym świecie. Wszystko, co zrobiliśmy w przeszłości, służy jedynie przygotowaniu nas do nowych zadań. Nie upajaj się przeszłymi zaszczytami i splendorem. Planuj przyszłe osiągnięcia i smakuj dzisiejsze zwycięstwa. Bądź dumny ze wszystkiego, co robisz, szukaj lepszych sposobów wykonywania zadań rutynowych i gratuluj sobie, kiedy coś zrobisz wyjątkowo dobrze.'
+
         }, {
             day: 13,
             motto: '',
