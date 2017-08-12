@@ -384,24 +384,24 @@ let plan = {
             description: 'Kiedy coś wydarza się, ponieważ wierzymy, że tak się stanie, nazywamy to "samospełniającym się proroctwem". Ymysł jest skonstruowany w taki sposób, że nieustannie usiłuje urzeczywistnić rzeczy, o których myśli najwięcej. Większość z nas nigdy nie zda sobie sprawy z przeogromnego potencjału, jaki posiada - ponieważ nie chce uwierzyć, że możemy zdobyć to, co inni uważają za niemożliwe. "Niemożliwe" zadania wymagają więcej trudu i wyższej koncentracji, ale kiedy je zakończymy, nagrody - zarówno finansowe jak i psychiczne - są proporcjonalne do włożonego wysiłku. Możesz nie być w stanie osiągnąć wszystkiego, czego byś pragnął, lecz nie osiągniesz nic, jeśli nie uwierzysz, że możesz.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'w końcu zaczynasz wierzyć w to, co powtarzasz sobie wystarczająco często - nawet jesli to nie jest prawda',
+            description: 'Jeżeli powtarzasz sobie coś wciąż na nowo, twoja podświadomość w końcu zacznie to przyjmować za fakt. Kiedy coś zostało zaakceptowane przez podświadomość jako prawda, umysł będzie robić wszystko, aby przemienić ideę w fizyczną rzeczywistość. Możesz wykorzystać to programując swój umysł na myślenie pozytywnymi myślami. Używaj automotywatorów lub deklaracji, aby przekonać twoją podświadomość, że jesteś zdolny do zrobienia wszystkiego, czego zapragniesz. Powtarzaj automotywator kilka razy dziennie, aż przypominanie sobie pozytywnego wyrażenia stanie się automatyczną reakcją, jeśli kiedykolwiek zaczneisz wątpić w siebie. Zastąp <i>nie mogę</i> przez <i>zrobię</i>!'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'jeśli sam w coś nie wierzyssz, nie proś nikogo, by uwierzył',
+            description: 'Naprawdę nei da się nie przenosić swoich wątpliwości i niepewności poprzez język ciała, ton i modulację głosu, dobór słów i inne subtelne charakterysytyki. Kiedy swoimi czynami okazujesz, że brak ci pewności siebie, inni ludzie również zaczynają wątpić w twoje zdolności do wywiązania się z zadań. Możesz jednak zyskać szacunek i zaufanie innych. Zacznij od sporządzenia listy wszystkiego, co u siebie lubisz i tego, co chciałbyś zmienić. Dokonaj świadomego wysiłku, aby kształtować swoje zalety i korygować słabości. To może nie być łatwe, jednak jeżeli ocenisz siebie obiektywnie i będziesz trwał w swych wysiłkach, to ostatecznie zatriumfujesz.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'po stronie tych, którzy wierzą w rzeczy słuszne, pojawia się potęga',
+            description: 'Jako istoty ludzkie jesteśmuy jedynymi stworzeniami na ziemi, które mają zdolność wierzenia. Ta cecha w połączeniu z wrodzoną niemal zdolnością rozróżniania dobra od zła, wyposaża nas we wspaniałe narzędzie w naszym dążeniu do bogatszego, bardziej satysfakcjonującego życia. Kiedy wyznaczas cele dla siebie, upewnij się, że opierają się one na zamiarze zrobienia dobrych rzeczy dla twojej rodziny, przyjaciół, pracowników i ciebie samego. Kiedy inni przekonają się, że w swoich poczynaniach wobec nich jesteś uczciwy, rzetelny i wspaniałomyślny, że masz zasady, to poruszą dla ciebie niebo i ziemię.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'oszust pracuje ciężej i płaci więcej niż ktokolwiek inny za to, co dostaje od życia, ale oszukuje siebie wierząc, że otrzymuje coś za nic',
+            description: 'W handlu obowiązuje pewna fundamentalna zasada: najpierw musisz sprzedać coś sobie, zanim możesz to skutecznie sprzedać innym. Jeśli nie wierzysz w wartość swego produktu czy usługu, nikt inny także nie uwierzy. Jeżeli wrabiasz innych w nieuczciwą transakcję, musisz bardzo pracować nad pokonaniem wewnętrznego sprzeciwu wobec robienia czegoś niesłusznego. Umowa jest dobra jedynie wtedy, gdy wiąże się z korzyściami dla wszyskich w nią zaangażowanych. Kiedy każdy z uczestników ma jednakową szansę na zysk, a ryzyko rozkłada się pomiędzy partnerów, którzy troszczą się o wzajemną pomyslność, to nie tylko zwiększa się prawdopodobieństwo sukcesu, ale również podróż w jego kierunku jest o wiele przyjemniejsza.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'kto ci powiedział, że nei da sie tego zrobić i jakich wielkich czynów dokonał, by dały mu prawo staiania ograniczeń tobie?',
+            description: 'Idąc przez życie przekonasz się, że ci, którzy najchętniej udzielają rad, to jednostki mające do tego najmniejsze prawa. Aktywni ludzie sukcesu nie widzą żadnego interesu w mówieniu ci, jak masz przeżyć swoje życie. Są zajęci przeżywaniem własnego. Ludzie porażki i przeciętności dysponują całym czasem świata. Przepadają także za przylądaniem się, jak zawodzisz i szybko komentują: "a nie mówiłem", kiedy doświadczasz chwilowego niepowodzenia.<br>Jeżeli ktoś ci mówi, że to, co próbujesz robić, jest niemożliwe lub niewarte zachodu, przyjrzyj się dokładnie jemu samemu i temu, co osiągnął we własnym życiu. Prawdopodobnie nie zrobił wiele. Ludzie sukcesu są jednostkami optymistycznymi. Mają nawyk sukcesu, ponieważ już dawno nauczyli się słuchać siebie samych, a nie tych, którzy chcieliby zobaczyć ich klęskę.'
         }, {
             day: 7,
             motto: '',
