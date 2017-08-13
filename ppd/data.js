@@ -426,23 +426,22 @@ let plan = {
             day: 12,
             motto: 'zapomnij o tym, co robiłeś w przeszłości; myśl, co zamierzasz robić w przyszłości',
             description: 'Spostrzeżenie Szekspira: "To, co przyszło, stanowi prolog" jest wyjątkowo właściwe w dzisiejszym szybko mknącym świecie. Wszystko, co zrobiliśmy w przeszłości, służy jedynie przygotowaniu nas do nowych zadań. Nie upajaj się przeszłymi zaszczytami i splendorem. Planuj przyszłe osiągnięcia i smakuj dzisiejsze zwycięstwa. Bądź dumny ze wszystkiego, co robisz, szukaj lepszych sposobów wykonywania zadań rutynowych i gratuluj sobie, kiedy coś zrobisz wyjątkowo dobrze.'
-
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'jedyną stałą rzeczą w całym wszechświecie jest to, co ustalisz we własnym umyśle',
+            description: 'To prawda, że sami nakładamy sobie ograniczenia. Uznajemy niektóre rzeczy za niemożliwe, ponieważprzekonaliśmy siebie, że takie są. W pewnym eksperymencie naukowcy umieścili w akwarium szklaną przegrodę pomiędzy dwiema rybami, z których jedna polowała na drugą. Z początku drapieżnik raz po raz walił w szybę, jednak w kocu zrezygnował. Po jakimś czasie badacze usunęli przegrodę, ale ryby nadal pływały spokojnie we wcześniej wyznaczonych strefach.<br>My także jesteśmy niewolnikami nawyków. Dopilnuj, by od czasu do czasu wypróbować swoje granice. W miarę jak wzrastasz, rozwijasz się i stajesz się coraz lepszy w tym, co robisz, może się okazać, że to, co kiedyś cię ograniczało, teraz już nie stanowi limitu. Od czasu do czasuspędzaj czas na produktywnym marzeniu, zastanawiając się, co byś zrobił, gdybyś mógł zrealizować, cokolwiek pragniesz. Może się okazać, że twoje marzenia mieszczą się w granicach możliwości, jeśli wyznaczysz konkretne, wymierne cele i opracujesz plan ich osiągnięcia.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'jak sądzisz, co otrzymasz, jeśli nie wiesz, czego chcesz od życia?',
+            description: 'Większość ludzi na świecie dryfuje poprzez życie, nie zdając sobie sprawy z tego, że ich przyszłość będzie taka, jaką dla sibie stworzą. Mniejszość, która osiąga sukces, to ludzie wiedzący, czego chcą i posiadający plan zrealizowania swoich celów. Cele muszą być konkretne, wymierne, powinny mieć termin realizacji i byc podzielone na "strawne" kawałki. Wiedz dokładnie, co, kiedy i jak planujesz osiągnąć. Regularnie kontroluj swoje postępy, w razie potrzeby poprawiaj trakt i nigdy, nigdy się nie poddawaj.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'bądź pewny tego, czego chcesz od życia i podwójnie pewny tego, co masz do zaoferowania w zamian',
+            description: 'Przebadaj życie ludzi sukcesu, a przekonasz się, że zapłacili oni cenę wprost proporcjonalną do wilkości sukcesu, jaki zdobyli. Dokładna analiza prawie zawsze ujawnia lata studiów i przygotowań zanim zostanie osiągnięty wielki sukces. Zasada ta jest identyczna w każdej dziedzinie osiągnięć osobistych - w sztuce, medycynie, nauce czy biznesie. Nic wartościowego nigdy nie przychodzi łatwo.<br>Kiedy rozważasz własne cele, zastanów się również, co jesteś gotowy poświęcić w zamian za to, co spodziewasz się otrzymać. Powinieneś być przygotowany na szczodre oferowanie swego czasu i zdolności na długo przedtem, zanim możesz oczekiwać zysku ze swej inwestycji. Wielu z tych, któ©zy zdobyli błyskotliwe sukccesy "z dnia na dzień", pracowało w cieniu przez długie lata, zanim ostatecznie zostali uznani z powodu osiągnięć.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'najdokładniej sprawdzaj to, czego pragniesz najbardziej',
+            description: 'Zdecydowanie zbyt wielu ludzi spędza czas raczej na planowaniu swych weekendów niż swego życia. Potem nagle zdają sobie sprawę, że życie im umknęło, przeszło obok, a oni nawet tego nie zauważyli. Kiedy intensywnie nalizujesz to, czego najbardziej w życiu pragniesz, zaczynasz skupiać swój umysł i koncentrować energię na tym, co chcesz osiągnąć. Do wielkich korzyści płynących z posiadania wyraźnego celu życia należy to, że ułatwia on nadawanie priorytwtów działaniom. Kiedy twój główny cel jest jasno zarysowany w umyśle, nie trzeba koniecznie znalizować każdej pojedynczej sytuacji. Automatycznie wiesz, czy twoje działania przybliżają cię do celu, czy oddalają od niego. Wszystkie swoje zasoby - czas, pieniądze i energię - możesz wtedy wykorzystywać z najlepszym pożytkiem.'
         }, {
             day: 17,
             motto: '',
