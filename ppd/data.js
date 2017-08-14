@@ -444,28 +444,28 @@ let plan = {
             description: 'Zdecydowanie zbyt wielu ludzi spędza czas raczej na planowaniu swych weekendów niż swego życia. Potem nagle zdają sobie sprawę, że życie im umknęło, przeszło obok, a oni nawet tego nie zauważyli. Kiedy intensywnie nalizujesz to, czego najbardziej w życiu pragniesz, zaczynasz skupiać swój umysł i koncentrować energię na tym, co chcesz osiągnąć. Do wielkich korzyści płynących z posiadania wyraźnego celu życia należy to, że ułatwia on nadawanie priorytwtów działaniom. Kiedy twój główny cel jest jasno zarysowany w umyśle, nie trzeba koniecznie znalizować każdej pojedynczej sytuacji. Automatycznie wiesz, czy twoje działania przybliżają cię do celu, czy oddalają od niego. Wszystkie swoje zasoby - czas, pieniądze i energię - możesz wtedy wykorzystywać z najlepszym pożytkiem.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'mądrość polega na znajomości tego, czego nie należy chcieć, tak samo jak tego, czego pragnąć',
+            description: 'Cele należy wyznaczać w taki sposób, by przynosiły nagrody ważne dla ciebie, nie kogoś innego. Potrzeba trochę eksperymentowania, szczególnie na początku, aby odkryć, co naprawdę lubisz i w czym jesteś najlepszy. Kariera i cele finansowe powinny pozostawać w równowadze z celami osobistymi, takimi jak utrzymywanie związków z innymi, ważnymi dla ciebie ludźmi. Twój plan życia powinien także uwzględniać cele związane z rozrywką, robieniem czegoś po prostu dlatego, że to cię cieszy. Aby stać się osobą szczęśliwą, dobrze ukształtowaną, istotny jest rozwój duchowy. Dopilnuj, by preznaczać czas na wszystkie ważne aspekty twego rozwoju osobistego.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'nie bój się celować wysoko wybierając swój życiowy cel, bo niezależnie jak wysoko mierzysz, twoje osiągnięcia mogą to przewyższyć',
+            description: 'Obecnie wiele przedsiębiorstw opowiada się za zasadą "ciągłego udoskonalania" jako częściową swego programu jakości. Aby w dzisiejszej globalnej gospodarce zachować konkurencyjność, trzeba nieustannie wysilać się w celu poprawy każdego aspektu przedsięwzięcia, bo inaczej wyprzedzi nas konkurencja. Ta sama etyka ma zastosowanie w przypadku jednostek. Całe życie stanowi ciągłe doświadczenie uczenia się. Każdy sukces i każde chwilowe niepowodzenie służy jedynie przygotowaniu do czasu, kiedy ostatecznie odniesiesz zwycięstwo. Cele krótko i średnioterminowe powiny być realistyczne i możliwe do osiągnięcia, ale twe cele długoterminowe zawsze muszą wykraczać poza obecne możliwości. Najwybitniejszy epik rzymski, Wergiliusz, powiedział: "Odważnym fortuna sprzyja".'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'skoro nie wiesz, czego chcesz nie mów, że nigdy nie miałeś szansy',
+            description: 'Ludzie najgłośniej skarżący się, że nigdy nie dostali od życia szansy, to zazwyczaj ci, którzy zawsze mają gotowe wytłumaczenie swoich porażek. Nigdy za nic nie ponoszą winy; są ofiarami swego zdiedzictwa, środowiska, niedostatecznego wykształcenia czy dowolnej liczby innych czynników, stawiających ich w niekorzystnym położeniu. Kiedy dobrze się przyjrzysz, zawsze możes znaleźć przyczyny aby nie spróbować czegoś albo nie trwać przy zadaniu do końca. Jednak ludzie sukcesu nie są tymi, którzy szukają wymówek. Ponoszą konsekwencje swoich czynów, wyznaczają cele i przyjmują odpowiedzialność za ich osiągnięcie. Tam, gdzie inni widzą rozpacz, oni dostrzegają nadzieję. Do każdej sytuacji podchodzą z entuzjazmem, przekonani, że nic nie jest nimożliwe dla tych, którzy posiadają pozytywną postawę umysłową.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'świat jest wspaniały dla osoby, która dokładnie wie, czego oczekuje od życia i pilnie o to zabiega',
+            description: 'Najszczęśliwsi jesteśmy wtedy, gdy dążymy do zrealizowania jakiegoś celu. Naturalną ludzką tendencję stanowi wyznaczanie następnego, zwykle większego celu po osiągnięciu tego pierwszego. W. Clement Stone nazywa to inspirującym nieusatysfakcjonowaniem - doświadczanie zawodu po osiągnięciu jednego celu, a przed podjęciem pierwszego kroku do dokonania następnego. Kiedy zaczynasz doznawać tego dręczącego uczucia, pora przystąpić do działania! Upewnij się, że posiadasz gotowy plan długoterminowy, aby po zrealizowaniu jednego celu krótkoterminowego przejść w sposób naturalny w kierunku kolejnego.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'osoba bez wyrażnego celu głównego jest równie bezradna jak statek bez kompasu',
+            description: 'Kiedy przyjrzysz się szczegółowym, ninutowym wykresom nawigatora, przekonasz się, że podróż z jednego miejsca do drugiego przypomina raczej zbiór linii zygzakowatych, a nie prostą od punktu wyjazdu do ostatecznego miejsca przeznaczenia. Kapitan nieustannie dokonuje korekty trasy, aby uwzględniać zmiany powstałe w wyniku warunków zewnętrznych, które powodują zboczenie statku z kursu. Jedyną rzeczą, nie zmienia się w trakcie podróży, jest port docelowy.<br>Ta sama prawda dotyczy jednostek ludzkich. Jaki by nie był twój ostateczny cel życia, przekonasz się, że zawsze istnieją wpływy środowiska, na które nie masz wpływu. Koryguj swoją trasę i zmierzaj wciąż do celu. Sekret leży w tym, by zawsze mieć cel w swoim umyśle i nie dryfować z prądem.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'płonące pragnienie, aby istnieć i działać, jest pinktem wyjścia, od którego musi zacząć marzyciel',
+            description: 'Wiele lat temu mówca na uroczystości nadawania tytułów naukowych prestiżowego uniwersytetu poprosił o podniesienie ręki wszystkich dyplomatów, którzy mają konkretny plan dla swego życia. Kiedy spojrzał po sali, zauważył tylko trzy odniesione dłonie. W dwadzieścia lat później, na spotkaniu jubileuszowym okazało się, że łączna watość dzieł tych trzech osób przewyższała dokonania pozostałych studentów tego rocznika.<br>Ludzie, którzy wiedzą, dokąd zmierzają, zawsze osiągają znacznie większe sukcesy od tych, któ©zy zaledwie drygują przez życie spodziewając się, że okoliczności same stworzą dla nich okazje. Ludzie sukcesu kreują własne sposobności poprzez koncentrowanie się na celach z intensywnością graniczącą z obsesją. W ten sposób każde działanie prowadzi ich w kierunku sukcesu.'
         }, {
             day: 23,
             motto: '',
