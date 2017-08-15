@@ -468,36 +468,36 @@ let plan = {
             description: 'Wiele lat temu mówca na uroczystości nadawania tytułów naukowych prestiżowego uniwersytetu poprosił o podniesienie ręki wszystkich dyplomatów, którzy mają konkretny plan dla swego życia. Kiedy spojrzał po sali, zauważył tylko trzy odniesione dłonie. W dwadzieścia lat później, na spotkaniu jubileuszowym okazało się, że łączna watość dzieł tych trzech osób przewyższała dokonania pozostałych studentów tego rocznika.<br>Ludzie, którzy wiedzą, dokąd zmierzają, zawsze osiągają znacznie większe sukcesy od tych, któ©zy zaledwie drygują przez życie spodziewając się, że okoliczności same stworzą dla nich okazje. Ludzie sukcesu kreują własne sposobności poprzez koncentrowanie się na celach z intensywnością graniczącą z obsesją. W ten sposób każde działanie prowadzi ich w kierunku sukcesu.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'siła woli to następstwo wyrazistości celu i wytrwałego działania, opartego o osobistą inicjatywę',
+            description: 'Ludzie zawistni przypisują sukces przede wszystkim szczęściu. Nie może być nic bardziej błędnego. Trener Darryl Royal zauważył kiedyś: "Szczęście jest tym, co następuje, gdy przygotowanie spotyka się z okazją". Sukces zdarza się wtedy, gdy masz konkretny cel dla swojego życia i podejmujesz inicjatywę, aby rozpocząć działanie. Czasem możesz popełniać błędy - każdy je robi - jednak działanie jest znacznie lepsze od bezczynności.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'statek bez steru i osoba bez celu ostatecznie osiadają na mieliźnie',
+            description: 'Cele, jakie sobie wyznaczasz - pełniąc rolę podobną jak ster w przypadku statku - będą prowadzić cię w stronę miejsca przeznaczenia; bez nich zaś, podobnie jak dla statku pozbawionego steru, utrzymanie się na kursie okaże się nimożliwe.<br>Spraw, by wyznaczanie celów stało się dla ciebie nawykiem. Jeśli czasem trudno ci utrzymać koncentrację, ustalaj małe, dającee się osiągnąć cele i trzymaj się każdego zadania aż do jego zakończenia. Jako przykład może służyć poszukiwanie szybszego, bardziej wydajnego sposobu wykonywania prac rutynowych, albo podejmowanie najtrudniejszych zadań wtedy, kiedy masz najwięcej energii i najbardziej skupioną uwagę. Najłatwiejsze prace zostawiaj na koniec. Kilka małych sukcesów w sposób nieunikniony poprowadzi do większych dokonań.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'uczciwość i ciężka praca to godne polecenia cechy charakteru, jednak nie doprowadzą cię do sukcesu, jeśli skierujesz ich w stronę swego głównego celu',
+            description: 'Charakter stanowi ważny element sukcesu i podstawowy warunek przywództwa, ale sam nie potrafi ci zapewnić sukcesu, jeśli nie zwraca się w pozytywnym kierunku. Kiedy dobrzy, uczciwi ludzie - ludzie z charakterem - łączą go z poważnym celem życia, w strone którego chętnie i entuzjastycznie kierują swą energię, rezultat może zapierać dech w piersiach. Ważny cel i wyjątkowy charakter - to wspaniałe połączenie.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'życie bez wyrazistego celu nie wróży niczego poza życiem ograniczonym',
+            description: 'Możesz przebrnac przez życie bez jasno sprecyzowanego, ważnego celu, jednak nigdy nie wysuniesz się do przodu. Wyrazistość celu stanowi punkt wyjściowy wszelkich dokonań. Cele finansowe powinny być szczególnie konkretne, precyzyjne i wymierne. Powinieneś wiedzieć, ile planujesz zarobić, do kiedy i w jaki sposób zamierzasz to wykonać. Największą korzyść płynącą z bezpieczeństwa finansowego stanowi pokój umysłu pochodzący z przekonania, że jakiekolwiek wyzwania rzuci ci życie, masz wszystko, co potrzeba, by poradzić sobie z nimi. COkolwiek wybierzesz, będziesz w tym lepszy, ponieważ możesz skoncenrować się na okazjach, zamiast walczyć, by związać koniec z końcem.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'jeżeli nie masz życiowego celu, dryfujesz w kierunku pewnej klęski',
+            description: 'W osiąganiu celów, które sobie wyznaczyłeś, istnieją edynie dwie możliwości: albo poruszasz się w kierunku swego celu, albo znosi cię w przeciwną stronę i oddalasz się od neigo. Wybierz swój życiowy cel i zaatakuj go z zawziętością. Jeżeli masz odwagę przekonan, jeśli sam dokonałeś dla siebie wyboru, znajdziesz też siłę, by trwać aż do odniesienia sukcesu.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'Nigdy nie będziesz większy od mśli, które dominują w twoim umyśle',
+            description: 'Jeżeli prawdą jest to, że stajemy się tym, o czym najwięcej myślimy, to wielkość i jakość sukcesu osiąganego w życiu będzie wprost proporcjonalna do formatu naszych myśli. Jeśli pozwalasz umysłowi, by został zdominowany przez sprawy trywialne, podobnie twoje dokonania będą mało istotne. Nakłoń się do myślenia o rzeczach ważnych. Śledź najnowsze odkrycia w swojej dziedzinie i wydarzenia na świecie. Sporządź listę dobrych pomysłów, jakie możesz wykorzystywać zawse, kiedy poszukujesz twórczego rozwiązania problemu. Pamiętaj, że małe umysły myślą o rzeczach - wielkie umysły zastanawiają się nad ideami.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'twój rozwój zaczyna się w umyśle i kończy w tym samym miejscu',
+            description: 'Każde wielkie dokonanie rozpoczęło się od zalążka pomysłu w umyśle wielkiego człowieka, potem nabrało kształtu praktycznie użytecznego i ostatecznie przemieniło się w rzeczywistość. Poprzez ciągłe uczenie się i studiowanie uczyń swój umysł żyzną glebą dla idei, a poprzez nieustanne ćwiczenie uwarunkuj siebie na zachowanie dyscypliny w podążaniu za swymi dobrymi pomysłami. Najbardziej błyskotliwa koncepcja na świecie jest jedynie marzeniem, dopóki nie podejmiesz działania. Nawet pośledni pomysł, który zostaje wdrożony, ma znacznie większą wartość niż przebłysk geniuszu, który marnieje w jałowym, niezdyscyplinowanym umyśle.'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'stałość celu stanowi podstawową zasadę sukcesu',
+            description: 'Istotne dla twego sukcesu jest to, abyś miał dobrze przemyślany plan dla swego życia i trzymał się go niezależnie od tego, co mówią inni i tego, jakie przeszkody możesz napotkać. Zawsze znajdą się wyszukiwacze błędów i ludzie próbujący przekonać cię, że twoje cele nie są warte wysiłku, jaki wkładasz w ich osiągnięcie. Ludzie ci nigdy nie zajdą daleko i pierwsi poproszą cię o pomoc, kiedy ich wyprzedzisz. Właściwie każdy człowiek sukcesu w którymś momencie swojej walki o osiągnięcie szczytu rozważał poddanie się. I wiele punktów zwrotnych nastąpiło wkrótce po tym, gdy ludzie ci na nowo poświęcili się swemu celowi. Nie rozpoznano dotychczas przeszkody, której nie mogłaby pokonać osoba mająca stały cel, pozytywną postawę umysłową oraz dyscyplinę i siłę woi, by odnieść sukces.'
         }, {
             day: 31,
             motto: '',
