@@ -498,38 +498,34 @@ let plan = {
             day: 30,
             motto: 'stałość celu stanowi podstawową zasadę sukcesu',
             description: 'Istotne dla twego sukcesu jest to, abyś miał dobrze przemyślany plan dla swego życia i trzymał się go niezależnie od tego, co mówią inni i tego, jakie przeszkody możesz napotkać. Zawsze znajdą się wyszukiwacze błędów i ludzie próbujący przekonać cię, że twoje cele nie są warte wysiłku, jaki wkładasz w ich osiągnięcie. Ludzie ci nigdy nie zajdą daleko i pierwsi poproszą cię o pomoc, kiedy ich wyprzedzisz. Właściwie każdy człowiek sukcesu w którymś momencie swojej walki o osiągnięcie szczytu rozważał poddanie się. I wiele punktów zwrotnych nastąpiło wkrótce po tym, gdy ludzie ci na nowo poświęcili się swemu celowi. Nie rozpoznano dotychczas przeszkody, której nie mogłaby pokonać osoba mająca stały cel, pozytywną postawę umysłową oraz dyscyplinę i siłę woi, by odnieść sukces.'
-        }, {
-            day: 31,
-            motto: '',
-            description: ''
         }]
     }, {
         name: 'maj',
         motto: 'Działanie',
         days: [{
             day: 1,
-            motto: '',
-            description: ''
+            motto: 'jeśli jesteś na prawdę wielki, pozwolisz innym odkryć ten fakt na podstawie twoich czynów',
+            description: 'W ostatecznym rozrachunku wszystko, co naprawdę się liczy, to twoje czyny. Możesz oięknie mówić, ale niezależnie od tego, jak dobry jesteś w sprzedawaniu swych umiejętności, w końcu musisz wykonać zadanie. To prawda, że ludzie są zazwyczaj przebaczający i pomijają okazjonalne niewywiązanie się z przyrzeczeń. Jeśli jednak spodziewasz się wywrzeć na innych trwałe wrażenie, musisz dorastać do swoich obietnic.<br>Uczyń swym zwyczajem wykazywanie zdolności, zanim zaczniesz o nich mówić. Rzadko osiąga się coś cennego i wartościowego bez pomocy innych, a nigdy nie da się niczego dokonać bez jakiejś formy działania. Droga do klęski i rozpaczy jest wyłożona marzeniami tych, którzy nie dążyli do ich urzeczywistnienia.'
         }, {
             day: 2,
-            motto: '',
-            description: ''
+            motto: 'uznaj dzień za stracony, jeśli zachodzące słońce zastanie cię bez dobrego uczynku',
+            description: 'Wśród tych, którzy pomagają innym, dobrze wiadomo, że oddawanie komuś przysługi przynosi korzyść dawcy w równym stopniu - jeśli nie większym - co przyjmującemu. Kiedy robisz dla inych coś dobrgo, sam sajesz się lepszą osobą. Pozytywny skutek twego dobrego czyny będzie trwał długo po tym, jak obdarzony o nim zapomni. Dobre czyny nie muszą być wielkie ani kosztowne. Największymi z darów są podarunki z twego czasu i ciebie. Miłe słowo czy drobna uprzejmość będą długo pamiętane i doceniane.'
         }, {
             day: 3,
-            motto: '',
-            description: ''
+            motto: 'gdy znajdziesz się w niebie nie będą się liczyć medale i tytuły, aleczyny, jakich w życiu dokonałeś',
+            description: 'Fundamentalną zasadą chrześcijańswa, a także wielu innych religii jest to, że w życiu pozagrobowym jedyną miarą sukcesu będzie fakt, w jaki sposób pzeżyłeś swe życie, anie - ile pienidzy nazbierałeś. Niezależnie więc od wyzwania dobrą zasadę postępowania stanowi takie spędzanie życia, aby u jego kresu móc odczuwać dumę z tego, że miało się wpływ na życie tych, którzy byli obok.<br>Łatwo jest w pędzie codziennego bytowania stracić z oczu prawdziwe bogactwa życia, sprawy, które naprawdę się liczą. Psycholog, Ilona Tobin, definiuje prawdziwy sukces jako: "dawanie i przyjmowanie miłości, posiadanie zdrowia fizycznego i umysłowego, wystarczającego bogactwa, by mieć wyboru i czasu, aby się tym wszystkim cieszyć". Jakąkolwiek masz swoją definicję sukcesu, upewnij się, że mieści się w niej zdrowa miara rzeczy naprawdę ważnych w życiu.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'jedynym bezpiecznym sposobem chwalenia się są konstruktywne czyny',
+            description: 'Podobno nie jest przechwalaniem się mówienie o tym, co rzeczywiście potrafisz zrobić. Może to i prawda, jednak dużo bardziej przekonującym argumentem byłoby najpierw zrobić, a potem o tym mówić. Poza tym dobre słowa wypowiadane o tobie mają dużo większy ciężar gatunkowy, jeśli padają z ust kogoś innego niż ty sam. Kiedy zauważasz, że kkusi cię, by zapłonąć elokwencją na temat własnych dokonań, zmuś się do chwili przerwy, wzięcia głębokiego oddechu i... zapytania kogoś innego o jego własne osiągnięcia.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'kiedy zapędzasz się w mówienie o tym, co chcesz osiągnąć, przestań gadać i zacznij wyrażać to czynami',
+            description: 'Przekonanie samego siebie o tym, że potrafisz coś zrobić, stanowi dobry początek. Potem opracuj mądry plan i przystąp do działania. Im dłużej zwlekasz, tym trudniej będzie zacząć.<br>Rzadko jakiś plan jest od razu doskonały. Jeśli posiadasz wyraźną wizję swego celu i plan wystarczająco elastyczny, by pozwalał na radzenie sobie z niespodziewanymi przeszkodami albo korzystanie z nieprzewidzianych okazji, to nie zwlekaj ani chwili. Samo rozpoczęcie działania - nawet jeśli później musisz dokonywać korekt - pomoże skupić twój umysł i ukierunkować energię w stronę celu.'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'to czyny, a nie słowa są najlepszymi sposobami chwalenia siebie',
+            description: 'W niektórych sytuacjach możesz być proszony o wystąpienie, możesz rywalizować o stanowisko czy kontrakt i będziesz musiał mówić o swoich osiągnięciach. Naturalnie chciałbyś wypaść jak najlepiej. Upewnij się jednak, że jesteś naprawdę przekonany, iż uczciwe badanie potwierdzi to, co mówisz o sobie.<br>Jeżeli twoje czyny są mądre i odpowiedzialne,wykażą to twoje kartoteki. Liderzy w dowolnej instytucji to ci, którzy mówią: "Ruszmy się. Zróbmy coś, zamiast czekaś i przyglądać się, co się stanie". Kiedy twoje dotychczasowe działania świadczą o tym, że jesteś osobą, która przyjmuje odpowiedzialność i wskazuje innym drogę, twoja kariera i relacje z ludźmi odpowiednio na tym skorzystają'
         }, {
             day: 7,
             motto: '',
