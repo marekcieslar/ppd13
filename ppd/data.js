@@ -528,32 +528,32 @@ let plan = {
             description: 'W niektórych sytuacjach możesz być proszony o wystąpienie, możesz rywalizować o stanowisko czy kontrakt i będziesz musiał mówić o swoich osiągnięciach. Naturalnie chciałbyś wypaść jak najlepiej. Upewnij się jednak, że jesteś naprawdę przekonany, iż uczciwe badanie potwierdzi to, co mówisz o sobie.<br>Jeżeli twoje czyny są mądre i odpowiedzialne,wykażą to twoje kartoteki. Liderzy w dowolnej instytucji to ci, którzy mówią: "Ruszmy się. Zróbmy coś, zamiast czekaś i przyglądać się, co się stanie". Kiedy twoje dotychczasowe działania świadczą o tym, że jesteś osobą, która przyjmuje odpowiedzialność i wskazuje innym drogę, twoja kariera i relacje z ludźmi odpowiednio na tym skorzystają'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'wartość czynów zalezy od stopnia odwagi, jakiej wymagają',
+            description: 'zwykli ludzie robiący niezwykłe rzeczy dla innych to ci, których później nazywa się bohaterami. Pytani, dlaczego postąpili tak a nie inaczej, często mówią: "Każdy zrobiłby to samo na moim miejscu". W tej sposób stwierdzają, że wszyscy posiadamy predyspozycje do wielkości. Często dopiero podlegając cięzkiej próbie, wznosimy się poziomu, jakiego wymaga sytuacja i demonstrujemy najwyższe stopnie kompetencji.<br>Ta sama zasada, która odnosi się do osiągania sukcesu w dowolnej dziedzinie, dotyczy też opstęowania w niezwykłych okolicznościach: realizuje się to poprzez siłę nawyku. Jeżeli ćwiczysz podejmowanie odpowiedniego działania nawet wtedy, gdy wydaje się to nieistotne i mało znaczące, zrobisz także co trzeba - bez zastanawiania się - w sytuacjach ważnych. Jeśli pozwolisz by twoje czyny mówiły za ciebie, nigdy nie bedziesz musiał troszczyć się o to, by inni uznali twoje zasługi.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'jeśli naprawdę jesteś bardziej inteligentny niż inni, okaż to za pomocą swoich czynów',
+            description: 'Naturalną ludzką reakcją jest pragnienie poprawiania innych, kiedy się widzi, że popełniają błędy lub robią coś inaczej, niż my byśmy to zrobili. Znacznie trudniej jest kontrolować odruch pokazania im, o ile bardziej jesteśmy od nich inteligentni. Umiejętność rozpoznawania i kontrolowania takich impulsów stanowi początek mądrości. Mądra osoba wie, że kiedy demonstruje inteligencję poprzez podejmowanie działania, inni korzystają z o wiele cenniejszej i bardziej trwałej lekcji.<br>Jeśli widzisz, że ktoś mógłby skorzystać z twojej rady, możesz delikatnie skierować go ku bardziej właściwemu wnioskowi poprzez zadawanie otwartych, nie osądzających pytań, bez udzielania odpowiedzi na nie. Pozwól innym odnaleźć słabe punkty w ich własnym mysleniu, prowadząc ich zgodnie z logicznym tokiem rozumowania. Ralph Waldo Emerson powiedział kiedyś: "Tajemnica nauczania leży w respektowaniu ucznia".'
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'najbezpieczniejszym i najlepszym sposobem ukarania tego, kto potraktował cię niesprawiedliwie, jest odwzajemnić się dobrym czynem',
+            description: 'Ludzie mają skłonność do odwzajemniania się, przekraczając nawet to, czego sami doświadczyli. Ta powszechna potrzeba odpłaty może zostać zastąpiona reakcją skierowaną ku przemianie wroga w przyjaciela. Jeśli pozbędziesz się dumy, będziesz mógł zareagować dobrym czynem na niesprawiedliwość. Wykonanie tego zadania może wymagać sporo czasu, jednak jeżeli traktujesz tych, którzy ciebie nie lubią, z niezawodną uprzejmością, w końcu ulegną wpływowi i odpowiedzą ci tym samym. Napoleon Hill powiedział: "Najbardziej rozżarzone węgle, jakie mogą posypać się na głowę tego, kto cię skrzywdzi, to węgle ludzkiej uprzejmości"'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'nie marnuj słów dla człowieka, który cię nie lubi, wieksze wrażenie zrobią na nim twoje czyny',
+            description: 'Niektórzy ludzie sądzą, że potrafią "Wygadać" wyjście z każdej sytuacji i czasem im się to udaje. Jeżeli jednak ktoś naprawdę cię nie lubi, czy to z powodu zwykłego nieporozumienia czy też błędu oceny, szczególnie trudno będzie go przekonać za pomocą słów. Emocje zawsze staną na przeszkodzie zdolności logicznego i rozsądnego myślenia. Tymczasem konsekwentne działania przez dłuższy czas zazwyczaj przekonają nawet najbardziej zatwardziałego sceptyka. Jeśli nieustannie demonstrujesz, że jesteś osobą wspaniałomyślną, uprzejmą i troskliwą, to nawet twoim wrogom trudno będzie cię nie lubić. W każdym razie staniesz się kimś lepszym dzięki podjęciu tego wysiłku.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'wszelkimi sposobami mów światu, jak jesteś dobry, ale...',
+            description: 'Powinieneś pozwolić innym poznać swoje osiągnięcia, z zachowaniem jednak nastepujących zastrzeżeń: zrób to najpierw za pomocą czynów i upewnij się, że dzielisz uznanie z innymi, którzy ci pomogli po drodze. Fundamentalna zasada przywództwa, która nie zmieniła się od wieków brzmi: dziel zasługi z powodu sukcesu wraz z innymi, ale przyjmuj na siebie winę za porażkę.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'jeżeli sądzisz, że samymi pieniędzmi da się kupić drogę do niega, to możesz pożałować, iż po drodze nie zamieniłeś ich na dobre czyny',
+            description: 'Gdybyś wskutej jakiejś straszliwej, nieprzewidzianej tragedii umarł już jutro, to jak brzmiałoby twoje epitafium? Co inni pamiętaliby o tobie? W ostatecznym rachunku będziesz pamiętany za dobre czyny, a nie za pieniądze, jakie zebrałeś w ciągu życia. Twoje bogactwo może oznaczać niewiele więcej ponad przyczynę niezgody wśród spadkobierców, ale dobre czyny będą wspominane długo po twoim odejściu. Gromadząc majątek, przeznaczaj część pieniędzy i czasu na cele, przynoszące korzyść tym, którym się mniej poszczęściło niż tobie.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'oferuj wyniki, nie wymówki',
+            description: 'Istnieje wielu ludzi składających - może w najlepszej intencji - przyrzeczenia, których jakoś nigdy nie udaje im się dotrzymać. Zazwyczaj wysuwają tysiące doskonale prawdopodobnych wyjaśnień niewypełnienia swych zobowiązań. Stają się mistrzami w tłumaczeniu swych porażek. Jednak ludzie sukcesu przyjmują odpowiedzialność za swoje życie. Wiedzą, że mówienie nic nie kosztuje - to czyny się liczą.<br>Świat czeka na mężczyzn i kobiety szukających sposobności wyświadczania prawdziwych przysług -  takich, które ulżą obciążeniom sąsiadów, takich, których 95 procent ludzi nie wiświadcza, pownieważ ich nie rozumie. Kiedy zapewniasz prawdziwie użyteczną usługę, entuzjastycznie i w duchu prawdziwej chęci pomocy, sukces przybliży się automatycznie. Świat poszukuje takich ludzi i odpowiednio ich nagradza.'
         }, {
             day: 14,
             motto: '',
