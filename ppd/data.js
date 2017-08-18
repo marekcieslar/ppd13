@@ -556,32 +556,32 @@ let plan = {
             description: 'Istnieje wielu ludzi składających - może w najlepszej intencji - przyrzeczenia, których jakoś nigdy nie udaje im się dotrzymać. Zazwyczaj wysuwają tysiące doskonale prawdopodobnych wyjaśnień niewypełnienia swych zobowiązań. Stają się mistrzami w tłumaczeniu swych porażek. Jednak ludzie sukcesu przyjmują odpowiedzialność za swoje życie. Wiedzą, że mówienie nic nie kosztuje - to czyny się liczą.<br>Świat czeka na mężczyzn i kobiety szukających sposobności wyświadczania prawdziwych przysług -  takich, które ulżą obciążeniom sąsiadów, takich, których 95 procent ludzi nie wiświadcza, pownieważ ich nie rozumie. Kiedy zapewniasz prawdziwie użyteczną usługę, entuzjastycznie i w duchu prawdziwej chęci pomocy, sukces przybliży się automatycznie. Świat poszukuje takich ludzi i odpowiednio ich nagradza.'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'nie epitafium na nagrobku, ale zapis twoich czynów może uczynic twe imię nieśmiertelnym',
+            description: 'Alfred Nobel miał sposobność daną tylko nielicznym. Kiedy umarł mu brat, prasa ich pomyliła i opublikowała jego nekrolog zamiast nekrologu brata. Czytając własny nekrolog. Alfred zdał sobie sprawę z tego, że świat zapamięta go jako wynalazcę dynamitu - narzędzia zniszczenia. Zainspirowany tym doświadczeniem postanowił ufundować nagrodę, nazwaną Nagrodą Nobla. Dzisiaj większość świata zna jego imię w kontekście największych osiągnięć ludzkości.<br>Dobre czyny żyją w umysłach innych. Kiedy wyświadczasz komuś przysługę, pobbudzasz siłę dobra, która pozostanie na długo po twoim odejściu.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'świat nie przypnie ci medalu z powodu tego, co wiesz, lecz może ukoronować cię sławą i bogactwem za to, co robisz',
+            description: 'Wiedza to istotny składnik sukcesu w każdej dziedzinie. Dokonanie czegoś wartościowego wymaga często długich lat nauki. Jednak sama wiedza nie ma mocy. Nabiera jej jedynie wtedy, gdy poprzez pozytywne działanie zostanje zastosowana.<br>Badanie kolejnych biografii ludzi sukcesu wyjawia, że wszyscy oni wyraźnie skłaniają się w kierunku działania. Gromadzą odpowiednie fakty, odnoszą je do swojej wiedzy na dany temat, opracowują plan wdrożenia, a potem biorą się do działania. W razie wątpliwości - lepiej jest działać zbyt wcześnie niż za późno.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'wiara jest połączeniem myśli i czynów',
+            description: 'Kiedy wprowadzasz w czyn swą wiarę w siebie, drugiego człowieka i w Boga, to wynikiem jest pozytywny tok działania, który przy wytrwałym podążaniu za nim prawie zawsze prowadzi do sukcesu. Kiedywierzysz w swoje pomysły i zdolności oraz ufasz Bogu o nieskończonej inteligencji, wiesz, że twoje myśli i dzieła doprowadzą ostatecznie do pomyślnego rozwiązania. Nie możesz zawieść.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'jeżeli doceniasz uprzejmość okazana ci przez innych, wyraź to nie tylko słowami, ale i czynami',
+            description: 'Ludzie, którzy cieszą się największym sukcesem finansowym i osobistym to ci, którzy budują trwałe związki z drugimi - kolegami w biznesie, przyjaciółmi, współpracownikami, sasiadami. Poświęcają czas i uwagę, by utrzymywać kontakt i pilnują, by odpłacać tym samym za wyświadczone im dobre czyny. Buduj swą sieć przyjaciół osobistych i zawodowych poprzez przejmowanie inicjatywy i stawanie się przyjacielem dla innych.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'wszystko, co tworzysz lu osiągasz, zaczyna się jako pragnienie',
+            description: 'Aby działać, musisz mieć cel. Jeśli chcesz działać pomyślnie w najbardziej nawet monotonnych czy nużących sprawach, powinieneś objąć ten ces płonącym pragnieniem. Wielu ludzi uważa, że chce odnosić sukces, jednak ze względu na to, iż nie wspierają tej myśli intensywnym napędem, nigdy nie sięgają po sukces.<br> Pielęgnuj swoje pragnienie. Karm je swoimi myślami, ciesząc się tym wszystkim, czego poszukujesz. Przypomina to palenie w piecu maszyny parowej. Musisz wytworzyć odpowiednie ciśnienie, by przenieść się za wzgórza. Jeżeli twoje pragnienie nie płonie wystarczająco mocno, to może się okazać, że zatrzymasz się i potoczysz wstecz. Tajemnicą działania jest gorące, rozżarzone do czerowności pragnienie.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'właściwy rodzaj czynów nie wymaga pięknych słów',
+            description: 'Do najczęstszych błędów nalezy znajdowanie wymówek usprawiedliwiajacych brak powodzenia. Niestety ogromna większość ludzi na świecie - tych, którym się nie powiodło - znajduje wymówki. Próbują wyjaśnić swoje działanie lub brak działania za pomocą słów. Kiedy odnosisz sukces, przyjmij z wdzięcznością gratulacje innych. Gdy zawodzisz, weś na siebie odpowiedzialność za czyny, ucz się na błędach i przejdź do bardziej konstruktywnych spraw. Kiedy w każdych okolicznościach twoje działania są właściwe, nigdy nie będziesz musiał tłumaczyć ich za pomocą słów. Twoje czyny powiedzą wszystko, co potrzeba.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'przyglądaj się temu, kto jest na przed tobą, aż dowiesz się, dlaczego jest na czele - potem naśladuj go',
+            description: 'Do najpewniejszych sposobów sięgania po zwycięstwo należy obserwowanie działań ludzi sukcesu, po to by poznać, jakie zasady regularnie stosują, a potem by wykorzystać je samemu. Jak powiedział Andrew Carnegie, multimilioner, filantrop i autor poczytnych książek motywacyjnych, zasady sukcesu są konkretne, prawdziwe i może się ich nauczyć każdy, kto chce poświęcić czas na ich przyswojenie i stosowanie. Jeśli dobrze się przyjrzysz, to przekonasz się, że możesz się czegoś nauczyć od każdego niemal, kogo spotykasz. Niekoniecznie musisz tę osobę znać. Możesz wybrać sławne postaci, które już nie zyją. Ważne jest, by poznawać ich drogę życiową, uczyć się, a potem stosować we własnym życiu konkretne zasady, jakie ci ludzie wykorzystywali, aby stać się wielkimi.'
         }, {
             day: 21,
             motto: '',
