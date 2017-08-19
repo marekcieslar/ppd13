@@ -584,24 +584,24 @@ let plan = {
             description: 'Do najpewniejszych sposobów sięgania po zwycięstwo należy obserwowanie działań ludzi sukcesu, po to by poznać, jakie zasady regularnie stosują, a potem by wykorzystać je samemu. Jak powiedział Andrew Carnegie, multimilioner, filantrop i autor poczytnych książek motywacyjnych, zasady sukcesu są konkretne, prawdziwe i może się ich nauczyć każdy, kto chce poświęcić czas na ich przyswojenie i stosowanie. Jeśli dobrze się przyjrzysz, to przekonasz się, że możesz się czegoś nauczyć od każdego niemal, kogo spotykasz. Niekoniecznie musisz tę osobę znać. Możesz wybrać sławne postaci, które już nie zyją. Ważne jest, by poznawać ich drogę życiową, uczyć się, a potem stosować we własnym życiu konkretne zasady, jakie ci ludzie wykorzystywali, aby stać się wielkimi.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'jeżeli chcesz, by praca została wykonana szybko i dobrze, powierz ją osobie zajętej; ktoś bezczynny zna zbyt wiele substytutów i skrótów',
+            description: 'Większość z nas nigdy nie poznaje swych rzeczywistych możliwości dokonań, ponieważ na co dzień nie pobudza siebie do działania na pełnych obrotach. Ten truizm staje się oczywisty, kiedy stajesz wobec sposobności, która naprawdę cię interesuje. Niezależnie od tego, jak bardzo możesz być zajęty, zawsze znajdziesz czas, aby pójść za nią. I odwrotnie, obowiązki, które słabo na ciebie oddziałują, z łatwością odkładasz i w końcu o nich zapominasz.<br>Zajęci ludzie nie są odwlekaczami. Wiedzą to, co kiedys zauważył John David Wright: "Życie przypomina jazdę na rowerze. Albo cały czas jedziesz, albo upadasz". Najbardziej wydajni ludzie mają poczucie pilności. Wyznaczają terminy końcowe i zmuszają się do ustalania priorytetów. Nawet jeśli twoje działania nie wymagają ścisłych terminów, ustal je dla siebie. Będziesz zaskoczony tym, o ile więcej potrafisz zrobić w krótkim czasie - jeżeli to jest cały czas, jaki posiadasz.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'nie należy liczyć na to, że człowiek, który znając wszystkie potrzebne fakty nie dochodzi szybko do decyzji, po podjęciu jej będzie ją realizował',
+            description: 'Dla większości problemów życia nie ma jednej dobrej odpowiedzi, lecz nieskończona liczba właściwych rozwiązań. Zazwyczaj istnieje wiele różnorodnych możliwości wyboru. Trudność leży w wybraniu spośród wielu najlepszej alternatywy, w rozsądnych ramach czasowych. Jeżeli przyłożysz się do szybkiego podejmowania drobnych decyzji, uznasz decyzyjność za znacznie łatwiejszą także przy dużo większym kalibrze spraw. Co ważniejsze, podejmowanie decyzji i zgodne z nimi działanie okaże się o wiele prostrze, jeżeli działasz szybko.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'jednostka, która podejmuje tylko tyle pracy, by jakoś przetrwać, rzadko zyskuje więcej niż samo przetrwanie',
+            description: 'Pomiędzy twoimi czynami i przypadającymi ci nagrodami istnieje zależność przyczynowo-skutkowa. Kiedy wnosisz więcej w swą karierę, relacje osobiste, wiarę religijną, czy każdy inny aspekt życia, więcej otrzymujesz z powrotem. Jeżeli masz ambicje wysze niż samo przebrnięcie przez życie, to nigdy nie bedziesz naprawdę zadowolony z firmy, pracy, z siebie, o ile każdego dnia nie dasz z siebie wszystkiego, co możesz. Powinieneś być dla siebie najbardziej surowym krytykiem i najtwardszym przeciwnikiem.'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'dobre intencje są bezużyteczne, dopóki nie wyrażą się w odpowiednim działaniu',
+            description: 'Dobre intencje mogą stanowić odpowiedni punkt wyjścia do osiągnięć, ale nie zaprowadzą do nikąd, jeśli nie poprzesz ich działaniem. Wielu ludzi myli intencje z osiągnięciami; przecież sam pomysł jest najważniejszy - rozumują. W rzeczywistości, najbardziej przeciętna idea, za którą postępują czyny, jest warta znacznie wiecej niż przebłysk geniuszu ustniejący wyłącznie w czyimś umysle. Kształtowanie nawyku działania może na początku być trudne, ale im więcej ćwiczysz, tym staje się to łatwiejsze.'
         }, {
             day: 25,
-            motto: '',
-            description: ''
+            motto: 'by być chrześcijaninem, trzeba czegoś więcej niż umieszczenia nazwiska na liście członków jakiegoś kościoła',
+            description: 'Chrześcijaństwo nie jest religią pasywną; to aktywne wdrażanie własnych przekonań. Samo rozumienie podstawowych dogmatów wiary nie wystarcza. Być chrześcijaninem oznacza stosować zasady swej religii w praktyce dnia codziennego, podejmować pozytywne działania dla poprawy swego charakteru oraz zachowywać się uprzejmie i wspaniałomyślnie w stosunku do innych. Biblia obfituje we wskazówki, jak wieść dobre i przyzwoite życie, i wszystkie one obejmują konstruktywne działania ze stronywierzących.<br>W każdym z aspekcie zycia możesz zdecydować, czy być obserwatorem czy aktywnym uczestnikiem. Wiele można się nauczyć poprzez obserwację, jednak przyjdzie czas, kiedy zostaniesz oceniony za własny wkład, nie tylko za to, czego się nauczyłeś przyglądając się innym. Ta sama zasada obowiązue w twoim życiu religijnym, osobistym i zawodowym. W ostatecznym rozrachunku nie bedziesz oceniany za głębokość przekonań, lecz za czyny podjęte z ich powodu.'
         }, {
             day: 26,
             motto: '',
