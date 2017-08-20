@@ -604,28 +604,28 @@ let plan = {
             description: 'Chrześcijaństwo nie jest religią pasywną; to aktywne wdrażanie własnych przekonań. Samo rozumienie podstawowych dogmatów wiary nie wystarcza. Być chrześcijaninem oznacza stosować zasady swej religii w praktyce dnia codziennego, podejmować pozytywne działania dla poprawy swego charakteru oraz zachowywać się uprzejmie i wspaniałomyślnie w stosunku do innych. Biblia obfituje we wskazówki, jak wieść dobre i przyzwoite życie, i wszystkie one obejmują konstruktywne działania ze stronywierzących.<br>W każdym z aspekcie zycia możesz zdecydować, czy być obserwatorem czy aktywnym uczestnikiem. Wiele można się nauczyć poprzez obserwację, jednak przyjdzie czas, kiedy zostaniesz oceniony za własny wkład, nie tylko za to, czego się nauczyłeś przyglądając się innym. Ta sama zasada obowiązue w twoim życiu religijnym, osobistym i zawodowym. W ostatecznym rozrachunku nie bedziesz oceniany za głębokość przekonań, lecz za czyny podjęte z ich powodu.'
         }, {
             day: 26,
-            motto: '',
-            description: ''
+            motto: 'pamiętaj, że latawiec lata pod wiatr, a nie z wiatrem',
+            description: 'Na samym początku ważne jest uznanie faktu, że sukces nie przychodzi łatwo. Zdobywcy - podobnie do latawca walczącego przeciw wichrowi - wznoszą się na imopnujące wysokości, mocno zakotwiczeni w filozofii sukcesu, utrzymującej ich na kursie bez względu na trudności, jakich doznają po drodze.<br>Upewnij się, że uczepiłeś się właściwej filozofii, która podtrzyma cię niezależnie od przeciwności, jakie z pewnością spotkasz w swym dążeniu do sukcesu. Kiedy wiesz, kim jesteś, kiedy masz określone cele i plan ich zdobycia, możesz być targany przez wichry okoliczności, lecz nigdy nie zdmuchną cię one na stałe ze szlaku. Im śilniejszy wiatr, tym wyżej polecisz.'
         }, {
             day: 27,
-            motto: '',
-            description: ''
+            motto: 'najlepszym sposobem, by zmienić pracę, której nie lubisz, na bardziej ci odpowiadającą, jest wykonywać tę pierwszą tak dobrze, by ktoś zapragnął wykorzystać twe umiejętności w ważniejszym zajęciu',
+            description: 'W życiu możesz osiągnać znacznie więcej, jeśli przyzwyczaisz się wykonywać jako pierwsze zadania, które lubisz najmniej. Kiedy dasz się poznać jako sumienny pracownik, który chętnie wita trudne zadania, w sposób nieunikniony będzie ci się w firmie powierzać coraz większą i większą odpowiedzialność. Gdy zaczniesz od zadań najtrudniejszych, wykorzystasz największy poziom energii, jaki masz na początku dnia. Potem możesz na luzie zająć się bardziej rutynowymi działaniami. Ponadto, mając za sobą wcześniej wykonaną ważną pracę, lepiej sobie poradzisz z niespodziewanymi przeszkodami czy przerwami w ciągu dnia.'
         }, {
             day: 28,
-            motto: '',
-            description: ''
+            motto: 'nigdy nie zwracaj uwagi na to, czego nie zrobili inni; liczy się to co ty robisz',
+            description: 'Jeśli w swoim dążeniu do sukcesu polegasz na innych, jesteś skazany na życie klęski i rozpaczy. To oczywiście smutne, że niewielu ludzi wytrwale spełnia to, co obiecuje. Zamiast jednak lamentować nad tym, co ktoś inny powinien był zrobić, by ci pomóc, skup się na tym, co sam możesz zrobić, by pomóc sobie. Najlepszym planem działania jest ten, który zapewnia potencjalne korzyści także dla innych, jeśli pragną przyłączyć się do pracy w kierunku osiągnięcia twoich celów, lecz który nie zależ od tych ludzie, jeśli chodzi o ostateczny sukces.'
         }, {
             day: 29,
-            motto: '',
-            description: ''
+            motto: 'życie mówi: rób dobrze albo ustąp miejsca, ale nie szukaj wymówek',
+            description: 'W dzisiejszym języku przywództwa to powiedzenie brzmi: "Prowadź, nadążaj albo zejdź z drogi". Kiedy aktywnie pracujemy w kierunku jakiegoś celu, nie ma porażek; są tylko różne stopnie sukcesu.<br>Zdecyduj się być przywódcą. Przejmij inicjatywę. Kiedy mierzysz się z problemem lub trudną decyzją, nie marnuj niekończących się godzin, męcząc się nad rozwiązaniem. Jeśli obiektywnie przeanalizujesz sytuację, zawszse znajdziesz odpowiedź. Nie skupiaj się na problemie - skoncentruj się na rozwiązaniu. Weź się do działania. W. Clement Stone mówił często: "Emocje nie zawsze poddają się rozsądkowi, ale zawsze poddają się działaniu".'
         }, {
             day: 30,
-            motto: '',
-            description: ''
+            motto: 'świat staje z boku i ustęmuje miejsca temu, kto wie, dokąd ma iść i jest w drodze',
+            description: 'Kiedy masz wizję tego, co pragniesz osiągnać w swym życiu, inni nie tylko ustąpią ci drogi, lecz mogą również przyłączyć się do ciebie. Instynktownie rozpoznają twój entuzjazm i smak życia. Kiedy zaczniesz mówić o pasji obecnej w twoim życiu, o konkretnym, głównym celu, zobaczą intensywność twego pragnienia i albo odpowiedzą zachętą i pomocą, albo staną z boku. Dla wszystkich, którzy cię znają, oczywiste będzie to, że ci się powiedzie.'
         }, {
             day: 31,
-            motto: '',
-            description: ''
+            motto: 'to pewne, że nie skończysz, jeżeli nie zaczniez',
+            description: 'Starożytne przysłowie mówi: "Podróż tysiąckilometrowa zaczyna się od pojedynczego kroku". Zapewne znasz ludzi, którzy zbliżając się do końca swej ziemskiej podróży, odwracają się wstecz i mówią: "Gdybym tylko zrobił tamto inaczej... Gdybym tylko skorzystał z tamtej okazji, kiedy się pojawiła". Niespełnione życie jest wypełnione rozmaitymi <i>gdybym tylko</i>. Te słowa to refren nieśmiałych dusz, których życie skończyło się, zanim je naprawdę rozpoczęły.<br>Życie obfituje w wiele sposobności - wielkich sukcesów i spektakularnych klęsk. Do ciebie należy przejęcie inicjatywy, wykorzystanie okazji, jakie pojawiają się na twej drodze. Będziesz skazany na życie w przeciętności - jeśli nei weźmiesz się do działania. Nie zwlekaj. Zrób to teraz!'
         }]
     }, {
         name: 'czerwiec',
