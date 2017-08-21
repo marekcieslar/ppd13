@@ -644,8 +644,8 @@ let plan = {
             description: 'Okazje nigdy nie są tak zwyczajnie wręczane przez los; muszą zostać wykreowane. Dla wszystkich ludzi dowolny okres życia obfituje w okazje. Mogą się one nie mieścić w kręgu twych preferencji, ale każda wykorzystana sposobność prowadzi do większych i lepszych okazji. Ułomności fizyczne czy umysłowe mogą wymagać badania tetytorium nieznanego dla innych, jednak równocześnie oznacza to, że posiadasz sposobności, których pozostali nigdy nie odnajdą. Pomyśl o błyskotliwej rozprawie Stephena Hawkinga na temat natury wszechświata, mimo faktu że paraliż uniemożliwia mu pisanie i mówienie w takiej postaci, jaką my znamy.<br>Ci, którzy podchodzą do swojej pracy i kariery z entuzjazmem, zawsze znajdują mnóstwo okazji, podczas gdy ci, którzy narzekają, że nikt nie dał im nigdy szansy, są zaledwie obserwatorami życia. Kiedy postanowisz, że nie dasz nikomu decydować za ciebie o twojej przyszłości, kiedy odmawiasz chwilowym niepowodzeniom prawa do pokonania cię, twoim przeznaczeniem staje się wielki sukces. Sposobności będą na ciebie czekać.'
         }, {
             day: 4,
-            motto: '',
-            description: ''
+            motto: 'jeśli wykonanie jakiegoś zadania nie nalezy do twoich obowiązków, to być może stanowi ono okazję',
+            description: 'Ktoś zauważył kiedyś, że często nie rozpoznajemy okazji, ponieważ pojawiają się one w przebraniu problemów. Kiedy klient, kolega czy twój szef mają jakiś problem, może to stwarzać cenną sposobność dla ciebie. Dla osoby, której ten kłopot dotyczy, nie ma znaczenia struktura firmy ani to, czyim obowiązkiem jest rozwikłanie problemu; chce ona tylko, aby sytuacja znalazła rozwiązanie.<br>Następnym razem, kiedy klient, kolega czy twój szef poproszą o pomoc w czymś, co leży poza obszarem twojej odpowiedzialności, zamiast przekazywać sprawę komuś innemu, zaproponuj swoją pomoc. Popatrz na sytuację z punktu widzenia tej drugiej osoby. Gdyby role się odwróciły, jak chciałbyś, żeby poradzono sobie z sytuacją? Podejmij inicjatywę, by znaleźć odpowiedź i czuwaj nad pontynuacją postępów w projekcie.'
         }, {
             day: 5,
             motto: '',
