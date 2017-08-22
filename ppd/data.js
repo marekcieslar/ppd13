@@ -648,24 +648,24 @@ let plan = {
             description: 'Ktoś zauważył kiedyś, że często nie rozpoznajemy okazji, ponieważ pojawiają się one w przebraniu problemów. Kiedy klient, kolega czy twój szef mają jakiś problem, może to stwarzać cenną sposobność dla ciebie. Dla osoby, której ten kłopot dotyczy, nie ma znaczenia struktura firmy ani to, czyim obowiązkiem jest rozwikłanie problemu; chce ona tylko, aby sytuacja znalazła rozwiązanie.<br>Następnym razem, kiedy klient, kolega czy twój szef poproszą o pomoc w czymś, co leży poza obszarem twojej odpowiedzialności, zamiast przekazywać sprawę komuś innemu, zaproponuj swoją pomoc. Popatrz na sytuację z punktu widzenia tej drugiej osoby. Gdyby role się odwróciły, jak chciałbyś, żeby poradzono sobie z sytuacją? Podejmij inicjatywę, by znaleźć odpowiedź i czuwaj nad pontynuacją postępów w projekcie.'
         }, {
             day: 5,
-            motto: '',
-            description: ''
+            motto: 'okazja często puka tylko po to, by przekonać się, że za drzwiami nie ma nikogo',
+            description: 'Świat wypełniony jest nieszczęsnymi duszami, które nie usłyszały pukania okazji do drzwi, ponieważ wyszły, by kupić los na loterii. Nigdy nie nauczyły się tego, co zauważył kiedyś Branch Rickey, menadżer drużyny Brooklyn Dodgers w latach 1943-1950: "Szczęście jest produktem pomysłu i sposobu jego realizacji". Zdziwisz się, jak zdynamizuje się twoje szczęście, kiedy dopilnujesz, by przygotować się do korzystania z okazji.<br>Jak wiele razy miałeś wspaniałą koncepcję, której nie wprowadziłeś w czyn, a potem dowiedziałeś się, że ktoś inny wykorzystał ten sam pomysł, by rozpocząć przedwięwzięcie, otrzymać awans, czy znaleźć lepszą pracę? Kiedy masz dobry pomysł, postanów od razu przejść do działania. Nie czekaj, aby coś się wydarzyło - spraw, by się stało!'
         }, {
             day: 6,
-            motto: '',
-            description: ''
+            motto: 'osoba zaradna zawsze sprawi, by okazja pasowała do jej potrzeb',
+            description: 'Zdolność rozpoznawania okazji to podstawowy element sukcesu, stanowi jednak tylko początek.Idea jest cenna jedynie wtedy, gdy może być zastosowana - przez ciebie. Ludzie wielkiego sukcesu wiedzą, że istnieje wiele sposobów wykorzystania sposobności. Oceniają ją i kształtują tak, by pasowała do ich możliwości i zdolności albo organizują zespół ludzi posiadających umiejętności konieczne do wykorzystania jej - cokolwiek potrzeba, by sprawić, że będzie działała. W biznesie rzadko się zdarza, by istniała tylko jedna właściwa odpowiedź. Często jest wiele dobrych rozwiązań.'
         }, {
             day: 7,
-            motto: '',
-            description: ''
+            motto: 'okazja nie traci wysiłku na szukanie osoby, któ©a marnuje czas na bezczynność lub destrukcyjne działania',
+            description: 'Okazje zdają się ciążyć w kierunku zajętych ludzi, którzy już i tak z trudem nadążają za tymi, które mają. Logicznie zdawałoby się, że okazje powinny podjąć wysiłek wyszukiwania jednostek mających mnótswo czasu, jednak zamias tego objawiają się tym, którzy mają cele i marzenia, oraz plan ich osiągnięcia. Często myślimy o okazji jak o żywej, ruszającej się rzeczy, czymś, co aktywnie szuka chętnego odbiorcy. W rzeczywistości prawda jest odwrotna. Okazje są pomysłami i koncepcjami, które istnieją wyłącznie w umysłach tych, co je rozpoznają. Kiedy nie masz celów ani planów, okazje nic dla ciebie nie znaczą. Stają się sposobnościami wyłącznie wtedy, gdy rozpoznajesz je jako idee, które możesz wdrożyć, by pomogły ci zmierzać w kierunku twego celu.'
         }, {
             day: 8,
-            motto: '',
-            description: ''
+            motto: 'okazja nie zainteresuje się tym, kto nie jest nią zainteresowany',
+            description: 'W wolnym i demokratycznym kraju liczba okazji rozmaitych dokonań jest właściwie niograniczona. W każdym przedsięwzięciu czy zawodzie istnieją niezliczone możliwości wynalezienia nowego produktu, poprawienia procesów produkcyjnych i administracyjnych, zaproponowania lepszej usługi niż konkurencja w sąsiedztwie. Jednak każda okazja wkrótce odpłynie, jeśli ktoś nie sięgnie po nią i nie wprowadzi jej w czyn.<br>Kiedykolwiek stajesz przed trudnym problemem, zatrzymaj się i zapytaj: "Jaka sposobność kryje się w tym problemie?" Kiedy ją znajdziesz, znacznie wyprzedzisz swoich konkurentów. '
         }, {
             day: 9,
-            motto: '',
-            description: ''
+            motto: 'tych, którzy nie sięgają po szansę, rzadko któraś niepokoi',
+            description: 'Sukces zawsze pociąga za sobą ryzyko. Trzeba sięgnąć po szansę inwestując swój cza, pieniądze i wysiłek. Warto być rozważnym i roztropnym przy analizowaniu okazji, nie pozwól jednak, by nieśmiałość cię powstrzymywała.<br>Skoro ciężko pracowałeś, aby zbudować to, czym musisz zaryzykować, naturalne jest, że przypisujesz tym rzeczom dużą wartość. Jaki jednak będziesz miał z nich pożytek, jeśli ich nie używasz? Rozpoznasz sposobność tylko na tyle, na ile zechcesz rozważyć zaryzykowanie własnego czasu, pieniędzy i wysiłku. Zachowanie pewności siebie daje ci odwagę do zmierzenia się z ryzykiem i działania, kiedy rodzi się okazja. Nikt nie zamierza przymuszać cię do sukcesu. Odnajdziesz go tylko w takim stopniu, w jakim aktywnie będziesz go poszukiwał.'
         }, {
             day: 10,
             motto: '',
