@@ -668,32 +668,32 @@ let plan = {
             description: 'Sukces zawsze pociąga za sobą ryzyko. Trzeba sięgnąć po szansę inwestując swój cza, pieniądze i wysiłek. Warto być rozważnym i roztropnym przy analizowaniu okazji, nie pozwól jednak, by nieśmiałość cię powstrzymywała.<br>Skoro ciężko pracowałeś, aby zbudować to, czym musisz zaryzykować, naturalne jest, że przypisujesz tym rzeczom dużą wartość. Jaki jednak będziesz miał z nich pożytek, jeśli ich nie używasz? Rozpoznasz sposobność tylko na tyle, na ile zechcesz rozważyć zaryzykowanie własnego czasu, pieniędzy i wysiłku. Zachowanie pewności siebie daje ci odwagę do zmierzenia się z ryzykiem i działania, kiedy rodzi się okazja. Nikt nie zamierza przymuszać cię do sukcesu. Odnajdziesz go tylko w takim stopniu, w jakim aktywnie będziesz go poszukiwał.'
         }, {
             day: 10,
-            motto: '',
-            description: ''
+            motto: 'okazja pozwala ci wsunąć nogę we wrota sukcesu, lecz nie wyłamuje dla ciebie drzwi',
+            description: 'Okazje nie są nieoczekiwanymi spadkami. Wygrana w Totolotka czyni cię natychmiast bogatym; napotkanie okazji oznacza, że musisz wziąć się do pracy. Kiedy dostroisz swój umysł do rozpoznawania okazji, zrozumiesz, że najczęściej wiążą się one z wykorzystaniem jakiegoś potencjału, takiego jak zapewnienie nowej lub lepszej usługi, usprawnienie produkcji czy zdobycie nowego rynku.<br>Właśnie dlatego nawyk inicjatywy jest tak ważny. Musisz być gotowy do działania od razu po rozpoznaniu okazji. Działaniem może być po prostu dalsze badanie albo dokonanie natychmiastowej sprzedaży. Jednak najczęściej sposobność wymaga czasu i wytrwałości, aby mogła się ukształtować.'
         }, {
             day: 11,
-            motto: '',
-            description: ''
+            motto: 'okazja nigdy nie czeka na tych, którzy nie mogą się zdecydować',
+            description: 'Ludzie sukcesu to ludzie zdolni do podejmowania decyzji. Kiedy okazje pojawiają się na ich drodze, starannie je oceniają, podejmują decyzje i rozpoczynają odpowiednią akcję. Wiedzą, że niezdecydowanie marnuje czas, który można by spożytkować na bardziej produktywne zadania. Unikają także nipotrzebnego ryzyka poprzez stopniowe wdrażanie swoich decyzji. Nie usiłują podjąć wszystkich decyzji od razu. Każde działanie jest uwarunkowane sukcesem poprzedzającego je.<br>Jeden z najmądrzejszych ludzi Ameryki, Benjamin Franklin, stosował podobno bardzo prostą metodę podejmowania trudnych decyzji. Wykorzystywał kartkę papieru przedzieloną linią z góry na dół na dwie części i po jednej stronie wypisywał wszystkie za, a po drugiej wszystkie przeciw tej decyzji. Poza uproszczeniem procesu podejmowania decyzji, lista służyła również jako graficzne przedstawienie zalet i wad dowolnego postanowienia, niezależnie od jego złożoności. W tej sposób można było łatwo i szybko ocenić skutki podjętej decyzji.'
         }, {
             day: 12,
-            motto: '',
-            description: ''
+            motto: 'Czy czekasz, by sukces przybył do ciebie, czy też wychodzisz, by sprawdzić, gdzie sie chowa?',
+            description: 'Jeśli wyczekujesz aż sukces cię odnajdzie, zmierzasz ku wielkiemu rozczarowaniu. Rzadko ktoś bywa zmuszany do sukcesu i nigdy nie obejmuje cię ona w sposób niespodziewany. Musisz przygotować się do niego i aktywnie go poszukiwać, jeśli w ogóle planujesz osiągnąć jakikolwiek poziom sukcesu w swym życiu. Bądź nieustannie czujny na zmiany w interesach czy zawodzie. Prenumeruj magazyny handlowe i profesjonalne czasopisma, przyłącz się do stowarzyszeń przemysłowych czy towarzystw zawodowych i poznaj ekspertów w twojej dziedzinie, aby dotrzymywać kroku najnowszym zdobyczom.'
         }, {
             day: 13,
-            motto: '',
-            description: ''
+            motto: 'niewiele można zrobić dla osoby, która nie próbuje zrobić czegoś dla siebie',
+            description: 'Jednym z kluczy do sukcesu jest osobista inicjatywa. Większość ludzi - w tym także ci, którzy odegrają kluczową rolę w tym, jaki poziom sukcesu osiągniesz - nie udzieli ci pełnej pomocy i wsparcia, jeśli pierwszy nie podejmiesz inicjatywy. Gdy zobaczysz, że coś powinno być zrobione, po prostu zrób to. Dave Thomas mówi: "iOdrobina inicjatywy poprawi twoje szczęście w ciągu każdych dziewięciu na dziesięć dni".'
         }, {
             day: 14,
-            motto: '',
-            description: ''
+            motto: 'Dobrze wykonane drobne zadanie to pierwszy krok do większego',
+            description: 'Sukces jest bardziej procesem niż wydarzeniem. Wielki sukces osiąga się po długim ciągu małych dokonań. Większość z nas zarabia na awanse raz na jakiś czas i wypracowuje drogię w górę poprzez poszczególne progi. Kiedy zaczynamy karierę, otrzymujemy zadania odpowiednie do naszych umiejętności i doświadczenia. W miarę jak udowadniamy swą wartość dla firmy, stopniowo powierza się nam większą odpowiedzialność i coraz trudniejsze projekty. Gdy przyjmuejsz obowiązki jednego stanowiska, tób to ze wzrokiem utkwionym w następnym. Każdego dnia wykonuj w swojej pracy wszystko absolutnie najlepiej jak potrafisz, ale zawsze myśl o przyszłości. Spoglądaj na każdy dzień jak na okazję nauczenia się czegoś, co uczyni cię bardziej wartościowym dla firmy czy instytucji tak, by kiedy przyjdzie pora na awans, twoje nazwisko było pierwszym, jakie przyjdzie szefowi do głowy.'
         }, {
             day: 15,
-            motto: '',
-            description: ''
+            motto: 'nie pytaj swego pracodawcy, dlaczego nie awansowałeś; zapytaj osobę, któ©a naprawdę wie to najlepiej - samego siebie',
+            description: 'Tylko jedna osoba odpowieada za przebieg twojej kariery i tą osobą jesteś ty sam. Mówi się, że Lee Iacocca spisał cały plan swej kariery na odwrocie wizytówki. Były na niej awanse, jakie się spodziewał wypracować i daty, kiedy ich oczekiwał - do chwili gdy zostanie dyrektorem firmy. Ludzie sukcesu wiedzą, że sami muszą tworzyć własne okazje i być gotowi, kiedy nadejdą.<br>Niektóre instytucje posiadają wyraźnie wyznaczone ścieżki kariery, podczas gdy inne są mniej formalne w podejściu. Ptrzyglądając się jednak ludziom na wyższych stanowiskach w przedsiębiorstwie, szybko możesz zidentyfikować rodzaj wykształcenia i doświadczenia, jakiego potrzebujesz, by awansować. Jeżeli jesteś związany z odpowiednią firmą, tą która cię pobudza i zachwyca, nazwij szczeble kariery, jakie chciałbyś pokonać i weź się do działania, by zdobyć kwalifikacje potrzebne w pracy, której pragniesz.'
         }, {
             day: 16,
-            motto: '',
-            description: ''
+            motto: 'właściewie na co czekasz i dlaczego?',
+            description: 'Stanowczo zbyt wiele osób spędza całe swoje życie czekając na ten wspaniały dzień, kiedy pojawi się przed nimi doskonała okazja. Zbyt późno dochodzą do wniosku, że każdy dzień niósł okazje dla tych, którzy ich szukali.<br>Jeżeli jeszcze nie sformułowałeś planu tego, co chciałbyś w życiu zdobyć, nie trać ani chwili dłużej. Kiedy masz wyrazistość celu zasilaną płonącym pragnieniem jego osiągnięcia, nic nie może stanąć ci na zawadzie. Nie snuj się wkoło czekająć, by życie ci się przydarzyło. Kiedy wiesz, czego chcesz i jak zamierzasz to zdobyć, życie przystanie na twoje warunki.'
         }, {
             day: 17,
             motto: '',
