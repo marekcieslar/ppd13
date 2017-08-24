@@ -696,36 +696,36 @@ let plan = {
             description: 'Stanowczo zbyt wiele osób spędza całe swoje życie czekając na ten wspaniały dzień, kiedy pojawi się przed nimi doskonała okazja. Zbyt późno dochodzą do wniosku, że każdy dzień niósł okazje dla tych, którzy ich szukali.<br>Jeżeli jeszcze nie sformułowałeś planu tego, co chciałbyś w życiu zdobyć, nie trać ani chwili dłużej. Kiedy masz wyrazistość celu zasilaną płonącym pragnieniem jego osiągnięcia, nic nie może stanąć ci na zawadzie. Nie snuj się wkoło czekająć, by życie ci się przydarzyło. Kiedy wiesz, czego chcesz i jak zamierzasz to zdobyć, życie przystanie na twoje warunki.'
         }, {
             day: 17,
-            motto: '',
-            description: ''
+            motto: 'żyj każdego dnia tak, jak gdyby miał być twoim ostatnim, a wykształcisz prawdziwy szacunek dla sposobności',
+            description: 'Gdybyś miał na  tej ziemi przeżyć jeszcze tylko jeden dzień, o ile bardziej wyczuline byłyby twoje zmysły. Piękno natury, proste radości życia zdawałyby się niewypowiedzianie cudowne, a każda chwila stanowiłaby okazję do spędzenia ważnego czasu z rodziną i umocnienia związków z przyjaciółmi, znajomymi i kolegami z pracy. Każda myśl miałaby ostrość lasera w tym wysoce skondensowanym stanie. A więc powiedz sobie: dzień dzisiejszy jest ostatnim dniem na ziemi dla dzisiejszych okazji. I nie pozwól, by cię ominęły.'
         }, {
             day: 18,
-            motto: '',
-            description: ''
+            motto: 'pech jest częst owynikiem źle wykorzystanego czasu',
+            description: 'Jedynym szczęśliwym trafem na tym świecie jest ten, jaki sam dla siebie stworzysz. Tylko w kasynie przewaga jest po stronie "banku". W prawdziwym życiu szanse zawsze faworyzują tych, któ©zy mądrze wykorzystują swój czas, by konstruktywnie podążać za swoimi celami i każdy dzień wypełniać pełną miarą uczciwej pracy. Pech przypada w udziale tym, którzy marnują czas i pieniądze oraz energię umysłową w nadziei wspaniałego punktu zwrotnego, który uskrzydli ich do wielkości. Wszyscy dysponujemy tymi samymi dwudziestoma czterema godzinami każdej doby. Większość z nas przeznacza osiem godzin na pracę i osiem na sen. To co robisz z pozostałymi ośmioma godzinami, będzie miało ogromny wpływ na poziom sukcesu, jaki osiągniesz w życiu.'
         }, {
             day: 19,
-            motto: '',
-            description: ''
+            motto: 'najciekawszą sprawą związaną ze znaczkiem pocztowym jest wytrwałość, z jaką przylepia się do swojej misji',
+            description: 'Maleńki, mało znaczący pocztowy znaczek jest dobrym przykładem na to, co można osiągnąć, jeżeli przylgnie się do pracy, dopóki nie zostanie zakończona. Przyklejony do rogu koperty, nie rzucając się w oczy, zapewnia energię kinetyczną całej przesyłce, dopóki ta nie dotrze do miejsca ostatecznego przeznaczenia. Wpływ, jaki możesz wywierać na swoją firmę, kościół, rodzinę czy dowolną instytucję jest nieobliczalny, jeśli posiadasz wytrwałość dążenia do celu, aż zostanie zdobyty. Nie ulega wątpliwości, że w każdym wartościowym przedsięwzięciu napotkasz przeszkody.<br>Kiedy tak się stanie, przypomnij sobie o małym, błachym znaczku pocztowym i przylgnij do swego zadania aż do chwili jego zakończenia.'
         }, {
             day: 20,
-            motto: '',
-            description: ''
+            motto: 'każdy może zrezygnować, kiedy życie staje sie ciężkie, jednak człowiek z klasą nigdy się nie poddaje, dopóki nie wygra',
+            description: 'Trudny jest marsz na drodze do wielkości. Gdyby sukces był łatwy, każdy mógłby go osiągnąć. Brian Holloway, liniowy ligi zawodowej NFL wspomina, że kiedy grał dla drużyn New England Patriots i Los Angeles Raiders nie było dnia, żeby nie myślał o rezygnacji, ponieważ droga wydawała się zbyt ciężka, a poświęcenia zbyt wielkie. Oczywiście, nie zrezygnował. Chciał zapłacić cenę, gdyż był zdecydowany odnieść sukces. Prawdziwi ludzie z klasą nigdy się nei poddają. Rywalizacja tylko ich zagrzewa, a przeszkody wzmacniają determinację, by odnieść sukces. Jeżeli jeszcze w swym życiu nei osiągnąłeś wielkości, to dlatego że chciałeś przystać na coś mniej. Możesz nie przekraczać linii mety jako pierwszy za każdym razem, gdy próbujesz, jednak jeżeli pozostaniesz w wyścigu, w końcu zwyciężysz.'
         }, {
             day: 21,
-            motto: '',
-            description: ''
+            motto: 'dla osoby, która nie przerywa walki, zwycięstwo jest zawsze możliwe',
+            description: 'Juliusz Cezar długo nosił się z myślą pokonania Brytyjczyków. Kiedy dopłynął do Wysp Brytyjskich, cicho wyładował zapasy, wysadził na ląd oddziały i wydał rozkaz spalenia okrętów. Potem zebrał swych żołnierzy i powiedział: "Teraz wygramy albo zginiemy. Nie mamy wyboru". Tym jednym rozkazem zagwarantował pomyślność kampanii. Wiedział, że ludzi, którzy nie mają innego wyjścia - albo nie przyjmą innego - zawszse wygrywają.<br>Jeśli znajdziesz się w sytuacji, w której zwycięstwo zdaje się niemożliwe, możesz przybliżyć się do swego celu opracowując alternatywny przebieg działania. Jeśli twój cel nie zyska na pełnym frontalnym ataku, spróbuj podejścia bocznego. Niewiele problemów w życiu nie ma rozwiązania, niewiele jest przeszkód, które ostatecznie nie ustąpią zdeterminowanej, zmotywowanej osobie, mającej plan wystarczająco elastyczny, by radzić sobie ze zmieniającymi się warunkami.'
         }, {
             day: 22,
-            motto: '',
-            description: ''
+            motto: 'natura powierza swe najgłębsze tajemnice tym, którzy są zdecydowani je odkryć',
+            description: 'Nauka może dostarczyć najlepszych przykładów tego, jak sukces zdaje się zawsze przychodzić do tych, którzy stosują zasadę ścisłego, logicznego myślenia w wytrwałym, zdeterminowanym wysiłku. Wielki wynalazca amerykański, Thomas A. Edison, zawiódł podobno dziesięć tysięcy razy w swoim isiłowaniu skonstruowania działającej żarówki elektrycznej. Na każdej swej porażce uczył się i nie chciał zrezygnować, dopóki mu się nie powiodło. Punkty zwrotne zdarzają się każdego dnia, ponieważ zdeterminowana osoba trwa w poszukiwaniu rozwiązań jakiegoś złożonego problemu na długo po tym, kiedy wszyscy inni poddali się i poszli do domu. Może nie wynajdziesz żarówki ani superkomputera, lecz możesz odkryć twórcze rozwiązania dla starych problemów, stosując pewne zasady sukcesu w sposób konsekwenty i wytrwały.'
         }, {
             day: 23,
-            motto: '',
-            description: ''
+            motto: 'zanim zaczniesz się zamartwiać o wyższe zarobki, spróbuj pomysleć, jak lepiej wykonać pracę, a może nie będziesz musiał sie martwić',
+            description: 'Kiedy poświęcasz swój czas i wysiłki, by wykonywać jak najlepiej każdą pracę, zamiast wysuwać argumenty, czemu winieneś otrzymywać wyższe wynagrodzenie, podwyżki pensji same o siebie zadbają. Gdy do każdej pracy podchodzisz entuzjastycznie i w duchu przyjacielskiej współpracy, wówczas wyróżniasz się spośród szerokiej większości pracowników, których najważniejsze troski dotycza przerw, korzyści, płac i fajrantu. Nie skarż się na swą pozycję czy płacę nikomu, nawet najlepszemu przyjacielowi. Słowo w końcu dotrze do szefa. Jakiego rodzaju pracownika wolałbyś mieć w swoim zespole - takiego, który nieustannie się skarży, czy też takiego, który jest zawszse pomocny, miły i wiarygodny?'
         }, {
             day: 24,
-            motto: '',
-            description: ''
+            motto: 'podobno henry ford obiecał 25 tysięcy dolarów każdemu, kto pokaże mu, w jaki sposób zaoszczędzić jedną nakrętkę lub śrubkę w każdym z produkowanych przez siebie samochodów',
+            description: 'Bez Henry\'ego Forda Ameryka nie byłaby dziś tym samym krajem. Jego obsesja obniżania kosztów i poprawy technologii pozwoliła na wyprodukowanie pierwszego samochodu, na który było stać zwykłych ludzi i doprowadziła do budowy rozległej sieci dróg i autostrad, która dała początek obecnemu ruchliwemu społeczeństwu amerykańskiemu. Wyznaczyła też w rozwoju technicznym etap pełnego zarządzania jakością i programów stałego ulepszania, które obowiązują obecnie w przemyśle motoryzacyjnym.<br>Wszystkim nam dobrze zrobiłaby lekcja zaczerpnięta z doświadczeń przemysłu motoryzacyjnego z ostatnich lat. Jeśli z zaangażowaniem skupiasz się na potrzebach i wymaganiach klientów, z czasem stajesz się dla nich niezbędny. Nic jednak nie trwa wiecznie. Dosłownie w każdej gałęzi przemysłu oczekuje się ciągłych ulepszeń, a wysoka jakość stała się w dzisiejszej globalnej gospodarce wymaganiem minimum. Liderami są ci, którzy znacznie przewyższają wynikami konkurencję w każdym aspekcie przedsięwzięcia.'
         }, {
             day: 25,
             motto: 'pokaż mi, jak zaoszczędzić drobną kwotę na dowolnej operacji w fabryce, a pokażę ci, jak zdobyć szybki i odpowiedni awans',
